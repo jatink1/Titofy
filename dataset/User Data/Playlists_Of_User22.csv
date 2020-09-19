@@ -1,0 +1,347 @@
+Playlist_Name,Username,Track_Title,Track_ID,Artist,Duration_ms,Popularity,Explicit,Album,Release_Date,Label,Danceability,Energy,Key,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Tempo,Time_Signature
+Classic Rock FTW,Joohee,Sweet Child O' Mine,7o2CTH4ctstm8TNelqjb51,Guns N' Roses,354520,82,False,Appetite For Destruction,1987-07-21,Geffen,0.454,0.91,6,-7.766,0.0448,0.0866,0.0996,0.116,125.116,4
+Classic Rock FTW,Joohee,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,AC/DC,255493,84,False,Back In Black,1980-07-25,Columbia,0.31,0.7,9,-5.678,0.047,0.011,0.00965,0.0828,188.386,4
+Classic Rock FTW,Joohee,Bohemian Rhapsody - 2011 Mix,4u7EnebtmKWzUH433cf5Qv,Queen,354320,83,False,A Night At The Opera (2011 Remaster),1975-11-21,EMI,0.414,0.404,0,-9.928,0.0499,0.271,0,0.3,71.105,4
+Classic Rock FTW,Joohee,Hey Jude - Remastered 2015,0aym2LBJBk9DAYuHHutrIl,The Beatles,425653,76,False,1 (Remastered),2000-11-13,UMC (Universal Music Catalogue),0.386,0.607,10,-7.7,0.0261,0.0112,1.38e-05,0.088,147.207,4
+Classic Rock FTW,Joohee,Somebody To Love - 2011 Mix,4rDbp1vnvEhieiccprPMdI,Queen,296480,75,False,A Day At The Races (Deluxe Edition 2011 Remaster),1976-12-10,EMI,0.406,0.698,8,-7.024,0.0624,0.186,0,0.233,109.266,3
+Classic Rock FTW,Joohee,Purple Haze,0wJoRiX5K5BxlqZTolB2LD,Jimi Hendrix,170813,73,False,Are You Experienced,1967-05-12,Legacy Recordings,0.533,0.905,2,-5.27,0.0754,0.00876,0.578,0.0698,108.9,4
+Classic Rock FTW,Joohee,Voodoo Child (Slight Return),2AxCeJ6PSsBYiTckM0HLY7,Jimi Hendrix,313373,67,False,Electric Ladyland,1968-10-25,Legacy Recordings,0.214,0.91,8,-6.662,0.389,0.48,0.00839,0.0517,175.561,4
+Classic Rock FTW,Joohee,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,AC/DC,208400,83,False,Highway to Hell,1979-07-27,Columbia,0.574,0.913,6,-4.793,0.133,0.061,0.00158,0.156,115.728,4
+Classic Rock FTW,Joohee,"Another Brick in the Wall, Pt. 2",4gMgiXfqyzZLMhsksGmbQV,Pink Floyd,238746,76,False,The Wall,1979-11-30,Pink Floyd Records,0.694,0.394,0,-15.881,0.0428,0.0781,0.000677,0.247,104.126,4
+Classic Rock FTW,Joohee,Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,Queen,214653,81,False,The Game (2011 Remaster),1980-06-27,EMI,0.933,0.528,5,-6.472,0.161,0.112,0.312,0.163,109.967,4
+Classic Rock FTW,Joohee,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,Pink Floyd,334743,77,False,Wish You Were Here,1975-09-12,Pink Floyd Records,0.481,0.262,7,-15.73,0.0414,0.735,0.0114,0.832,122.883,4
+Classic Rock FTW,Joohee,Renegade,1CQqupcyMg7176PPmIVmSj,Styx,257226,70,False,Pieces Of Eight,1978-01-01,A&M,0.492,0.552,7,-12.321,0.0341,0.0151,3.74e-05,0.0723,105.623,4
+Classic Rock FTW,Joohee,Money,0vFOzaXqZHahrZp6enQwQb,Pink Floyd,382834,73,False,The Dark Side of the Moon,1973-03-01,Pink Floyd Records,0.469,0.537,9,-10.421,0.152,0.0241,0.00201,0.269,124.193,1
+Classic Rock FTW,Joohee,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,The Beatles,259946,79,False,Abbey Road (Remastered),1969-09-26,EMI Catalogue,0.533,0.376,9,-11.913,0.0393,0.0302,0.248,0.0926,165.007,4
+Classic Rock FTW,Joohee,Eye of the Tiger,2HHtWyy5CgaQbC7XSoOb0e,Survivor,243773,74,False,Eye Of The Tiger,1982,Volcano,0.815,0.438,0,-14.522,0.0346,0.216,0.000466,0.0787,108.965,4
+Classic Rock FTW,Joohee,Wish You Were Here,6iMjntVYkchLBJcqsiSNYZ,Pink Floyd,321080,46,False,Echoes: The Best of Pink Floyd,2001-11-06,Pink Floyd Records,0.501,0.318,7,-13.753,0.0509,0.739,0.000528,0.376,121.633,4
+Classic Rock FTW,Joohee,The Man Who Sold the World - 2015 Remaster,4mWahKerLaVddUjb8d1Q4Q,David Bowie,241346,63,False,The Man Who Sold the World (2015 Remaster),1970-11-04,Parlophone UK,0.474,0.387,2,-14.416,0.0305,0.642,0.00557,0.143,118.488,4
+Classic Rock FTW,Joohee,Killer Queen - 2011 Mix,2AKOOhml62GZNFWDN7VqzT,Queen,179600,50,False,Sheer Heart Attack (2011 Remaster),1974-11-08,EMI,0.535,0.651,10,-6.326,0.0544,0.391,0,0.133,117.218,4
+Classic Rock FTW,Joohee,The Rain Song - Remaster,3JLrri1xSCui3bzITDJbkk,Led Zeppelin,459093,62,False,Houses of the Holy (Remaster),1973-03-28,Atlantic Records,0.336,0.318,0,-11.412,0.0263,0.317,0.0716,0.111,79.66,4
+Classic Rock FTW,Joohee,One of These Nights - 2013 Remaster,0EbLzgRAninN9VKUooiweR,Eagles,291685,47,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.655,0.606,7,-10.385,0.0285,0.0603,0.0789,0.0757,110.061,4
+Classic Rock FTW,Joohee,Witchy Woman - 2013 Remaster,1bNVtTNLgeOVgWUqBdXwyP,Eagles,250888,47,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.555,0.568,2,-12.205,0.0341,0.364,0.00167,0.116,98.507,4
+Classic Rock FTW,Joohee,Take It to the Limit - 2013 Remaster,10QgpqUonnv6spY6CEYUIg,Eagles,287090,47,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.435,0.423,11,-8.795,0.024,0.0916,0.000659,0.132,91.137,3
+Classic Rock FTW,Joohee,Hotel California - 2013 Remaster,2vIRpCpsekN5TiWq3Ua2Ht,Eagles,391376,47,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.579,0.508,2,-9.484,0.027,0.00574,0.000494,0.0575,147.125,4
+Classic Rock FTW,Joohee,I Can't Tell You Why - 2013 Remaster,3h3BszqrL1wR70ib2ipSiG,Eagles,295049,45,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.707,0.346,11,-12.397,0.0251,0.69,0.145,0.1,85.094,4
+Classic Rock FTW,Joohee,The Long Run - 2013 Remaster,3MV4Upk8fO5sU2n3V03NWX,Eagles,221234,43,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.803,0.521,0,-7.775,0.0276,0.139,0.00899,0.081,99.46,4
+Classic Rock FTW,Joohee,Time,3TO7bbrUKrOSPGRTB5MeCz,Pink Floyd,413947,70,False,The Dark Side of the Moon,1973-03-01,Pink Floyd Records,0.358,0.48,9,-11.79,0.0849,0.521,0.00428,0.178,120.317,4
+Classic Rock FTW,Joohee,Hey You,7F02x6EKYIQV3VcTaTm7oN,Pink Floyd,278440,68,False,The Wall,1979-11-30,Pink Floyd Records,0.588,0.301,0,-14.979,0.0294,0.221,0.00236,0.128,112.458,4
+Classic Rock FTW,Joohee,Animal,1emyhXPtmqzJJSdreIEf9X,Def Leppard,247093,40,False,Viva! Hysteria (Original Soundtrack),2013-10-18,Frontiers Records,0.551,0.922,1,-5.336,0.0396,3.87e-05,1.29e-05,0.98,122.063,4
+College,Joohee,Angels,7CKbqqrs0AS1si1ZgaQdcj,Robbie Williams,265333,63,False,Angels,1997-01-01,Chrysalis UK,0.431,0.59,4,-6.362,0.0284,0.163,1.11e-05,0.0981,150.193,4
+College,Joohee,Wow.,6MWtB6iiXyIwun0YzU6DFP,Post Malone,149520,12,True,Wow.,2018-12-24,Republic Records,0.833,0.539,11,-7.399,0.178,0.163,2.1e-06,0.101,99.947,4
+College,Joohee,Animals,2bL2gyO6kBdLkNSkxXNh6x,Maroon 5,231013,76,False,V,2014-09-02,Interscope Records*,0.279,0.742,4,-6.46,0.0898,0.000185,0,0.593,189.868,4
+College,Joohee,Wonderwall,0ViKGBsiDt52DwsLALWDSr,Oasis,258079,41,False,Stop The Clocks,2006-11-13,Big Brother,0.407,0.889,6,-4.362,0.0325,0.000691,0,0.189,174.585,4
+College,Joohee,TAlk tO Me (with Rich The Kid feat. Lil Wayne) - Remix,51w9Jbat1pLeWINGCpnQUR,Tory Lanez,248520,70,True,TAlk tO Me (with Rich The Kid feat. Lil Wayne) [Remix],2018-11-27,Mad Love/Interscope Records,0.698,0.66,0,-7.883,0.052,0.0226,0,0.0622,159.949,4
+College,Joohee,We Are Young (feat. Janelle Monáe),7a86XRg84qjasly9f6bPSD,fun.,250626,74,False,Some Nights,2012-02-21,Fueled By Ramen,0.378,0.638,10,-5.576,0.075,0.02,7.66e-05,0.0849,184.086,4
+College,Joohee,Counting Stars,6sy3LkhNFjJWlaeSMNwQ62,OneRepublic,257839,74,False,Native,2014-01-01,Mosley / Interscope,0.664,0.705,1,-4.972,0.0382,0.0654,0,0.115,122.017,4
+College,Joohee,Moves Like Jagger,64QftS2rGzpynevjuCsJXW,Maroon 5,201240,52,False,Skiing Workout Mix,2018-02-02,"UMG Recordings, Inc.",0.72,0.748,11,-4.468,0.0464,0.0124,0,0.312,128.008,4
+College,Joohee,Teenage Dream,5jzKL4BDMClWqRguW5qZvh,Katy Perry,227741,66,False,Teenage Dream,2010-01-01,Capitol Records,0.719,0.798,10,-4.582,0.0361,0.0162,2.34e-06,0.134,120.011,4
+College,Joohee,Royals,2dLLR6qlu5UJ5gk0dKz0h3,Lorde,190185,76,False,Pure Heroine,2013-09-27,Universal Music New Zealand Limited,0.674,0.428,7,-9.504,0.122,0.121,0,0.132,84.878,4
+College,Joohee,All of Me,3U4isOIWM3VvDubwSI3y7a,John Legend,269560,85,False,Love In The Future (Expanded Edition),2013-08-30,G.O.O.D. Music/Columbia,0.422,0.264,8,-7.064,0.0322,0.922,0,0.132,119.93,4
+College,Joohee,Shut Up and Dance,4kbj5MwxO1bq9wjT5g9HaA,WALK THE MOON,199080,80,False,TALKING IS HARD,2014-12-02,RCA Records Label,0.578,0.866,1,-3.804,0.0619,0.00701,0,0.257,128.038,4
+College,Joohee,Rude,6RtPijgfPKROxEzTHNRiDp,MAGIC!,224840,79,False,Don't Kill the Magic,2014-06-25,Latium Records/RCA Records,0.774,0.756,1,-4.995,0.0389,0.0423,0,0.305,144.032,4
+College,Joohee,"Happy - From ""Despicable Me 2""",5b88tNINg4Q4nrRbrCXUmg,Pharrell Williams,232720,11,False,G I R L,2014-03-03,Columbia,0.647,0.822,5,-4.662,0.183,0.219,0,0.0908,160.019,4
+College,Joohee,Uptown Funk (feat. Bruno Mars),32OlwWuMpZ6b0aN2RZOeMS,Mark Ronson,269666,82,False,Uptown Special,2015-01-12,Columbia,0.856,0.609,0,-7.223,0.0824,0.00801,8.15e-05,0.0344,114.988,4
+College,Joohee,Safe And Sound,6Z8R6UsFuGXGtiIxiD8ISb,Capital Cities,192789,79,False,In A Tidal Wave Of Mystery (Deluxe Edition),2013,Capital Cities,0.655,0.819,0,-4.852,0.0316,0.000176,0.00374,0.104,117.956,5
+College,Joohee,Tadow,51rPRW8NjxZoWPPjnRGzHw,Masego,301893,78,False,Lady Lady,2018-09-07,"EQT Recordings, LLC",0.704,0.487,9,-6.407,0.0604,0.669,8.64e-05,0.111,121.726,4
+College,Joohee,Playing Games,4hWgC5BV5M7EtTleKVXNxw,Summer Walker,143666,71,True,Over It,2019-10-04,LVRN/Interscope Records,0.759,0.413,11,-7.282,0.0494,0.7,0,0.14,115.893,4
+College,Joohee,Superpowers (with GoldLink),1iZjxPc5GJhEBl6CZOZXTw,Col3trane,182082,62,True,Heroine,2019-05-31,Cole Basta/Tap Records Limited/Geffen Records,0.823,0.372,1,-9.817,0.116,0.473,0,0.1,85.055,4
+College,Joohee,None Of Your Concern (feat. Big Sean),75MSZRbAbQuzfUV3Pefvut,Jhené Aiko,259386,67,True,Chilombo,2020-03-06,Def Jam Recordings,0.437,0.517,9,-9.329,0.225,0.856,0,0.109,82.757,4
+College,Joohee,I Love You So,1175r6ZmkUjX8dRJLz9Ohk,The Walters,160253,70,False,Songs for Dads,2014-11-28,The Walters,0.578,0.669,10,-4.898,0.0377,0.65,0,0.13,75.995,4
+College,Joohee,Marcel,5u9cuDcYdOpSRB7fAYXXdp,Her's,187571,60,False,Songs of Her's,2017-05-12,Heist Or Hit Records,0.625,0.645,9,-5.959,0.0278,0.54,0.0776,0.347,106.996,4
+College,Joohee,Still Beating,2N4idqj9TT3HnH2OFT9j0v,Mac DeMarco,181586,67,False,This Old Dog,2017-05-05,Captured Tracks,0.709,0.496,1,-10.528,0.0417,0.581,0.195,0.151,78.477,4
+College,Joohee,I'll Stand by You,7zdaLRVLJJSXjdQB1tFZRJ,Jake Wesley Rogers,204854,49,False,I'll Stand by You,2016-12-30,JWR/SonyATV,0.362,0.398,0,-6.444,0.0291,0.263,0,0.118,129.453,4
+College,Joohee,Dance Again,4d2hD63oUGU3s7L66JD0BE,Jennifer Lopez,237266,67,False,Dance Again...The Hits,2012-07-20,Epic,0.792,0.856,11,-5.236,0.067,0.0159,2.88e-06,0.0981,127.988,4
+College,Joohee,On The Floor - Radio Edit,0Oe49j06Bjrxs8PltuVeaW,Jennifer Lopez,230906,75,False,On The Floor,2011-01-01,Nuyorican Productions / IDJ,0.758,0.686,11,-6.346,0.0792,0.0848,0.00127,0.142,130.007,4
+College,Joohee,Can't Feel My Face - Martin Garrix Remix,22SXyL6pUjwIvGWvgGjLov,The Weeknd,252933,55,False,Can't Feel My Face (Martin Garrix Remix),2015-11-06,Universal Republic Records,0.608,0.722,9,-5.55,0.107,0.00791,2.84e-05,0.315,128.009,4
+College,Joohee,Just Can’t Get Enough,3JA9Jsuxr4xgHXEawAdCp4,Black Eyed Peas,219426,71,False,The Beginning,2010-01-01,A&M,0.659,0.628,0,-8.685,0.179,0.186,0,0.105,94.05,4
+College,Joohee,Pump It,2ygMBIctKIAfbEBcT9065L,Black Eyed Peas,213066,73,False,Monkey Business,2005-01-01,Universal Music Group International,0.648,0.931,1,-3.15,0.181,0.00937,0,0.752,153.649,4
+College,Joohee,I Gotta Feeling,4kLLWz7srcuLKA7Et40PQR,Black Eyed Peas,289133,79,False,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],2009-01-01,Interscope,0.743,0.766,0,-6.375,0.0265,0.0873,0,0.509,127.96,4
+College,Joohee,Problem,7fYbFYt7X4FZvuJJC90EX0,Ariana Grande,193893,0,False,My Everything,2014-08-21,Universal Music LLC,0.654,0.797,1,-5.278,0.182,0.0216,1.04e-05,0.131,102.998,4
+College,Joohee,Work from Home (feat. Ty Dolla $ign),4tCtwWceOPWzenK2HAIJSb,Fifth Harmony,214480,78,False,7/27 (Deluxe),2016-05-27,Syco Music/Epic,0.803,0.585,8,-5.861,0.0432,0.103,3.94e-06,0.0644,105.017,4
+College,Joohee,Counting Stars,519uJbE3zyKLlToVA65PrP,OneRepublic,257266,0,False,Native (Deluxe),2013-01-01,Interscope,0.665,0.7,1,-4.946,0.042,0.066,0,0.119,121.961,4
+College,Joohee,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",6JV2JOEocMgcZxYSZelKcc,Justin Timberlake,236001,78,False,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",2016-05-06,Villa 40/RCA Records,0.667,0.83,0,-5.715,0.0749,0.0123,0,0.191,113.03,4
+College,Joohee,Finally // beautiful stranger,42SOtYBdnfj9zEdZSlAq5k,Halsey,221095,64,False,Manic,2020-01-17,Capitol Records,0.626,0.55,9,-5.105,0.029,0.051,0,0.118,133.976,4
+College,Joohee,Mariposa,4ja2gzrNh9VNigzoXfmbwD,Peach Tree Rascals,210000,86,False,Mariposa,2019-08-28,"Homemade Projects, LLC / TenThousand Projects, LLC",0.676,0.525,9,-5.88,0.028,0.617,0,0.356,112.011,4
+College,Joohee,Dancing in the Moonlight (feat. NEIMY),5ow0sNF1zSqp71Ix5jEXWU,Jubël,164009,75,False,Dancing in the Moonlight (feat. NEIMY),2018-06-22,DGTLBEATS,0.659,0.617,11,-5.862,0.0649,0.27,0,0.187,119.858,4
+College,Joohee,Ride or Die (feat. Foster the People),38Zr5Q5O5o6CYaioIRHSqL,The Knocks,242034,55,False,New York Narcotic,2018-09-28,Big Beat/Neon Gold,0.648,0.75,0,-3.248,0.0335,0.0609,4.41e-06,0.104,105.03,4
+College,Joohee,Animal,1emyhXPtmqzJJSdreIEf9X,Def Leppard,247093,40,False,Viva! Hysteria (Original Soundtrack),2013-10-18,Frontiers Records,0.551,0.922,1,-5.336,0.0396,3.87e-05,1.29e-05,0.98,122.063,4
+College,Joohee,Strip That Down,6EpRaXYhGOB3fj4V2uDkMJ,Liam Payne,204502,4,False,Strip That Down,2017-05-18,Universal Music Group,0.869,0.485,6,-5.595,0.0545,0.246,0,0.0765,106.028,4
+College,Joohee,Best Day Of My Life - Single Version,6RxO08wzUmlE1sBc1bNZNW,American Authors,194240,60,False,"Oh, What A Life",2014-01-01,Island Records,0.673,0.902,2,-2.392,0.0346,0.0591,0.000262,0.0558,100.012,4
+College,Joohee,Love Never Felt So Good,48td6xvpokdYwvbl3JIiXP,Michael Jackson,246026,69,False,XSCAPE,2014-05-09,Epic/MJJ,0.775,0.719,7,-6.212,0.0435,0.132,1.79e-06,0.0662,117.513,4
+College,Joohee,We Found Love,3t4HeVfURZ5DuqMWz0Cmqg,Rihanna,215226,60,False,Talk That Talk (Deluxe),2012-07-18,Def Jam Recordings,0.734,0.766,1,-4.485,0.0383,0.025,0.00138,0.108,127.986,4
+College,Joohee,It's Time,3xqF04FdMK7gpIPG3SPFpY,Imagine Dragons,237986,0,False,Night Visions (Deluxe),2012-09-04,Universal Music Group,0.657,0.885,2,-4.695,0.0344,0.0168,0,0.147,105.011,4
+Dance Away,Joohee,All Night Long (All Night) - Single Version,4czNORk5MjW5WOn98bki32,Lionel Richie,258666,72,False,Back To Front,1992-01-01,Motown,0.748,0.603,1,-12.044,0.043,0.15,0.000261,0.0269,108.831,4
+Dance Away,Joohee,Rhythm Divine,4XifD1V0kWoG4WwsXTwS3y,Enrique Iglesias,209773,56,False,Enrique,1999-01-01,Interscope,0.628,0.971,9,-2.713,0.16,0.13,0,0.0937,101.999,4
+Dance Away,Joohee,Bailando - English Version,6BcMcVax12vNuOqnPOayZ1,Enrique Iglesias,243240,46,False,S** AND LOVE,2014-01-01,Universal Music Group International,0.719,0.844,7,-3.529,0.103,0.0793,0,0.0551,90.951,4
+Dance Away,Joohee,Candyman,5lUTzPuiloBHm1qEaJcJfF,Christina Aguilera,194213,65,False,Back To Basics,2006-08-14,RCA Records Label,0.686,0.789,8,-4.713,0.23,0.0125,0.0147,0.142,172.976,4
+Dance Away,Joohee,"Footloose - From ""Footloose"" Soundtrack",2vz1CsL5WBsbpBcwgboTAw,Kenny Loggins,226826,72,False,Footloose (15th Anniversary Collectors' Edition),1984,Columbia/Legacy,0.583,0.905,2,-6.132,0.0733,0.0984,0.00019,0.0593,173.982,4
+Dance Away,Joohee,Suavemente,6NkYVBFlyqBWbaK6HTItAm,Sue Sweets,222670,29,False,Latino Dance,2013-05-21,Mini Mak Musik,0.54,0.836,3,-3.471,0.117,0.0787,0,0.309,127.556,4
+Dance Away,Joohee,Fireball (feat. John Ryan),4Y7XAxTANhu3lmnLAzhWJW,Pitbull,236200,68,False,Globalization,2014-11-21,Mr.305/Polo Grounds Music/RCA Records,0.761,0.933,10,-5.38,0.056,0.0908,8.53e-05,0.0606,122.959,4
+Dance Away,Joohee,"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack",6W7ztLBiRzBN46ZaPAcQ0F,Bill Medley,290333,66,False,Dirty Dancing (Original Motion Picture Soundtrack),1987-09-24,RCA Records Label,0.697,0.669,6,-12.723,0.0406,0.0404,0.00897,0.0654,108.506,4
+Dance Away,Joohee,Crazy Little Thing Called Love,1F9NVicWfNQA5ki8WmEtk8,Queen,163342,63,False,Bohemian Rhapsody (The Original Soundtrack),2018-10-19,EMI,0.626,0.762,7,-6.846,0.0432,0.673,2.1e-06,0.325,76.793,4
+Dance Away,Joohee,I Just Called To Say I Love You,6RNDeRnWsRMjPdNVgupZCs,Stevie Wonder,262240,75,False,At The Close Of A Century,1999-11-23,UNI/MOTOWN,0.748,0.551,1,-9.054,0.0239,0.243,1.57e-06,0.0943,113.535,4
+Dance Away,Joohee,Iris - Acoustic,4ZbxCqfuccVoNMUqlS4Vgt,Adam Christopher,184200,43,False,Iris (Acoustic),2019-03-25,Tristar Records,0.575,0.249,2,-10.086,0.0328,0.717,0,0.106,150.028,3
+Dance Away,Joohee,Could I Have This Dance,7BCgPuJDZgPwOv1E4p6Cvq,Anne Murray,196466,49,False,Anne Murray The Best Of...So Far - 20 Greatest Hits,1994-01-01,EMI Music Canada,0.483,0.341,9,-9.833,0.0261,0.78,0.00157,0.188,87.31,3
+Dance Away,Joohee,Come Away With Me,0Cvjlph1WGbwZY1PlMEtJY,Norah Jones,198146,72,False,Come Away With Me,2002-02-26,Blue Note Records,0.363,0.129,0,-14.304,0.0322,0.904,1.52e-06,0.157,80.367,3
+Dance Away,Joohee,You And Me,0815caqt2Lytro5EIzMufT,Lifehouse,195493,76,False,Lifehouse,2005-03-22,Geffen,0.459,0.427,7,-7.734,0.0267,0.114,0,0.168,139.902,3
+Dance Away,Joohee,I Want You to Want Me,1JkZg3eMQTmTn93E8Yd3UL,Cheap Trick,191226,71,False,In Color,1977-09,Epic/Legacy,0.806,0.462,2,-12.778,0.0298,0.78,0.0134,0.15,92.726,4
+Dance Away,Joohee,"Happy - From ""Despicable Me 2""",5b88tNINg4Q4nrRbrCXUmg,Pharrell Williams,232720,11,False,G I R L,2014-03-03,Columbia,0.647,0.822,5,-4.662,0.183,0.219,0,0.0908,160.019,4
+Dance Away,Joohee,"La Bamba - Recorded at Gold Star- The B-side of ""Donna""",5obDoHNMQDHppEKwuxk3Bn,Ritchie Valens,129226,35,False,The Best Of Ritchie Valens,2006-01-24,Rhino,0.596,0.811,0,-6.596,0.0454,0.776,0.000153,0.33,74.936,4
+Dance Away,Joohee,Unchained Melody,2qhASBzpbFhPRtrnZ5lLnz,The Righteous Brothers,218013,72,False,Just Once In My Life,1965-04-04,Universal Records,0.339,0.208,0,-16.725,0.0308,0.396,0.000519,0.18,98.54,3
+Dance Away,Joohee,The Great Pretender,2FkCjtQ1lYsf71s2FAS8hE,The Platters,157360,63,False,The Platters Golden Hits,1986-01-01,Universal (MT),0.425,0.401,7,-9.427,0.0315,0.943,3.44e-06,0.072,115.71,3
+Dance Away,Joohee,Dream Lover - 2006 Remaster,4GqMYg91LJXiLjvQBFc3s0,Bobby Darin,151253,54,False,Definitive Pop: Bobby Darin,2007-02-05,Rhino/Elektra,0.526,0.608,5,-6.855,0.0468,0.703,0,0.438,131.851,4
+Dance Away,Joohee,I Love a Rainy Night,0zvNHIL7ci0ZzIoWU6RO2u,Eddie Rabbitt,191066,62,False,All Time Greatest Hits,1991,Warner Records,0.685,0.718,0,-7.724,0.0521,0.122,0,0.0556,131.463,4
+Dance Away,Joohee,Stuck In The Middle With You,1b7LMtXCXGc2EwOIplI35z,Stealers Wheel,203893,72,False,Reservoir Dogs (Original Motion Picture Soundtrack),2009-01-01,Geffen*,0.795,0.564,7,-10.482,0.0392,0.0934,0.000531,0.0631,124.166,4
+Dance Away,Joohee,I'm So Excited,2u8MGAiS2hBVE7GZzTZLQI,The Pointer Sisters,229466,68,False,Best Of,1989-10-21,Ariola,0.688,0.858,5,-6.496,0.0348,0.103,0.000118,0.147,92.253,4
+Dance Away,Joohee,In The Still of the Night,0GVvRmCoiLkhxJvlZy9bLk,The Five Satins,187666,59,False,For Collectors Only,1993,Oldies.com,0.43,0.33,6,-10.621,0.0353,0.876,0,0.105,108.824,3
+Dance Away,Joohee,Stand By Your Man,3PZAaFR5G3VEcrz2AljA41,Carla Bruni,163453,0,False,French Touch,2017-10-06,Universal Music Group,0.726,0.147,5,-12.437,0.0336,0.924,2.45e-06,0.105,105.816,4
+Dance Away,Joohee,Isn't She Lovely,6RANU8AS5ICU5PEHh8BYtH,Stevie Wonder,394266,69,False,Songs In The Key Of Life,1976-09-28,UNI/MOTOWN,0.481,0.826,1,-6.974,0.0851,0.182,0.00352,0.324,118.679,4
+Dance Away,Joohee,Be My Baby,2G2YzndIA6jeWFPBXhUjh5,The Ronettes,160906,71,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.511,0.769,4,-7.032,0.042,0.181,0,0.0921,129.657,4
+Dance Away,Joohee,Take It to the Limit - 2013 Remaster,10QgpqUonnv6spY6CEYUIg,Eagles,287090,47,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.435,0.423,11,-8.795,0.024,0.0916,0.000659,0.132,91.137,3
+Dance Away,Joohee,Why Don't We Just Dance,2p07VcUwRZ5sru3mJ0JogS,Josh Turner,192800,66,False,Haywire,2010,MCA Nashville,0.677,0.776,5,-5.933,0.0386,0.42,0.000689,0.0954,121.834,4
+Dance Away,Joohee,Give Me Your Heart Tonight - Single Version - Remastered 2004,7F0msG3NV7FtEL710E7CWt,Shakin' Stevens,185773,34,False,Shakin' Stevens - The Collection,2005-04-11,Epic,0.66,0.69,7,-4.412,0.0272,0.218,9.7e-06,0.111,128.087,4
+Dance Away,Joohee,Part-Time Lover,3M7a1QR1IFqmcbyL37d0b6,Stevie Wonder,252560,0,False,At The Close Of A Century,1999-01-01,UNI/MOTOWN,0.661,0.82,10,-7.219,0.0513,0.178,0,0.132,174.486,4
+Dance Away,Joohee,Mas Que Nada,6U7GUjtamt2P0LcFod1dBT,Sérgio Mendes,262840,60,False,Timeless,2006-01-01,Concord Records,0.747,0.928,5,-6.107,0.0824,0.0297,1.75e-06,0.113,100.065,4
+Dance Away,Joohee,Will You Love Me Tomorrow,0bwy3sGHeYwng2Ioicq6wf,The Shirelles,160693,63,False,Tonight's The Night,1961-01-01,Gusto Records,0.55,0.382,0,-6.429,0.0263,0.312,1.11e-05,0.221,136.128,4
+Been missing ya,Joohee,"Lover, You Should've Come Over",6Jv7kjGkhY2fT4yuBF3aTz,Jeff Buckley,404213,60,False,Grace,1994,Columbia/Legacy,0.385,0.595,2,-5.67,0.0398,0.361,1.09e-05,0.174,119.38,3
+Been missing ya,Joohee,High Flying Bird,2Il3PjJzZher0lI0FRXN2P,Elton John,252066,0,False,Temptation: Music From The Showtime Series Californication (International Version),2007,Universal International Music B.V.,0.589,0.567,8,-10.402,0.029,0.252,0.000985,0.109,127.416,4
+Been missing ya,Joohee,The Final Frame,1K7Au8g0mdUzD4ve0hXUg2,Michael Kiwanuka,299640,51,False,Love & Hate,2016-07-15,Polydor Records,0.371,0.325,5,-7.894,0.0449,0.644,0.00122,0.0983,168.598,4
+Been missing ya,Joohee,Love Comes To Everyone - 2004 Mix,1dYimSgEq46lJ30MKQP9l6,George Harrison,276213,49,False,George Harrison,1979-02-20,Parlophone,0.716,0.679,11,-9.088,0.0406,0.0735,0.00106,0.0506,107.168,4
+Been missing ya,Joohee,I'm Not In Love,5HQEmiV2lKnSO6qa2fsR7x,10cc,366640,70,False,The Original Soundtrack,1975,Virgin EMI,0.404,0.523,4,-15.7,0.0575,0.685,0.000498,0.282,133.738,4
+Been missing ya,Joohee,"If You Knew - Live at Sin-é, New York, NY - July/August 1993",1nd2JEHXbUuQFDiQzCBpsv,Jeff Buckley,268493,48,False,Live At Sin-é (Legacy Edition),1993,Columbia/Legacy,0.274,0.0637,8,-23.926,0.0446,0.896,0.00105,0.818,173.515,3
+Been missing ya,Joohee,Desperado - 2013 Remaster,7CtHtpkGwE4JAhg7wsmAit,Eagles,213712,47,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.228,0.224,7,-12.749,0.0311,0.946,0.000222,0.273,60.3,4
+Been missing ya,Joohee,The Best of My Love - 2013 Remaster,1SygWpTusxfl3yhOspfXbH,Eagles,274891,46,False,Their Greatest Hits 1971-1975 (2013 Remaster),1976,Rhino/Elektra,0.559,0.393,0,-11.095,0.0237,0.717,0,0.0532,90.105,4
+Been missing ya,Joohee,The Sad Cafe - 2013 Remaster,52LAN8RKkM2qdIKTqVdIUg,Eagles,332950,42,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.784,0.322,11,-11.455,0.0297,0.687,0.0142,0.0598,102.113,4
+Been missing ya,Joohee,After the Thrill Is Gone - 2013 Remaster,27XuPRuqwKqT4Eh2orSToo,Eagles,236663,42,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.572,0.358,7,-10.168,0.0292,0.407,0.00573,0.122,77.232,4
+Been missing ya,Joohee,Rewind,514q6NjO0jX0yVOOpTs2Ez,Paolo Nutini,258013,51,False,These Streets,2007-01-30,Atlantic Records,0.517,0.422,0,-9.227,0.0334,0.11,0,0.11,87.633,4
+Been missing ya,Joohee,Bring It On Home to Me,0WVTQp3SOCuMr08jh1jweV,Sam Cooke,162533,69,False,The Man Who Invented Soul,2000-09-26,RCA Records Label,0.523,0.402,0,-8.233,0.0305,0.778,0,0.432,70.863,4
+Been missing ya,Joohee,Rhythm of the Rain,7GHf8dQ2wA71wYOuRsQCZP,The Cascades,146360,61,False,Rhythm Of The Rain,1963,Rhino/Warner Records,0.659,0.66,0,-8.337,0.0441,0.627,0.000217,0.136,116.634,4
+Been missing ya,Joohee,Love Really Hurts Without You,4GhtDORJiSRYxj6M1bv0vX,Billy Ocean,179013,70,False,Billy Ocean (Expanded Edition),1976-01-05,Sony Music UK,0.518,0.907,5,-3.732,0.0343,0.00221,1.15e-05,0.0838,140.982,4
+Been missing ya,Joohee,I Will Survive - Single Version,7cv28LXcjAC3GsXbUvXKbX,Gloria Gaynor,198066,71,False,20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor,2000-01-01,Polydor,0.777,0.725,0,-8.681,0.05,0.0131,0.00805,0.246,116.669,4
+Oldies,Joohee,September,7Cuk8jsPPoNYQWXK9XRFvG,"Earth, Wind & Fire",215080,73,False,September,2018-04-17,Columbia/Legacy,0.694,0.831,9,-7.288,0.0301,0.165,0.000892,0.25,125.901,4
+Oldies,Joohee,Would I Lie To You?,3AGr9oU017BVQnT0zwkhyQ,Charles & Eddie,217973,41,False,Reeling In The Decades,2011-01-01,EMI Ireland,0.547,0.606,11,-8.39,0.0774,0.393,0,0.203,202.411,4
+Oldies,Joohee,I'd Love You To Want Me - Re-Recorded In Stereo,5O5FF65OXZtpzyr8JOu0jv,Lobo,252533,31,False,Best Of Lobo,1996-10-29,Curb Records,0.626,0.363,10,-13.457,0.03,0.501,2.32e-05,0.0994,74.829,4
+Oldies,Joohee,Fast Train,3691NKQMCy4TQTcdDMVeWL,Solomon Burke,343480,40,False,Don't Give Up On Me,2002,Anti/Epitaph,0.66,0.639,3,-9.826,0.0354,0.872,0.00642,0.103,126.329,4
+Oldies,Joohee,I Just Called To Say I Love You,6RNDeRnWsRMjPdNVgupZCs,Stevie Wonder,262240,75,False,At The Close Of A Century,1999-11-23,UNI/MOTOWN,0.748,0.551,1,-9.054,0.0239,0.243,1.57e-06,0.0943,113.535,4
+Oldies,Joohee,Let's Stay Together,3uJ8zHRASayItvcSRh8TIm,Al Green,198533,0,False,We Are Marshall Soundtrack,2007,EMI America Records,0.728,0.467,5,-7.394,0.0501,0.527,2.4e-05,0.0416,101.536,4
+Oldies,Joohee,Midnight Train to Georgia,6UaocmOO1bO7YwfHv9Kqcy,Gladys Knight & The Pips,280093,62,False,The Way We Were: The Best Of Gladys Knight & The Pips,2009-03-26,Legacy Recordings,0.579,0.477,10,-8.539,0.0367,0.127,0,0.0974,89.724,4
+Oldies,Joohee,All Things Must Pass - 2014 Mix,6QLFNz62dpOgQTloWuUbNh,George Harrison,226866,59,False,All Things Must Pass (Remastered),1970-11-27,UMC (Universal Music Catalogue),0.513,0.569,9,-8.278,0.029,0.468,0.00134,0.111,122.676,4
+Oldies,Joohee,When My Feet Don't Touch the Ground,0x1WMDHqcnJDvxp98qFTVD,Mike & The Mechanics,241706,22,False,The Singles 1985 - 2014,2014-01-20,BMG Rights Management (UK) Ltd,0.541,0.565,9,-7.116,0.0319,0.113,0.000304,0.126,92.977,4
+Oldies,Joohee,Total Eclipse of the Heart,3W8KQQD2FZPLVqflvYYyjT,Bonnie Tyler,270040,49,False,Heaven & Hell,1989,Columbia,0.435,0.559,8,-11.359,0.0687,0.213,0,0.0912,130.162,4
+Oldies,Joohee,True - Single Edit,0CsM8VGDi38kusMv3pxyj1,Spandau Ballet,328293,73,False,True - The Digital E.P.,2008-04-25,Parlophone UK,0.744,0.545,0,-9.361,0.0297,0.506,0.0977,0.0649,97.409,4
+Oldies,Joohee,Have I Told You Lately,1VsGYaCBFjCVudtX9IGqDg,Van Morrison,260386,69,False,Avalon Sunset,1989-06-06,Legacy Recordings,0.344,0.477,4,-10.266,0.0338,0.278,0.0128,0.136,143.78,4
+Oldies,Joohee,She,1U2GDtyT4VE6Mvc7u2LqKa,Elvis Costello,186173,0,False,Total 90s,2010-01-01,Universal Music AS,0.342,0.329,1,-10.164,0.0336,0.557,1.61e-05,0.114,126.487,4
+Oldies,Joohee,Time After Time,1Jj6MF0xDOMA3Ut2Z368Bx,Cyndi Lauper,243066,71,False,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),2014-03-28,Epic/Legacy,0.724,0.436,0,-9.321,0.0282,0.576,1.19e-06,0.0908,130.439,4
+Oldies,Joohee,I Heard a Heart Break Last Night,5Toizg7S3fxVEy5cCj0sbW,Jim Reeves,135466,19,False,The Essential Jim Reeves,1997-02-14,RLG/Legacy,0.475,0.265,9,-15.347,0.0284,0.642,1.04e-05,0.126,89.117,4
+Oldies,Joohee,Fire,65lHwG8JFJs67PnOUhCYPq,The Pointer Sisters,210640,56,False,Energy (Expanded Edition),1978,Legacy Recordings,0.65,0.615,1,-9.332,0.0342,0.201,0.00235,0.0805,118.294,4
+Oldies,Joohee,One Hell of a Woman,5Rx7GuDwsCWgBrcxJWC2E1,Mac Davis,170388,10,False,Greatest Hits,1972,Columbia,0.665,0.457,9,-15.16,0.041,0.277,0.000124,0.0888,120.175,4
+Oldies,Joohee,You Are The Sunshine Of My Life,0n2pjCIMKwHSXoYfEbYMfX,Stevie Wonder,178200,70,False,Talking Book,1972-10-28,Motown,0.519,0.46,11,-14.53,0.0688,0.823,5.97e-05,0.243,132.082,4
+Oldies,Joohee,Killing Me Softly With His Song (Live),5s7C7n1KapyZiYIV2Z9ASU,Roberta Flack,311440,4,False,"The Best, Live!",2008-09-02,Delta,0.444,0.227,5,-14.664,0.0388,0.859,0,0.85,138.299,4
+Oldies,Joohee,Oh Girl,0cFlXjTxFdMGGPfLVpt3Wv,The Chi-Lites,216280,51,False,20 Greatest Hits,2001,Brunswick Records,0.418,0.402,10,-12.942,0.0288,0.226,0,0.103,133.683,4
+Oldies,Joohee,Do You Want To Know A Secret - Remastered,5FBxWhG0nbBAF6lWgJFklM,The Beatles,117013,0,False,Please Please Me (Remastered),1963-03-22,EMI Catalogue,0.673,0.349,4,-12.414,0.0368,0.608,0,0.38,124.451,4
+Oldies,Joohee,While My Guitar Gently Weeps - Remastered 2009,389QX9Q1eUOEZ19vtzzI9O,The Beatles,285000,70,False,The Beatles (Remastered),1968-11-22,EMI Catalogue,0.453,0.654,4,-8.855,0.0317,0.0205,0.00395,0.172,115.0,4
+Oldies,Joohee,Michelle - Remastered,0yZEKwCNhkyaqk1ZyCZU7A,The Beatles,162373,0,False,Rubber Soul (Remastered),1965-12-03,EMI Catalogue,0.578,0.29,5,-12.501,0.0341,0.652,0,0.105,117.403,4
+Oldies,Joohee,Come and Get Your Love - Single Version,7GVUmCP00eSsqc4tzj1sDD,Redbone,205933,77,False,Come and Get Your Love,1973-11-01,Epic/Legacy,0.731,0.804,11,-7.621,0.0473,0.172,0.00028,0.0685,107.383,4
+Oldies,Joohee,Endless Love,5iwyLsQ5yjnCaRrJGyAPZM,Lionel Richie,266800,72,False,Back To Front,1992-01-01,Motown,0.483,0.268,10,-11.809,0.0257,0.866,0.0163,0.145,93.47,4
+Oldies,Joohee,Love Of My Life - Remastered 2011,4YJUTdZ0Pgl0ZeNyHYXeLd,Queen,217386,73,False,A Night At The Opera (Deluxe Edition 2011 Remaster),1975-11-21,EMI,0.329,0.179,5,-11.589,0.0299,0.933,5.04e-06,0.115,154.175,4
+Oldies,Joohee,The Boss,5kfQK1Vb1mKSwzVn32Tarj,Diana Ross,241333,55,False,The Boss,1979-05-23,Motown,0.639,0.905,4,-4.215,0.0543,0.235,4.93e-05,0.206,123.66,4
+Oldies,Joohee,Like a Prayer,1z3ugFmUKoCzGsI6jdY4Ci,Madonna,342680,71,False,Celebration (double disc version),2009-09-18,Warner Records,0.624,0.842,5,-5.285,0.0376,0.264,2.11e-05,0.181,111.037,4
+Oldies,Joohee,Sunny - Remastered,1PNnkdGkswIB1MMi8wPKtq,Paul Carrack,198000,50,False,Still Groovin (Remastered),2014-02-16,Carrack UK,0.649,0.497,5,-11.342,0.0261,0.213,2.54e-06,0.1,111.97,4
+Oldies,Joohee,Where Do You Go,1lkfcyCLP0KPykSLIgh1VT,No Mercy,271440,51,False,Greatest Hits,2007,MCI,0.673,0.895,10,-6.241,0.0317,0.0153,0.0717,0.128,127.053,4
+Oldies,Joohee,Harvest Moon,2eHuQmecUoD8uSDRAHhAcs,Bedlam,158106,36,False,Reservoir Dogs (Original Motion Picture Soundtrack),2009-01-01,Geffen*,0.537,0.404,2,-11.901,0.0292,0.379,2.8e-06,0.234,84.436,4
+Oldies,Joohee,Hooked On A Feeling,5dJSrn1RKceOPDyb4DAe4w,Blue Swede,173760,1,False,Reservoir Dogs (Original Motion Picture Soundtrack),2009-01-01,Geffen*,0.536,0.691,8,-11.03,0.111,0.296,0,0.319,118.3,4
+Oldies,Joohee,Hymn to Her - 2007 Remaster,246wvuEUJB2M39uBZTcHu5,Pretenders,298319,53,False,Get Close (2007 Remaster),1980,Rhino,0.545,0.552,0,-9.351,0.0346,0.127,0,0.118,95.166,4
+Oldies,Joohee,In The Still of the Night,0GVvRmCoiLkhxJvlZy9bLk,The Five Satins,187666,59,False,For Collectors Only,1993,Oldies.com,0.43,0.33,6,-10.621,0.0353,0.876,0,0.105,108.824,3
+Oldies,Joohee,Band On The Run - Remastered 2010,1H4idkmruFoJBg1DvUv2tY,Wings,313026,72,False,Band On The Run (Standard),1973-12-05,Paul McCartney Catalog,0.479,0.601,7,-8.806,0.0318,0.0832,0.00142,0.11,124.966,4
+Oldies,Joohee,Save The Last Dance,4x43AGKvOdaEFNZQGQLHIB,The Cats,184560,47,False,Like The Old Days,1977-01-01,Universal Music B.V.,0.595,0.523,4,-10.263,0.0255,0.436,0.000514,0.208,104.116,4
+Oldies,Joohee,I'm Not In Love,5HQEmiV2lKnSO6qa2fsR7x,10cc,366640,70,False,The Original Soundtrack,1975,Virgin EMI,0.404,0.523,4,-15.7,0.0575,0.685,0.000498,0.282,133.738,4
+Oldies,Joohee,Love Comes To Everyone - 2004 Mix,1dYimSgEq46lJ30MKQP9l6,George Harrison,276213,49,False,George Harrison,1979-02-20,Parlophone,0.716,0.679,11,-9.088,0.0406,0.0735,0.00106,0.0506,107.168,4
+Oldies,Joohee,Heroes - 2017 Remaster,7Jh1bpe76CNTCgdgAdBw4Z,David Bowie,371413,75,False,"""Heroes"" (2017 Remaster)",1977,Parlophone UK,0.49,0.758,7,-6.491,0.0297,0.000671,0.484,0.092,112.114,4
+Oldies,Joohee,Killing Me Softly with His Song,3gsCAGsWr6pUm1Vy7CPPob,Roberta Flack,286920,73,False,Killing Me Softly,1973-01-01,Atlantic Records,0.477,0.381,5,-10.237,0.0342,0.727,0,0.0615,121.568,4
+Oldies,Joohee,Let It Be - Remastered 2009,7iN1s7xHE4ifF5povM6A48,The Beatles,243026,78,False,Let It Be (Remastered),1970-05-08,EMI Catalogue,0.443,0.403,0,-8.339,0.0322,0.631,0,0.111,143.462,4
+Oldies,Joohee,Isn't She Lovely,6RANU8AS5ICU5PEHh8BYtH,Stevie Wonder,394266,69,False,Songs In The Key Of Life,1976-09-28,UNI/MOTOWN,0.481,0.826,1,-6.974,0.0851,0.182,0.00352,0.324,118.679,4
+Oldies,Joohee,The Man Who Sold the World - 2015 Remaster,4mWahKerLaVddUjb8d1Q4Q,David Bowie,241346,63,False,The Man Who Sold the World (2015 Remaster),1970-11-04,Parlophone UK,0.474,0.387,2,-14.416,0.0305,0.642,0.00557,0.143,118.488,4
+Oldies,Joohee,Let's Stay Together,63xdwScd1Ai1GigAwQxE8y,Al Green,199396,74,False,Let's Stay Together,1972,Fat Possum,0.756,0.397,7,-10.701,0.0522,0.57,0.0115,0.0542,101.985,4
+Oldies,Joohee,Into Your Arms,2rD9tU2bws0PgOPsI6aIZo,The Lemonheads,164706,56,False,Come On Feel The Lemonheads,1993,Fire Records,0.504,0.782,2,-9.27,0.0301,0.0661,1.31e-06,0.115,123.883,4
+Oldies,Joohee,Dream A Little Dream Of Me,4xP9rjS2iT1ANZPDKPTAgR,Ella Fitzgerald,187466,0,False,ELLA & LOUIS The Very Best Of Ella Fitzgerald & Louis Armstrong,2011-01-06,Track Music,0.456,0.236,9,-9.372,0.0862,0.924,0,0.184,79.058,4
+Oldies,Joohee,Islands in the Stream,6apPqjW8ezpKEicAkkBlvO,Dolly Parton,250053,68,False,Pure & Simple,2016-08-19,RCA Records Label Nashville,0.611,0.524,8,-8.256,0.035,0.68,0,0.0753,203.787,4
+Oldies,Joohee,Can't Take My Eyes Off You,00jlyC6x233qlS1vhLHdA3,Andy Williams,192840,49,False,The Very Best Of Andy Williams,2009-10-05,Columbia/Legacy,0.629,0.397,0,-10.483,0.0337,0.452,0.00011,0.504,124.55,4
+Oldies,Joohee,All The Things You Are,1tTOZjvzrkQSSf6XZFS2AY,Carly Simon,229973,41,False,Sunday Morning,2010-12-17,Sony Music Entertainment,0.42,0.353,9,-10.154,0.0294,0.889,5.53e-05,0.107,111.938,4
+Oldies,Joohee,For Once in My Life,0aei3EH5p7mzipPPAXxpzq,Michael Bublé,153533,56,False,Michael Bublé,2003,143/Reprise,0.551,0.493,10,-5.685,0.0378,0.646,0,0.287,94.415,4
+Oldies,Joohee,I've Got a Crush On You,0Kp6wskdOWA5U74pbtZ3qQ,Steve Tyrell,152000,59,False,This Guy's In Love,2003-10-27,Columbia,0.568,0.375,7,-9.167,0.0319,0.535,0.000107,0.103,79.09,4
+Oldies,Joohee,"Moon River (From ""Breakfast at Tiffany's"")",24AIahNHzBxm9S12peXbnG,Andy Williams,162893,65,False,Moon River And Other Great Movie Themes,1962,Columbia,0.281,0.212,6,-15.513,0.031,0.86,7.73e-05,0.119,95.555,3
+Oldies,Joohee,"Signed, Sealed, Delivered (I'm Yours)",2wzuKCh60aNfbF19g9pT44,Stevie Wonder,158226,0,False,At The Close Of A Century,1999-01-01,UNI/MOTOWN,0.645,0.778,5,-5.009,0.0339,0.013,0,0.0524,108.798,4
+Oldies,Joohee,Stuck On You,6HPLeKiNm92RbykX2BDTUB,Lionel Richie,192066,70,False,Can't Slow Down,1983-01-01,Motown,0.509,0.317,5,-16.063,0.0305,0.621,5.28e-05,0.0878,131.783,4
+Oldies,Joohee,Right Here Waiting,4LFwNJWoj74Yd71fIr1W8x,Richard Marx,264333,75,False,Repeat Offender,1989-01-01,Capitol Records,0.395,0.252,0,-13.589,0.0301,0.8,0,0.101,177.679,4
+Oldies,Joohee,Will You Still Love Me Tomorrow,6NX13aUEcfWemDclEVoflR,Lobo,286880,35,False,All Time Greatest Performances,2014,Fuel Records,0.704,0.41,7,-12.711,0.0283,0.315,1.8e-05,0.0691,112.902,4
+Oldies,Joohee,Stuck In The Middle With You,3Vby4nGmtbDo7HDJamOWkT,Stealers Wheel,208946,70,False,Stealers Wheel,1972-01-01,UMC (Universal Music Catalogue),0.82,0.575,7,-9.144,0.0408,0.0936,0.000135,0.109,123.765,4
+Oldies,Joohee,I Want You Back,2OSfEYKhlSsLx6vn4O75RK,The Jackson 5,178493,64,False,Greatest Hits,1971-01-01,Motown,0.667,0.669,8,-6.264,0.0326,0.441,0.0023,0.215,98.264,4
+Oldies,Joohee,Brandy (You're a Fine Girl),2BY7ALEWdloFHgQZG6VMLA,Looking Glass,186826,74,False,Looking Glass,1972,Epic/Legacy,0.716,0.625,1,-11.369,0.0601,0.396,1.97e-05,0.134,125.276,4
+Oldies,Joohee,Fooled Around And Fell In Love,2hE5Lm5XOHR4t3xlhIFauP,Elvin Bishop,276000,61,False,Struttin' My Stuff,1975-01-01,Mercury,0.633,0.621,10,-11.494,0.0313,0.042,0.0172,0.186,113.325,3
+Oldies,Joohee,Cherry Bomb,7cdnq45E9aP2XDStHg5vd7,The Runaways,138706,67,False,The Runaways,1976,Island Def Jam,0.501,0.813,11,-8.192,0.0639,0.0455,4.75e-05,0.131,136.59,4
+Oldies,Joohee,Joy To The World,2ymeOsYijJz09LfKw3yM2x,Three Dog Night,220573,66,False,Naturally,1970-01-01,Geffen*,0.649,0.679,2,-12.515,0.0316,0.464,0.00121,0.339,126.867,4
+Oldies,Joohee,My Sweet Lord - 2014 Mix,0qdQUeKVyevrbKhAo0ibxS,George Harrison,281226,76,False,All Things Must Pass (Remastered),1970-11-27,UMC (Universal Music Catalogue),0.537,0.701,1,-8.913,0.0335,0.0972,0,0.0832,120.919,4
+Oldies,Joohee,The Chain - 2004 Remaster,5e9TFTbltYBg2xThimr0rU,Fleetwood Mac,270213,80,False,Rumours (Super Deluxe),1977-02-04,Rhino/Warner Records,0.545,0.67,9,-8.81,0.0496,0.009,0.000822,0.0451,151.553,4
+Oldies,Joohee,Ain't No Mountain High Enough - Mono Version,4njseCGxWeZUksjhrqkleT,Marvin Gaye,148093,0,False,Anthology,1995-01-01,Universal/Island Def Jam,0.621,0.825,7,-6.005,0.0324,0.355,0.000932,0.152,129.168,4
+Oldies,Joohee,What A Feeling,0aAR5HogGoT68EWFbyRFqx,Irene Cara,244533,70,False,What A Feeling,2007-01-01,Cleopatra,0.532,0.729,10,-6.84,0.0474,0.382,0,0.366,121.97,4
+Oldies,Joohee,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,Stevie Wonder,222600,65,False,Innervisions,1973-08-03,Motown,0.716,0.85,8,-9.949,0.0426,0.0631,0.00133,0.189,125.474,4
+Oldies,Joohee,Through the Fire,7gh2v4IHnxdiwSgA6xluhe,Chaka Khan,286693,60,False,I Feel for You,1984,Rhino/Warner Records,0.569,0.589,8,-7.395,0.0306,0.166,6.91e-06,0.132,130.865,4
+Oldies,Joohee,Day Dreaming,7L4G39PVgMfaeHRyi1ML7y,Aretha Franklin,239960,59,False,"Young, Gifted and Black",1972-01-24,Rhino Atlantic,0.463,0.273,0,-15.364,0.074,0.907,0.000367,0.101,146.426,4
+Oldies,Joohee,Lovely Day,0bRXwKfigvpKZUurwqAlEh,Bill Withers,254560,75,False,Menagerie,1977-10-29,Columbia/Legacy,0.69,0.651,9,-8.267,0.0324,0.292,0.00241,0.105,97.918,4
+Oldies,Joohee,My Cherie Amour,5ZoDwIP1ntHwciLjydJ8X2,Stevie Wonder,173306,64,False,My Cherie Amour,1969-08-01,Motown,0.574,0.507,6,-11.343,0.0258,0.228,4.57e-06,0.279,101.085,4
+Oldies,Joohee,To Love Somebody,0mbS3VwRbO6HVBMPXnzOGA,Bee Gees,182000,67,False,Bee Gees' 1st,1967-07-14,Bee Gees Catalog,0.423,0.384,9,-12.503,0.0315,0.729,4.11e-06,0.27,90.43,4
+Oldies,Joohee,Roxanne - Remastered 2003,3FmAUR4SPWa3P1KyDf21Fu,The Police,191500,2,False,Outlandos D'Amour (Remastered),1978-11-02,Universal Music Group,0.618,0.748,0,-8.905,0.361,0.0384,4.1e-06,0.0477,134.001,4
+Oldies,Joohee,"Rocket Man (I Think It's Going To Be A Long, Long Time)",3gdewACMIVMEWVbyb8O9sY,Elton John,281613,82,False,Honky Chateau,1972-05-19,EMI,0.601,0.532,10,-9.119,0.0286,0.432,6.25e-06,0.0925,136.571,4
+Oldies,Joohee,Stayin' Alive - Remastered Version,3LmpQiFNgFCnvAnhhvKUyI,Bee Gees,285200,0,False,Number Ones,2004-11-09,Bee Gees/Reprise,0.675,0.899,10,-6.124,0.0418,0.0696,0.000139,0.33,103.683,4
+Oldies,Joohee,September,3wpLkju0bJy89kjgdRys0j,"Earth, Wind & Fire",215080,66,False,"The Essential Earth, Wind & Fire",2014-03-25,Columbia/Legacy,0.694,0.831,9,-7.288,0.0301,0.165,0.000892,0.25,125.901,4
+Oldies,Joohee,Hold the Line,17arUdDWEinOOVrrVUkEM7,TOTO,236106,64,False,The Essential Toto,2014-06-23,Legacy Recordings,0.482,0.835,6,-7.68,0.0539,0.0191,0.0143,0.162,96.444,4
+Oldies,Joohee,"Take Me Home, Country Roads",5LV3AJZ7KOKCpoou8kny79,John Denver,190040,0,False,The Essential John Denver,2007-02-27,RCA/Legacy,0.456,0.383,9,-9.516,0.0263,0.715,0,0.127,82.026,4
+Oldies,Joohee,"December, 1963 (Oh, What a Night)",4nuPrKithHbRJXuA9spwu4,Frankie Valli & The Four Seasons,201093,1,False,"December, 1963 (Oh, What a Night) / Slip Away",1975,Rhino,0.729,0.6,1,-9.527,0.0255,0.0663,7.86e-06,0.0382,104.414,4
+Oldies,Joohee,Wonderful Tonight,6zC0mpGYwbNTpk9SKwh08f,Eric Clapton,225026,76,False,Slowhand 35th Anniversary (Super Deluxe),1977-11-01,Universal Music Group International,0.572,0.214,7,-15.625,0.0293,0.649,0.129,0.125,95.542,4
+Oldies,Joohee,"Signed, Sealed, Delivered (I'm Yours)",3M5eeHXgG4VplKNcsBC8Dj,Stevie Wonder,160500,2,False,Signed Sealed And Delivered,1970-08-01,Universal Music Group,0.67,0.619,0,-10.365,0.0323,0.0514,0,0.0492,108.826,4
+Oldies,Joohee,I Got Lucky,0j5u1HPcFQxKDJQ89zwOFn,Elvis Presley,115720,51,False,I Got Lucky,1971-10-01,RCA/Legacy,0.731,0.386,0,-12.331,0.0444,0.838,0,0.195,92.867,4
+Oldies,Joohee,Take It Easy - 2013 Remaster,4yugZvBYaoREkJKtbG08Qr,Eagles,211577,77,False,Eagles (2013 Remaster),1972,Rhino/Elektra,0.575,0.67,7,-10.39,0.0318,0.343,4.95e-06,0.129,139.191,4
+Oldies,Joohee,Psycho Killer - 2005 Remaster,1i6N76fftMZhijOzFQ5ZtL,Talking Heads,261413,73,False,Talking Heads '77 (Deluxe Version),1977-09-16,Rhino/Warner Records,0.721,0.521,2,-8.123,0.0612,0.0707,0.00552,0.127,123.118,4
+Oldies,Joohee,Have You Ever Seen The Rain,2LawezPeJhN4AWuSB0GtAU,Creedence Clearwater Revival,160133,78,False,Pendulum (40th Anniversary Edition),1970-12-07,Universal Music Group International,0.741,0.697,0,-7.028,0.0277,0.0664,2.28e-05,0.133,116.109,4
+Oldies,Joohee,Dancing Queen,2ATDkfqprlNNe9mYWodgdc,ABBA,231093,64,False,ABBA Gold,2008-01-01,Polar Music International AB,0.512,0.93,9,-4.344,0.0508,0.168,0.00119,0.561,100.542,4
+Oldies,Joohee,Fantasy - Single Version,3YcusdF0VAb25wLvmvJDJ6,"Earth, Wind & Fire",226213,1,False,"The Best Of Earth, Wind & Fire Vol. 1",1978-11-23,Columbia/Legacy,0.666,0.714,4,-9.448,0.0617,0.291,0.0212,0.128,89.018,4
+Oldies,Joohee,Dancing In The Moonlight,55GxhCTq6SY3tFTVh7z1nR,King Harvest,178045,57,False,Dancing In The Moonlight,1973-01-01,Universal Music Division Mercury Records,0.653,0.719,10,-5.262,0.0363,0.684,0,0.408,136.153,4
+Oldies,Joohee,Jamming,4N8UFEJSemqrX1JqFSXln1,Bob Marley & The Wailers,211000,1,False,Exodus,1977,Universal/Island Def Jam,0.941,0.473,11,-10.976,0.274,0.148,2.65e-05,0.112,123.673,4
+Oldies,Joohee,I Can See Clearly Now,0oCT5rVvMdPPUm0bxG7yzT,Johnny Nash,162653,55,False,Radio Hits Of the '70s,1972,Legacy Recordings,0.683,0.53,2,-8.542,0.0601,0.41,7.43e-05,0.06,124.392,4
+Oldies,Joohee,Now That We Found Love,1Epi7F7o1i0JRG49swvUWJ,The O'Jays,281200,0,False,Original Album Classics,1972,Legacy Recordings,0.719,0.645,0,-8.405,0.0387,0.251,4.09e-06,0.273,113.965,4
+Oldies,Joohee,Afternoon Delight,3TQOqBFEKUEab8CO1pi5A8,Starland Vocal Band,193040,0,False,Starland Vocal Band,2004-01-01,Razor & Tie,0.491,0.439,5,-11.67,0.0301,0.529,0,0.102,147.062,4
+Oldies,Joohee,"Up Where We Belong - From ""An Officer And A Gentleman"" Soundtrack",4NpJelqZbsX8U8CY1XF2p1,Joe Cocker,232666,0,False,The Anthology,1999-01-01,Interscope,0.628,0.307,2,-11.813,0.0328,0.643,1.86e-05,0.0718,139.259,4
+Oldies,Joohee,I'm A Believer,1Dix6w1eVOCVNLqehxLXH1,Four Tops,157200,39,False,Reach Out,2004-01-01,Motown,0.634,0.658,2,-10.254,0.0317,0.058,0,0.184,83.043,4
+Oldies,Joohee,You've Really Got A Hold On Me,7wLRmjiDYI6flIVzboUqSV,The Miracles,177706,57,False,The Fabulous Miracles,1963-01-01,UNI/MOTOWN,0.68,0.448,0,-8.398,0.0302,0.698,0,0.227,118.461,3
+Oldies,Joohee,(Your Love Keeps Lifting Me) Higher & Higher,4TBBPZks71c60whhq0PgdP,Jackie Wilson,181066,69,False,The Ultimate Jackie Wilson,2006,Brunswick Records,0.631,0.69,2,-6.676,0.0531,0.176,0,0.121,94.574,4
+Oldies,Joohee,Everything Under The Sun,58ufLjZR3Jc2gqRf9Mi22w,The Ronettes,223520,18,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.335,0.632,5,-6.824,0.0391,0.34,7.7e-05,0.667,63.245,4
+Oldies,Joohee,I Can Hear Music,1Qf3si9AhOhAgYkF1md0FB,The Ronettes,196120,31,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.604,0.51,2,-8.915,0.0299,0.489,0,0.318,121.56,4
+Oldies,Joohee,Walking In the Rain,6LHzCuLzfZQr0V8eZD9TPC,The Ronettes,196720,35,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.495,0.649,10,-8.295,0.032,0.434,0,0.1,108.031,4
+Oldies,Joohee,Born To Be Together,61xuOY4bOj3Z75SrUQ2Aqa,The Ronettes,179346,20,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.309,0.562,7,-8.014,0.033,0.229,0.0749,0.294,133.706,4
+Oldies,Joohee,You Baby,1uvgCsJtH7vWUMAdv4mWa5,The Ronettes,175333,23,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.506,0.517,0,-8.984,0.0395,0.396,0.0065,0.395,115.379,4
+Oldies,Joohee,I Wonder,641hvf75Y2JJuvdBznk9uc,The Ronettes,169693,24,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.479,0.807,5,-8.48,0.0656,0.301,0,0.158,135.012,4
+Oldies,Joohee,Do I Love You?,1XQOj2js9ridhhuRVnpKB0,The Ronettes,176146,32,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.462,0.714,1,-8.772,0.0386,0.557,0.000881,0.0368,144.952,4
+Oldies,Joohee,"Baby, I Love You",4V6ZLk1IHdG00qu3B4m8Y9,The Ronettes,171480,47,False,Be My Baby: The Very Best of The Ronettes,2011-02-22,Legacy Recordings,0.545,0.802,3,-8.275,0.0358,0.208,3.7e-05,0.086,115.692,4
+Oldies,Joohee,I Will Survive - 1981 Re-recording,7DD1ojeTUwnW65g5QuZw7X,Gloria Gaynor,261173,64,False,I Will Survive,1981,Dessca/Marfontaine,0.668,0.678,9,-10.317,0.056,0.00293,0,0.265,120.029,4
+Oldies,Joohee,Le Freak - 2018 Remaster,7Kszjzps0xbQXyo1pO4KfE,CHIC,331360,67,False,C'est Chic (2018 Remaster),1978-08-11,Rhino Atlantic,0.91,0.641,7,-11.316,0.0589,0.0258,6.42e-05,0.0642,118.533,4
+Oldies,Joohee,What's Love Got to Do with It - 2015 Remaster,3ErsOxqe2RmXkR65wkygDz,Tina Turner,230240,64,False,Private Dancer (30th Anniversary Issue),1984-05-29,Parlophone UK,0.855,0.48,1,-8.902,0.0588,0.254,2.16e-05,0.151,97.793,4
+Oldies,Joohee,My Favourite Waste of Time,6Qynz40kf6RhObVnAJwRUo,Owen Paul,203680,32,False,The Definitive 80's (eighties),2007-12-10,Sony BMG Music Entertainment,0.692,0.945,0,-7.007,0.0309,0.183,4.81e-06,0.384,119.389,4
+Oldies,Joohee,I Will Survive - Single Version,7cv28LXcjAC3GsXbUvXKbX,Gloria Gaynor,198066,71,False,20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor,2000-01-01,Polydor,0.777,0.725,0,-8.681,0.05,0.0131,0.00805,0.246,116.669,4
+Oldies,Joohee,"Hot Stuff - 12"" Version",2Vnw8zKmjhr1jczUeaqiQg,Donna Summer,407053,67,False,Bad Girls (Deluxe Edition),1979-04-25,Island Def Jam,0.796,0.892,0,-8.31,0.0333,0.00475,0.0187,0.0717,120.4,4
+Oldies,Joohee,You Sexy Thing,714hERk9U1W8FMYkoC83CO,Hot Chocolate,244920,72,False,Hot Chocolate,1975,Parlophone UK,0.791,0.734,5,-5.464,0.0629,0.522,0.00165,0.167,105.854,4
+Oldies,Joohee,Love Really Hurts Without You,4GhtDORJiSRYxj6M1bv0vX,Billy Ocean,179013,70,False,Billy Ocean (Expanded Edition),1976-01-05,Sony Music UK,0.518,0.907,5,-3.732,0.0343,0.00221,1.15e-05,0.0838,140.982,4
+Oldies,Joohee,Gold,2X9fsxb6O6bYEopJYmUbNC,Spandau Ballet,231480,68,False,Gold - The Best of Spandau Ballet,2000-05-15,Parlophone UK,0.711,0.74,10,-7.776,0.036,0.261,0.0114,0.104,143.047,4
+Oldies,Joohee,Time After Time,7o9uu2GDtVDr9nsR7ZRN73,Cyndi Lauper,241333,72,False,She's So Unusual,1983-10-14,Portrait,0.726,0.449,0,-9.206,0.0286,0.487,1.34e-06,0.0824,130.388,4
+Oldies,Joohee,Video Killed The Radio Star - Single Version,7nm8w9dMwTjlWDosdnxBSn,The Buggles,197906,59,False,Video Killed The Radio Star / Kid Dynamo,2009-01-01,Universal Music Group International,0.742,0.788,1,-10.803,0.0669,0.0862,0.00768,0.292,130.849,4
+Oldies,Joohee,Going Back to My Roots - Single Version,2ce4RsJ38JH1iroQhoph3J,Odyssey,205506,52,False,I Got the Melody (Expanded Edition),1981-05-01,RCA/Legacy,0.698,0.853,1,-9.667,0.0353,0.0551,0.00196,0.0388,107.347,4
+Oldies,Joohee,Celebration - Single Version,6CSLNGruNhqpb5zhfs5n3i,Kool & The Gang,215653,66,False,Celebration / Morning Star,2009-01-01,Universal Music Group International,0.843,0.656,1,-11.184,0.0595,0.0466,0.0187,0.169,121.112,4
+Oldies,Joohee,Nothing's Gonna Stop Me Now,63znppPuvmma2IcQNe9F7p,Samantha Fox,225146,42,False,Samantha Fox,1987,Sony Music UK,0.669,0.948,10,-4.948,0.0622,0.117,0.00255,0.0728,122.012,4
+Oldies,Joohee,Never Ending Story,1F43XlPBiwAUUIhrUGzylO,Limahl,212173,65,False,Don't Suppose,2009-09-25,Parlophone UK,0.599,0.622,0,-13.971,0.0296,0.359,0.00235,0.114,122.312,4
+Oldies,Joohee,Happy Hour,6IZWJhXyk1Z0rtWNxIi4o7,The Housemartins,145000,58,False,London 0 Hull 4,1986-01-01,Virgin EMI,0.535,0.837,10,-11.048,0.039,0.097,2.99e-06,0.189,95.911,4
+Oldies,Joohee,Africa,2374M0fQpWi3dLnB54qaLX,TOTO,295893,83,False,Toto IV,1982-04-08,Columbia,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,92.717,4
+Oldies,Joohee,Uptown,4CU6WHrOTupJ6XgeYAAeCO,The Crystals,141226,20,False,Da Doo Ron Ron: The Very Best of The Crystals,2011-02-22,Legacy Recordings,0.665,0.699,0,-7.875,0.0302,0.372,0.000151,0.146,112.623,4
+Oldies,Joohee,He's Sure the Boy I Love,7AKEZ8Rqn1nkunx1GBSAPc,The Crystals,163480,31,False,Da Doo Ron Ron: The Very Best of The Crystals,2011-02-22,Legacy Recordings,0.53,0.66,2,-7.552,0.0594,0.445,6.2e-06,0.219,137.313,4
+Oldies,Joohee,He's a Rebel,0mG8Hety4RELeo6p808fcy,The Crystals,150893,43,False,Da Doo Ron Ron: The Very Best of The Crystals,2011-02-22,Legacy Recordings,0.712,0.757,6,-6.449,0.0572,0.63,1.63e-06,0.529,117.367,4
+Oldies,Joohee,Then He Kissed Me,7jeOETwLUP84mPQzxlD5nh,The Crystals,158853,60,False,Da Doo Ron Ron: The Very Best of The Crystals,2011-02-22,Legacy Recordings,0.431,0.678,4,-7.945,0.0365,0.7,6.37e-06,0.199,135.919,4
+Oldies,Joohee,What the World Needs Now(Is Love),6QhJngmKqelOcCc3bUiKYY,Dionne Warwick,191000,58,False,Here Where There Is Love,1967,Rhino,0.594,0.289,11,-12.747,0.0391,0.694,0,0.214,111.903,3
+Oldies,Joohee,You Make Me Feel Like Dancing,5WFsvB6T0U90KxsuXKGmL0,The Parade,219480,37,False,Proud To Be Gay Vol.1,2012-12-12,LIVE IT!,0.736,0.752,8,-5.893,0.0516,0.0898,0,0.0976,95.998,4
+Oldies,Joohee,You've Got a Friend,1qhp5owrFGeZ5Jgin28nwR,Carole King,308973,68,False,Tapestry,1971,Ode/Epic/Legacy,0.474,0.263,8,-10.684,0.0336,0.88,4.45e-05,0.123,168.683,4
+Oldies,Joohee,Wake Me up Before You Go-Go,0ikz6tENMONtK6qGkOrU3c,Wham!,231333,79,False,Make It Big,1984-10-23,Columbia,0.62,0.574,0,-11.893,0.0421,0.272,0,0.0607,81.548,4
+Oldies,Joohee,Fool,6eHnPw5KKP151NTRtIZhfc,Al Matthews,221280,38,False,The Masters Series: 70's Soul Vol. 2,2009-08-03,Sony Music Entertainment,0.768,0.639,11,-8.973,0.048,0.139,1.56e-06,0.365,116.725,4
+Oldies,Joohee,Come to Mama,1VqtcL6HZpGhotRh2ODceP,Ann Peebles,178280,40,False,Tellin' It,1975,Fat Possum,0.871,0.589,9,-8.985,0.0364,0.121,0.0151,0.0342,103.365,4
+Oldies,Joohee,Best Thing I Ever Had,2h4oPJOACciJU0LeEiHoJT,Brenton Wood,147373,34,False,Oogum Boogum,1967-01-01,The Bicycle Music Company,0.81,0.512,5,-8.462,0.0343,0.583,0.000594,0.0719,106.5,4
+Oldies,Joohee,Guilty (feat. Barry Gibb),60mGckXEG1EzR4VmjYLfEW,Barbra Streisand,264333,66,False,Guilty,1980-09-23,Columbia,0.626,0.425,0,-15.656,0.0356,0.231,0,0.114,150.875,4
+Oldies,Joohee,Son of a Preacher Man,4uCbetXW9LStYPUjCpBVp9,Aretha Franklin,199266,62,False,This Girl's in Love with You,1970-01-15,Rhino Atlantic,0.474,0.473,2,-11.454,0.0601,0.545,1.25e-06,0.0356,77.583,4
+Oldies,Joohee,Tired of Being Alone,0lejVIOQsLqb8DJcLLqKBf,Al Green,172320,23,False,Gets Next To You,1967-08-13,Times Music,0.772,0.397,7,-8.585,0.0391,0.339,0.00541,0.0753,97.964,4
+Oldies,Joohee,It's My House,7yAslROTLRHGwuiLBpdErT,Diana Ross,274560,58,False,The Boss,1979-05-23,Motown,0.762,0.67,5,-5.862,0.0717,0.29,6.42e-06,0.0783,99.473,4
+Oldies,Joohee,Cruisin',2gliw3L0oa4w8LqaHploje,Smokey Robinson,352920,62,False,Where There's Smoke...,1979-05-22,UNI/MOTOWN,0.498,0.63,6,-5.808,0.0276,0.416,0,0.238,169.115,4
+Oldies,Joohee,Summertime - Single Version,218Z7gR0GyAfx3DqAo3fk4,Billy Stewart,162026,37,False,Out Of Sight: More Sounds From The In Crowd,2006-01-01,UMC (Universal Music Catalogue),0.596,0.57,0,-10.042,0.0481,0.571,0.000363,0.193,113.125,4
+Oldies,Joohee,Hard To Handle,05NYcsjJwOYq4jIiKPVj9p,The Black Crowes,188066,69,False,Shake Your Money Maker,1990-02-13,American Recordings Catalog P&D,0.599,0.79,4,-3.58,0.043,0.00257,0.00181,0.312,103.783,4
+Oldies,Joohee,The Fire Down Below,7uQftgqxvkdl9GLE1Q3OOQ,Bob Seger,267172,50,False,Night Moves,1976-10-22,Bob Seger,0.715,0.843,0,-2.83,0.0278,0.391,0,0.103,111.848,4
+Monday Mornings,Joohee,Turn Down for What,67awxiNHNyjMXhVgsHuIrs,DJ Snake,213733,72,False,Turn Down for What,2013-12-18,Columbia,0.818,0.799,1,-4.1,0.156,0.00107,0.128,0.057,100.014,4
+Monday Mornings,Joohee,Bring Me To Life,0COqiPhxzoWICwFCS4eZcp,Evanescence,235893,79,False,Fallen,2003-03-04,The Bicycle Music Company,0.331,0.943,4,-3.188,0.0698,0.00721,2.06e-06,0.242,94.612,4
+Monday Mornings,Joohee,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,AC/DC,208400,83,False,Highway to Hell,1979-07-27,Columbia,0.574,0.913,6,-4.793,0.133,0.061,0.00158,0.156,115.728,4
+Monday Mornings,Joohee,I'm Every Woman,1oFiPGBafH9Woo9AMwgBSl,Chaka Khan,247413,67,False,Chaka,1978-10-13,Rhino/Warner Records,0.617,0.879,0,-7.564,0.0455,0.127,5.71e-05,0.339,114.453,4
+Monday Mornings,Joohee,Stressed Out - 21 Pilots,7np3G5yEXAb99BPbr3OVzx,Calvillo,130333,11,False,Covers vol.1,2016-05-19,Dojo In The Sky,0.843,0.549,0,-9.849,0.153,0.118,0,0.0979,83.006,4
+Monday Mornings,Joohee,Believer,5VKSZDsidOFHrtlJb33Syo,Imagine Dragons,204346,2,False,Evolve,2017-06-23,Kid Ina Korner / Interscope,0.784,0.78,10,-4.275,0.102,0.0492,0,0.118,124.953,4
+Monday Mornings,Joohee,Don't Let Me Down (feat. Daya),1i1fxkWeaMmKEB4T7zqbzK,The Chainsmokers,208373,80,False,Don't Let Me Down (feat. Daya),2016-02-05,Disruptor Records/Columbia,0.532,0.869,11,-5.094,0.172,0.157,0.00508,0.136,159.803,4
+Monday Mornings,Joohee,Demons,5VC29kHMkzcaorzPKUqJbl,Imagine Dragons,175200,59,False,Night Visions (Deluxe),2012-09-04,Kid Ina Korner / Interscope,0.505,0.71,3,-3.015,0.0321,0.19,0.00025,0.329,89.938,4
+Monday Mornings,Joohee,Radioactive,1PzoM54jr13a5eUfCycMKc,Imagine Dragons,186813,59,False,Night Visions (Deluxe),2012-09-04,Kid Ina Korner / Interscope,0.448,0.784,9,-3.686,0.0627,0.106,0.000108,0.668,136.245,4
+Monday Mornings,Joohee,Blade With No Name,5uewkuqpxT3Sp25wcc44OM,JT Music,274050,41,False,Blade With No Name,2018-10-06,"JT Machinima, LLC",0.793,0.901,4,-4.175,0.182,0.241,0,0.0664,120.007,4
+Monday Mornings,Joohee,Africans,6fofkM5ZrOAJ609ShJ7J7L,HD,111336,22,True,Extortion Muzik 6 (The Leak),2017-09-04,Bearfaced Ent. / Rapbay / Urbanlife Distribution,0.836,0.77,5,-6.397,0.253,0.0767,6.76e-05,0.0661,93.419,4
+Monday Mornings,Joohee,Kashmir,50JvgCokiMRVbDUAjreSGZ,In The Light of Led Zeppelin,850883,14,False,Pompeii Sessions,2017-07-23,In The Light of Led Zeppelin,0.445,0.463,2,-12.976,0.045,0.0602,0.0512,0.102,83.634,4
+Monday Mornings,Joohee,Thunderstruck,57bgtoPSgt236HzfBOd8kj,AC/DC,292880,82,False,The Razors Edge,1990-09-24,Columbia,0.502,0.89,4,-5.175,0.0364,0.000147,0.0117,0.217,133.52,4
+Monday Mornings,Joohee,Back In Black,2iEGj7kAwH7HAa5epwYwLB,AC/DC,255640,53,False,Iron Man 2,2010-04-29,Columbia,0.437,0.713,9,-5.698,0.0353,0.00945,0.00967,0.0946,93.618,4
+Monday Mornings,Joohee,Fireball (feat. John Ryan),4Y7XAxTANhu3lmnLAzhWJW,Pitbull,236200,68,False,Globalization,2014-11-21,Mr.305/Polo Grounds Music/RCA Records,0.761,0.933,10,-5.38,0.056,0.0908,8.53e-05,0.0606,122.959,4
+Monday Mornings,Joohee,Heathens,2ngSLjHo5vEOltxZ6Ehe4o,Eighty One Prayers,195916,30,False,Heathens,2016-10-12,Brave New World Music,0.8,0.486,4,-6.093,0.0326,0.00138,1.42e-05,0.0881,90.039,4
+Monday Mornings,Joohee,Fox on the Run - Single Version,4yJZP61jBhVTesHBZ0gpQn,Sweet,200800,61,False,"Fox on the Run (from the ""Guardians of the Galaxy 2"" Trailer)",2016-12-16,Sony Music Catalog,0.481,0.747,4,-6.937,0.0364,0.00698,0,0.0646,127.597,4
+Monday Mornings,Joohee,Take Me To Church,3dYD57lRAUcMHufyqn9GcI,Hozier,241688,81,False,Hozier,2014-07-20,Universal-Island Records Ltd.,0.566,0.664,4,-5.303,0.0464,0.634,0,0.116,128.945,4
+Monday Mornings,Joohee,The Joker,1bp2IO61zbQrbWNmKKxg3f,Steve Miller Band,264503,77,False,The Joker,1973-01-01,CAPITOL CATALOG MKT (C92),0.596,0.448,5,-9.616,0.0396,0.365,5.3e-06,0.206,83.293,4
+Monday Mornings,Joohee,Heartache Tonight - 2013 Remaster,4eZg5DzelqM8If97vNddFa,Eagles,265678,45,False,Eagles Greatest Hits Vol. 2 (2013 Remaster),1985,Rhino/Elektra,0.81,0.511,0,-6.454,0.0409,0.0778,0.000226,0.0714,113.153,4
+Monday Mornings,Joohee,Kung Fu Fighting,40NRm1ZLvZpUSCUXAGGZ8J,Carl Douglas,197693,69,False,The Soul of the Kung Fu Fighter,2001,Sanctuary Records,0.598,0.673,2,-10.431,0.0693,0.0422,6.84e-05,0.289,102.035,4
+Monday Mornings,Joohee,We Will Rock You - Remastered,4pbJqGIASGPr0ZpGpnWkDn,Queen,122066,79,False,News Of The World (2011 Remaster),1977-10-28,EMI,0.692,0.497,2,-7.316,0.119,0.676,0,0.259,81.308,4
+Monday Mornings,Joohee,Thunder,1zB4vmk8tFRmM9UULNzbLB,Imagine Dragons,187146,84,False,Evolve,2017-06-23,Kid Ina Korner / Interscope,0.605,0.822,0,-4.833,0.0438,0.00671,0.134,0.147,167.997,4
+Monday Mornings,Joohee,Welcome To The Jungle,0bVtevEgtDIeRjCJbK3Lmv,Guns N' Roses,272026,78,False,Appetite For Destruction,1987-07-21,Geffen,0.447,0.954,8,-8.069,0.0751,0.0235,0.403,0.298,123.453,4
+Monday Mornings,Joohee,T.N.T.,7LRMbd3LEoV5wZJvXT1Lwb,AC/DC,214666,78,False,High Voltage,1976-05-14,Columbia,0.754,0.759,9,-5.218,0.302,0.153,0.000108,0.101,126.366,4
+Monday Mornings,Joohee,Smells Like Teen Spirit,1f3yAtsJtY87CTmM8RLnxf,Nirvana,301920,81,False,Nevermind (Deluxe Edition),1991-09-26,Geffen,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,116.761,4
+Monday Mornings,Joohee,Eye of the Tiger,2HHtWyy5CgaQbC7XSoOb0e,Survivor,243773,74,False,Eye Of The Tiger,1982,Volcano,0.815,0.438,0,-14.522,0.0346,0.216,0.000466,0.0787,108.965,4
+Monday Mornings,Joohee,Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,Queen,214653,81,False,The Game (2011 Remaster),1980-06-27,EMI,0.933,0.528,5,-6.472,0.161,0.112,0.312,0.163,109.967,4
+Monday Mornings,Joohee,Stressed Out,3CRDbSIZ4r5MsZ0YwxuEkn,Twenty One Pilots,202333,83,False,Blurryface,2015-05-15,Fueled By Ramen,0.734,0.637,4,-5.677,0.141,0.0462,2.29e-05,0.0602,169.977,4
+Monday Mornings,Joohee,Paradise City,3YBZIN3rekqsKxbJc9FZko,Guns N' Roses,405640,78,False,Appetite For Destruction,1987-07-21,Geffen,0.273,0.952,11,-8.762,0.0843,0.0169,0.0111,0.142,100.271,4
+Monday Mornings,Joohee,It's My Life,0v1XpBHnsbkCn7iJ9Ucr1l,Bon Jovi,224493,78,False,Crush,2000-01-01,Island Records,0.551,0.913,0,-4.063,0.0466,0.0263,1.35e-05,0.347,119.992,4
+Monday Mornings,Joohee,Stairway to Heaven - Remaster,5CQ30WqJwcep0pYcV4AMNc,Led Zeppelin,482830,78,False,Led Zeppelin IV (Deluxe Edition),1971-11-08,Atlantic Records,0.338,0.34,9,-12.049,0.0339,0.58,0.0032,0.116,82.433,4
+Monday Mornings,Joohee,We Are The Champions - Remastered 2011,1lCRw5FEZ1gPDNPzy1K4zW,Queen,179200,75,False,News Of The World (2011 Remaster),1977-10-28,EMI,0.268,0.459,10,-6.94,0.0346,0.378,0,0.118,64.177,4
+Monday Mornings,Joohee,Master Of Puppets,2MuWTIM3b0YEAskbeeFE1i,Metallica,515386,74,False,Master Of Puppets (Remastered),1986-03-03,UMC (Universal Music Catalogue),0.543,0.836,4,-9.11,0.0353,0.000647,0.431,0.153,105.173,4
+Monday Mornings,Joohee,Cherry Bomb,7cdnq45E9aP2XDStHg5vd7,The Runaways,138706,67,False,The Runaways,1976,Island Def Jam,0.501,0.813,11,-8.192,0.0639,0.0455,4.75e-05,0.131,136.59,4
+Monday Mornings,Joohee,Fox On The Run,66gG8RzSA2sVQwME8e43wX,Sweet,205733,57,False,Best Of Sweet,1993-01-01,Capitol Records,0.523,0.762,4,-8.669,0.0346,0.0308,0,0.0675,128.064,4
+Monday Mornings,Joohee,Shake Your Groove Thing,7hzY0LHz8KdEr1PowHhbdu,Peaches & Herb,346133,0,False,2 Hot!,1978,"Universal Records, a Division of UMG Recordings, Inc.",0.867,0.73,9,-6.605,0.0496,0.45,0.0143,0.0817,132.57,4
+Monday Mornings,Joohee,Believer,0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,204346,87,False,Evolve,2017-06-23,Kid Ina Korner / Interscope,0.776,0.78,10,-4.374,0.128,0.0622,0,0.081,124.949,4
+Smooth,Joohee,Don't Let Me Go,4b3khTm3ufGRTyZwuYdasn,Cigarettes After Sex,262560,59,False,Cry,2019-10-25,Partisan Records,0.403,0.369,6,-9.606,0.0264,0.448,0.493,0.0985,96.803,3
+Smooth,Joohee,Outside,7Cx3kiPstZOSKAqTe3LtEi,MorMor,238020,50,False,Outside,2019-03-21,Don't Guess,0.637,0.613,1,-7.432,0.0272,0.0925,0.425,0.156,127.006,4
+Smooth,Joohee,Touch,1l4pW7Tklvcc3k38rDFMkk,Cigarettes After Sex,292853,58,False,Cry,2019-10-25,Partisan Records,0.484,0.5,6,-9.403,0.0241,0.353,0.917,0.103,95.981,4
+Smooth,Joohee,Some Place Else,5Hu24z7izB3LKi6pHaPq3C,MorMor,214885,52,False,Some Place Else,2019-05-03,Don't Guess,0.65,0.481,0,-9.582,0.0283,0.201,0.901,0.111,83.976,4
+Smooth,Joohee,Size of Relief,6XwzqYvCuuakLIL8TZZSdC,Young & Sick,237845,50,False,Size of Relief,2019-05-03,B3SCI / Neon Gold,0.802,0.596,2,-7.358,0.0334,0.00889,0.629,0.0826,111.006,4
+Smooth,Joohee,John Wayne,5IonbH68pmDKBwcKlyswmR,Cigarettes After Sex,258013,50,False,Cigarettes After Sex,2017-06-09,PTKF,0.429,0.457,3,-8.375,0.0294,0.35,0.859,0.099,124.033,4
+Smooth,Joohee,Saturated,724zqj2v6s8iKmrwr7XlaY,Barrie,168213,37,False,Happy To Be Here,2019-05-03,Winspear,0.799,0.41,9,-11.812,0.0498,0.359,0.0924,0.0879,140.003,4
+Smooth,Joohee,Whatever Comes to Mind,0ntyYV99MFp7f7MGZlwYj4,MorMor,249304,57,False,Whatever Comes to Mind,2018-04-17,Don't Guess,0.542,0.468,10,-7.796,0.0265,0.579,0.104,0.112,130.829,4
+Smooth,Joohee,Between The Bars,52Bg6oaos7twR7IUtEpqcE,Elliott Smith,141280,61,False,Either/Or,1997-02-25,Universal Music,0.522,0.074,7,-23.625,0.0598,0.929,0.765,0.108,135.298,3
+Smooth,Joohee,Tomorrow Never Came (feat. Sean Ono Lennon),6VZwnDUMkAZs36g6v9MVQX,Lana Del Rey,307540,62,False,Lust For Life,2017-07-21,Polydor Records,0.297,0.402,0,-9.757,0.0346,0.819,0.000181,0.109,138.019,4
+Smooth,Joohee,The City Holds My Heart (Acoustic),2k750ut7R7B2M2oWZtE2jC,Ghostly Kisses,250346,36,False,The City Holds My Heart (Acoustic),2019-08-30,Akira Records,0.708,0.196,0,-12.703,0.0318,0.976,0.000363,0.212,116.032,4
+Smooth,Joohee,Keep on Loving You,5VYBergVrUDcb8QyEg70cF,Cigarettes After Sex,233010,58,False,Affection,2015-01-01,Spanish Prayers,0.456,0.364,2,-9.336,0.0252,0.533,0.96,0.111,73.457,4
+Smooth,Joohee,Darling,36PQh1G6h7n9VWB799fXpI,Real Estate,260386,61,False,In Mind,2017-03-17,Domino Recording Co,0.596,0.894,0,-5.407,0.0265,0.00878,0.00659,0.104,132.994,5
+Smooth,Joohee,Night,2FFAzUR4gFg2cK4IGfPADb,Dr. Dog,362818,41,False,Critical Equation,2018-04-27,We Buy Gold Records,0.437,0.383,11,-10.408,0.0261,0.319,0.00188,0.138,112.012,4
+Smooth,Joohee,Evan Finds the Third Room,6EV7iIhdW9VBjphqZNGSfM,Khruangbin,240743,58,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.781,0.385,10,-9.976,0.0789,0.0101,0.587,0.166,105.812,4
+Smooth,Joohee,White Gloves,4AKUOaCRcoKTFnVI9LtsrN,Khruangbin,218306,66,False,The Universe Smiles Upon You,2015-11-06,Late Night Tales,0.635,0.3,2,-13.957,0.0285,0.707,0.829,0.574,91.452,4
+Smooth,Joohee,Saturday,50wiHcvfcpQSo5P5rbyozc,Real Estate,283026,52,False,In Mind,2017-03-17,Domino Recording Co,0.525,0.717,0,-6.06,0.0339,0.0716,0.575,0.121,130.898,4
+Smooth,Joohee,Metal Heart,4omnfKQRBPbu7XuFpjcj2l,Cat Power,242400,48,False,Moon Pix,1998-09-22,Matador,0.439,0.337,6,-11.212,0.0276,0.873,0.0848,0.109,115.244,4
+Smooth,Joohee,Mr. White,5EqGquh3ajBQjudpLLhJKy,Khruangbin,298440,58,False,The Universe Smiles Upon You,2015-11-06,Late Night Tales,0.625,0.499,5,-14.094,0.0742,0.483,0.87,0.305,88.223,4
+Smooth,Joohee,The Greatest,6CAG3rBGPTAinoqgVD7fBJ,Cat Power,202560,60,False,The Greatest,2006-01-24,Matador,0.508,0.362,0,-9.688,0.0262,0.738,0.000998,0.0922,107.459,4
+Smooth,Joohee,Affection,1lusH0zFDRV1ThaFYsUgfi,Cigarettes After Sex,311000,62,True,Affection,2015-01-01,Spanish Prayers,0.403,0.417,7,-11.252,0.0257,0.5,0.889,0.105,89.966,4
+Smooth,Joohee,Take It Easy (Ever After Lasting Love),03pRnmoWR9IVKkIR73iGIG,White Denim,207106,46,False,Stiff,2016-03-25,Downtown Records - Catalog,0.591,0.453,4,-11.467,0.0369,0.728,0.0395,0.142,98.943,4
+Smooth,Joohee,Other People,5gw6b2XXwxURgIBPFq3viu,Beach House,264626,30,False,Bloom,2012-05-11,Mistletone,0.309,0.513,3,-7.405,0.0322,0.115,0,0.528,174.06,4
+Smooth,Joohee,Sweet - Single Version,5eVyyvVlqzxUt77LWXXo3H,Cigarettes After Sex,252576,34,False,Sweet,2017-08-29,PTKF,0.487,0.507,6,-9.328,0.0283,0.351,0.794,0.221,96.214,4
+Smooth,Joohee,Venice Bitch,3hwQhakFwm9soLEBnSDH17,Lana Del Rey,577199,68,True,Norman Fucking Rockwell!,2019-08-30,Polydor Records,0.404,0.298,9,-12.986,0.0304,0.912,0.228,0.0996,78.815,4
+Smooth,Joohee,Lucky Love,4yxSvdt8kl6jMdvFaiNtve,Michael Seyer,286185,56,False,Bad Bonez,2018-03-07,Momotaro Records,0.661,0.311,5,-13.288,0.0263,0.474,0.00366,0.105,143.966,3
+Smooth,Joohee,Heavenly,70YTBH8vOGJNMhy6186yFm,Cigarettes After Sex,286773,66,False,Cry,2019-10-25,Partisan Records,0.535,0.436,8,-9.188,0.0248,0.667,0.707,0.11,105.141,4
+Smooth,Joohee,Cinnamon Girl,2mdEsXPu8ZmkHRRtAdC09e,Lana Del Rey,300683,72,False,Norman Fucking Rockwell!,2019-08-30,Polydor Records,0.292,0.334,6,-10.679,0.0378,0.839,0.345,0.151,67.836,4
+Smooth,Joohee,Fuck it I love you,7MtVPRGtZl6rPjMfLoI3Lh,Lana Del Rey,218287,72,True,Norman Fucking Rockwell!,2019-08-30,Polydor Records,0.532,0.452,9,-10.654,0.043,0.892,0.00113,0.127,129.895,4
+Smooth,Joohee,Young And Beautiful,2nMeu6UenVvwUktBCpLMK9,Lana Del Rey,236053,77,False,Young And Beautiful,2013-01-01,Polydor Records,0.324,0.416,11,-8.92,0.0368,0.262,3.69e-05,0.11,113.986,4
+Smooth,Joohee,Love,2Kerz9H9IejzeIpjhDJoYG,Lana Del Rey,272742,70,False,Lust For Life,2017-07-21,Polydor Records,0.527,0.366,10,-10.943,0.0277,0.487,0.0023,0.11,98.994,4
+Smooth,Joohee,Starry Eyes,3YL4zMqcyFu0OfLI1sZ66Z,Cigarettes After Sex,206000,54,False,EP I.,2012-07-21,Spanish Prayers,0.419,0.362,2,-15.32,0.0337,0.453,0.335,0.0687,100.264,4
+Smooth,Joohee,Midnight,6Gh6lzW6QeiXkFSfsvNS0b,Khruangbin,314683,64,False,Texas Sun,2020-02-07,Dead Oceans,0.663,0.552,5,-8.925,0.0308,0.0574,0.0131,0.0973,132.867,4
+Smooth,Joohee,Coolhand,54NlZnxWxbdXZPr2nckzkb,Buzzy Lee,218719,38,False,Coolhand,2018-02-16,Future Classic,0.75,0.513,2,-8.473,0.0378,0.762,0.00214,0.21,110.948,4
+Smooth,Joohee,John Wayne,6TWcSqCntZhH5vyc35kkob,Cigarettes After Sex,258483,57,False,Cigarettes After Sex,2017-06-09,Partisan Records,0.441,0.465,3,-8.389,0.0291,0.343,0.884,0.0982,123.933,4
+Smooth,Joohee,Agony,2GLhux0GiSvmy2gffnrp72,Beach Fossils,205335,52,False,Agony,2018-02-14,Bayonet Records,0.566,0.33,11,-10.151,0.0248,0.706,0.00555,0.129,101.927,4
+Smooth,Joohee,Komorebi,2ztHL4aV76oeCe6DDWpky3,Craft Spells,263691,43,False,Nausea,2014-06-10,Captured Tracks,0.18,0.555,1,-8.784,0.0326,0.216,0.417,0.102,166.476,3
+Smooth,Joohee,She's So Lovely,1axSIsGyG58jiZsyKSEtdH,Beach House,262133,29,False,Thank Your Lucky Stars,2015-10-16,Apple Orchard Music,0.397,0.544,8,-9.233,0.0295,0.854,0.75,0.187,80.06,4
+Smooth,Joohee,Seven,2dwvxOHnQjndZLowIR6PiS,Men I Trust,225394,59,False,Seven,2018-09-06,Independent,0.692,0.421,4,-10.948,0.0295,0.666,0.147,0.104,96.982,4
+Smooth,Joohee,Jesus to a Child,2SzCxX6M6vDwdEwnHDiTaY,George Michael,411146,61,False,Older,1996-05-13,Sony Music UK,0.534,0.415,1,-11.781,0.0278,0.314,0.000365,0.0847,173.561,4
+Smooth,Joohee,Drag Me Down - Instrumental,2U5PWftVMHfPwCxQwOQzPl,Kartoffel Club,174110,58,False,Drag Me Down (Instrumental),2017-11-27,Club Del Embutido,0.679,0.412,2,-11.551,0.043,0.506,0.83,0.111,142.034,3
+Smooth,Joohee,"Love Is All Around - From ""Four Weddings And A Funeral""",4rw2zIp3qIWBefMF0DjugV,Wet Wet Wet,237958,30,False,Step By Step The Greatest Hits,2013-01-01,EMI,0.436,0.683,10,-7.791,0.0322,0.249,0,0.165,170.023,4
+Smooth,Joohee,You on My Mind,3Rf3MEusKd20eT8Nu0KecS,Jye,150857,46,False,Piccadilly Perfume,2019-06-27,Independent,0.908,0.221,8,-13.182,0.0612,0.28,0.342,0.104,105.044,4
+Smooth,Joohee,Hotel California - 2013 Remaster,4Vn7TykT27PIygBiZjTR2s,Eagles,391376,62,False,The Very Best of the Eagles (2013 Remaster),2003-10-21,Rhino/Elektra,0.579,0.508,2,-9.484,0.027,0.00574,0.000494,0.0575,147.125,4
+Smooth,Joohee,Cold Little Heart - Radio Edit,7KX65PC1UZuImsUInThbav,Michael Kiwanuka,210299,71,False,Cold Little Heart (Radio Edit),2017-02-24,Polydor Records,0.629,0.58,7,-6.208,0.0278,0.357,0.000353,0.436,110.264,4
+Smooth,Joohee,Love & Hate,7oOEFDLSQscl0uGulnIEmG,Michael Kiwanuka,427093,66,False,Love & Hate,2016-07-15,Polydor Records,0.278,0.494,7,-7.853,0.029,0.157,0.000407,0.173,169.661,4
+Smooth,Joohee,Texas Sun,3k5oLgungD1dSOGLqQdIQw,Khruangbin,252811,73,False,Texas Sun,2019-12-03,Dead Oceans,0.632,0.637,7,-10.011,0.0348,0.0352,0.158,0.0997,111.551,4
+Smooth,Joohee,Love On The Brain,5oO3drDxtziYU2H1X23ZIp,Rihanna,224000,80,True,ANTI (Deluxe),2016-01-28,Roc Nation / Rihanna,0.509,0.637,4,-4.83,0.0471,0.0717,1.08e-05,0.0789,172.006,3
