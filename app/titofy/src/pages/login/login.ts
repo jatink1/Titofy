@@ -33,6 +33,8 @@ export class LoginPage {
   }
 
   login(){
+    //to send data to server and verify credentials
+
     this.navCtrl.setRoot('HomePage');
     this.navCtrl.popToRoot();
   }
