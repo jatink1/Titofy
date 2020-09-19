@@ -1,15 +1,70 @@
-<!--
-  Generated template for the SignupPage page.
-
-  See http://ionicframework.com/docs/components/#navigation for more info on
-  Ionic pages and navigation.
--->
 <ion-header>
   <ion-navbar>
-    <ion-title>signup</ion-title>
+    <ion-title>Signup</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
+
+  <div>
+    <form [formGroup]="userSignup">
+
+      <!-- Name -->
+      <ion-item>
+        <ion-label floating >Name</ion-label>
+        <ion-input type="text" formControlName="fsignupName"></ion-input>
+      </ion-item>
+
+      <!-- Email -->
+      <ion-item>
+        <ion-label floating>Email</ion-label>
+        <ion-input type="email" formControlName="fsignupEmail"></ion-input>
+      </ion-item>
+
+      <!-- Password -->
+      <ion-item>
+        <ion-label floating>Password</ion-label>
+        <ion-input type="password" formControlName="fsignupPassword"></ion-input>
+      </ion-item>
+
+      <!-- Gender -->
+      <ion-item>
+        <ion-label floating>Gender</ion-label>
+        <ion-select type="text" formControlName="fsignupGender">
+          <ion-option value="male">Male</ion-option>
+          <ion-option value="female">Female</ion-option>
+          <ion-option value="other">Other</ion-option>
+        </ion-select>
+      </ion-item>
+
+      <!-- Date of Birth -->
+      <ion-item>
+        <ion-label >Date of Birth : </ion-label>
+        <ion-datetime displayFormat="MMM DD YYY" formControlName="fsignupdob"></ion-datetime>
+      </ion-item>
+
+      <!-- Age -->
+      <ion-item>
+        <ion-label floating>Age</ion-label>
+        <ion-input type="number" fromControlName="fsignupAge"></ion-input>
+      </ion-item>
+
+      <!-- Spotify URL -->
+      <ion-item>
+        <ion-label floating>Spotify Profile URL</ion-label>
+        <ion-input type="text" formControlName="fsignupProfileURL"></ion-input>
+      </ion-item>
+
+    </form>
+  </div>
+
+  <!-- Photo -->
+      <!-- add a button for this -->
+  <button ion-button (click)="uploadPhoto()">Upload Profile Pic</button>
+
+  <!-- Submit button -->
+  <ion-buttons>
+    <button ion-button block (click)="submitForm()" color="secondary">Submit</button>
+  </ion-buttons>
 
 </ion-content>
