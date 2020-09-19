@@ -10,6 +10,7 @@ import { LoginPage } from '../pages/login/login';
 
 import { Camera } from '@ionic-native/camera';
 import { ServerUrlProvider } from '../providers/server-url/server-url';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ServerUrlProvider } from '../providers/server-url/server-url';
   ],
   imports: [
     BrowserModule,
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp),
+    HttpClientModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [

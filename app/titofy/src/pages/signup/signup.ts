@@ -8,6 +8,7 @@ import {
 } from "@angular/forms";
 import { Camera, CameraOptions } from "@ionic-native/camera";
 import { HttpClient } from "@angular/common/http";
+import { ServerUrlProvider } from "../../providers/server-url/server-url";
 @IonicPage()
 @Component({
   selector: "page-signup",
@@ -32,7 +33,8 @@ export class SignupPage {
     public navParams: NavParams,
     public formbuilder: FormBuilder,
     public camera: Camera,
-    public http: HttpClient
+    public http: HttpClient,
+    public serverURL:ServerUrlProvider
   ) {
     this.userSignup = formbuilder.group({
       fsignupName: ["", Validators.compose([Validators.required])],
@@ -81,6 +83,7 @@ export class SignupPage {
       },
       (err) => {
         // Handle error
+        console.log("Error in uploading picture: ",err);
       }
     );
   }
@@ -141,10 +144,7 @@ export class SignupPage {
     this.userDataWithPhoto = new FormData();
 
     this.userDataWithPhoto.append("photo", this.aaa, "image.jpeg");
-    this.userDataWithPhoto.append(
-      "userName",
-      this.userSignup.controls["fsignupName"].value
-    );
+    this.userDataWithPhoto.append("userName",this.userSignup.controls["fsignupName"].value );
     this.userDataWithPhoto.append(
       "userEmail",
       this.userSignup.controls["fsignupEmail"].value
@@ -171,8 +171,12 @@ export class SignupPage {
     );
 
     //now sending data to server
-    this.http.post("url", this.userDataWithPhoto).subscribe((res) => {
+    this.http.post(this.serverURL.api, this.userDataWithPhoto).subscribe((res) => {
       console.log(res);
     });
+
+    this.navCtrl.pop();
+
   }
+
 }
