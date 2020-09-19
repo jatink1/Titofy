@@ -1,0 +1,170 @@
+Playlist_Name,Username,Track_Title,Track_ID,Artist,Duration_ms,Popularity,Explicit,Album,Release_Date,Label,Danceability,Energy,Key,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Tempo,Time_Signature
+POST-II,Yorke,The House Where We Grew Up,0VWl8AMesqbmxV8GC02EGZ,Hammock,256640,30,False,Raising Your Voice... Trying to Stop an Echo,2006-08-06,Hammock Music,0.451,0.478,1,-9.725,0.0294,0.0438,0.78,0.105,121.979,4
+POST-II,Yorke,Losing You to You,76neUKYHDBEvgkKU8NIoDb,Hammock,382813,39,False,Raising Your Voice... Trying to Stop an Echo,2006-08-06,Hammock Music,0.372,0.309,11,-9.934,0.0304,0.261,0.772,0.0972,116.006,3
+POST-II,Yorke,Cliffside,1IIOqhLNSNqC97cDFsPGTX,Hammock,352310,49,False,Universalis,2018-12-07,Hammock Music,0.399,0.252,10,-13.16,0.0317,0.724,0.87,0.112,110.071,3
+POST-II,Yorke,Now and Not Yet,2WXhtZQJgwdZkSKjemT7WE,Hammock,377579,41,False,Mysterium,2017-08-25,Hammock Music,0.0764,0.176,7,-19.847,0.0448,0.807,0.964,0.0608,175.791,4
+V,Yorke,On the Run,6COsFwxCkIpXBYw4iiVWH4,Timecop1983,300836,51,False,Night Drive,2018-05-04,Timecop1983 Music,0.435,0.638,1,-11.515,0.0343,0.0693,0.907,0.17,89.992,4
+V,Yorke,Tonight,2gMQHahD4hFjnEYjTTyivU,Timecop1983,304483,51,False,Waves,2015-06-02,Spinnup,0.625,0.391,3,-12.268,0.0473,0.276,0.855,0.0726,89.996,4
+POST,Yorke,Epitaph,2uCR5vRJOjzh4MWNkWSAxr,God Is An Astronaut,473600,34,False,Epitaph,2018-04-27,Napalm Records,0.218,0.196,1,-15.586,0.0333,0.586,0.853,0.0991,170.196,4
+POST,Yorke,"All Is Violent, All Is Bright",568nXF19QXYPZnQ6XSkuSH,God Is An Astronaut,251066,47,False,"All Is Violent, All Is Bright (2011 Remastered Edition)",2011-12-16,Revive Records,0.239,0.596,6,-9.449,0.0311,0.0915,0.79,0.27,169.833,4
+POST,Yorke,Quiet,4llDF3RuBQYj2nkjTCJY4w,This Will Destroy You,293173,46,False,Young Mountain,2006-06-06,Dark Operative,0.482,0.463,1,-7.927,0.0573,0.282,0.848,0.36,115.011,4
+POST,Yorke,Mortal Coil,6zFzRIVwQ5VJgOuyRQXNA5,God Is An Astronaut,332680,31,False,Epitaph,2018-04-27,Napalm Records,0.465,0.763,1,-12.043,0.0324,0.0773,0.888,0.0851,106.025,4
+POST,Yorke,Loka Aftur Augunum,23DD5kE2bwVx60Sc4WbKLm,VAR,434200,5,False,Vetur,2017-04-13,VAR,0.13,0.436,9,-8.008,0.0338,0.46,0.931,0.0718,98.812,4
+IV,Yorke,1612,39rHfrVqCX6A55GF7uOZSC,Vulfpeck,199639,58,False,Fugue State,2014-08-26,Vulf Records,0.678,0.392,0,-11.328,0.274,0.177,0.0045,0.0839,171.274,4
+IV,Yorke,Dean Town,1oOD1pV43cV9sHg97aBdLs,Vulfpeck,213302,57,False,The Beautiful Game,2016-10-17,Vulf Records,0.796,0.608,11,-10.936,0.041,0.499,0.887,0.0979,108.756,4
+IV,Yorke,Animal Spirits,1SHA4IJyiyNobDOrQzFFXy,Vulfpeck,190801,58,False,The Beautiful Game,2016-10-17,Vulf Records,0.751,0.713,1,-7.333,0.0544,0.156,9.59e-05,0.0508,100.856,4
+IV,Yorke,Baby I Don’t Know Oh Oh (feat. Charles Jones),5KboIqx30dztT6wmEVFn17,Vulfpeck,208954,55,False,Mr Finish Line,2017-11-07,Vulf Records,0.638,0.477,7,-6.144,0.055,0.193,0.000153,0.358,112.737,4
+IV,Yorke,Darwin Derby,1FwFVKRNX1IV4eEZSGGg5M,Vulfpeck,195419,51,False,Hill Climber,2018-12-07,Vulf Records,0.815,0.759,10,-6.43,0.0767,0.043,0,0.331,117.92,4
+IV,Yorke,Back Pocket,1DrlLvlYd1FIjNavRm6NdX,Vulfpeck,181259,63,False,Thrill of the Arts,2015-10-09,Vulf Records,0.839,0.585,2,-7.738,0.153,0.478,0.00281,0.0435,89.821,4
+IV,Yorke,Cory Wong,1L9qsoNnyT3r8fgr2Pr7Ty,Vulfpeck,246910,52,False,The Beautiful Game,2016-10-17,Vulf Records,0.621,0.6,8,-9.192,0.138,0.0894,0.571,0.813,127.508,4
+IV,Yorke,Funky Duck,2KRQR1VK6OoJxpwVzwDv72,Vulfpeck,130770,49,False,Thrill of the Arts,2015-10-09,Vulf Records,0.805,0.772,10,-6.402,0.115,0.306,0.00112,0.103,81.711,4
+IV,Yorke,Lonely Town,0QLMAhZQACGtzi11XZVa6A,Vulfpeck,174614,49,False,Hill Climber,2018-12-07,Vulf Records,0.908,0.644,7,-7.964,0.0429,0.0667,3.24e-06,0.123,100.401,4
+IV,Yorke,Lost My Treble Long Ago,36L4txvOPbX3X837x1g3vu,Vulfpeck,197648,44,False,Hill Climber,2018-12-07,Vulf Records,0.646,0.663,2,-8.989,0.196,0.0131,0.866,0.0856,87.103,4
+IV,Yorke,Dust,5UFXAE1QXIGnmALcrQ4DgZ,M|O|O|N,302400,58,False,Particles,2012-09-01,M|o|o|n,0.418,0.66,2,-7.959,0.0447,0.0106,0.87,0.0727,100.007,4
+IV,Yorke,Hydrogen,38rMZCtAPuRgOuV3pyFDmF,M|O|O|N,289523,56,False,Moon - EP,2011-11-27,M|O|O|N,0.797,0.948,10,-7.941,0.0523,0.0052,0.752,0.0695,125.934,4
+IV,Yorke,Paris,4PbZ1dClx4HnT67mPcbyXz,M|O|O|N,271200,51,False,Moon - EP,2011-11-27,M|O|O|N,0.65,0.666,2,-14.067,0.0463,0.105,0.944,0.096,99.993,4
+IV,Yorke,Crystals,5isHndEunT9J7bv4Mz9jgs,M|O|O|N,289714,51,False,Moon - EP,2011-11-27,M|O|O|N,0.779,0.465,9,-16.555,0.191,0.367,0.857,0.107,104.998,4
+IV,Yorke,Horizon,6YJNcusdf5adRMqJUaRjLt,Pigeons Playing Ping Pong,575120,55,False,Psychology,2014-07-03,Pigeons Playing Ping Pong,0.647,0.761,1,-6.737,0.0324,0.00401,0.756,0.149,124.679,4
+IV,Yorke,F.U.,6fMXV0atg5MKoWYf8THNxE,Pigeons Playing Ping Pong,281000,47,False,Psychology,2014-07-03,Pigeons Playing Ping Pong,0.691,0.82,4,-6.327,0.0754,0.0393,0.00168,0.0612,109.093,4
+IV,Yorke,Melting Lights,7wfGH3RwCjxyojHKtUzqj9,Pigeons Playing Ping Pong,304506,51,False,Psychology,2014-07-03,Pigeons Playing Ping Pong,0.614,0.697,11,-6.433,0.0376,0.0663,0.0268,0.41,92.288,4
+IV,Yorke,Giorgio by Moroder,0oks4FnzhNp5QPTZtoet7c,Daft Punk,544626,63,False,Random Access Memories,2013-05-17,Columbia,0.74,0.682,9,-10.42,0.0504,0.0692,0.53,0.381,113.201,4
+IV,Yorke,Slap Pie,1TFOhZp3KF4zSLwMNmx4wO,Men I Trust,139815,42,False,Oncle Jazz,2019-09-13,Independent,0.781,0.529,11,-14.35,0.0738,0.0409,0.834,0.114,110.983,4
+IV,Yorke,Makeba,5JdLUE9D743ob2RtgmVpVx,Jain,249533,60,False,Zanaka,2016-10-21,Columbia,0.824,0.656,2,-9.432,0.0704,0.388,0.506,0.253,116.068,4
+IV,Yorke,Gettin' Jiggy Wit It,0weAUscowxeqDtpCgtbpgp,Will Smith,227694,71,False,Big Willie Style,1997-10-03,Columbia,0.881,0.874,6,-4.505,0.139,0.0175,1.19e-06,0.154,107.891,4
+IV,Yorke,Disco Ulysses (Instrumental),608uL3XBV8f2MHKNgm32Y3,Vulfpeck,231084,51,False,Hill Climber,2018-12-07,Vulf Records,0.74,0.707,8,-10.464,0.0539,0.0422,0.888,0.0909,133.715,4
+IV,Yorke,Tee Time,3XxpR8oXqq5Km5X4LlS0pi,Vulfpeck,169003,42,False,Mr Finish Line,2017-11-07,Vulf Records,0.578,0.889,6,-9.708,0.0348,0.000174,0.73,0.0984,140.986,4
+IV,Yorke,Wait for the Moment,48wH8bAxvBJO2l14GmNLz7,Vulfpeck,230676,60,False,My First Car,2013-12-06,Vulf Records,0.773,0.36,0,-9.722,0.0955,0.501,0.00409,0.0823,79.207,4
+IV,Yorke,Test Drive - Instrumental,5H1HArtWh3fABjCNS0COl0,Vulfpeck,177968,46,False,"The Joy of Music, The Job of Real Estate",2020-07-17,Vulf Records,0.828,0.792,10,-10.222,0.039,0.144,0.893,0.108,130.204,4
+IV,Yorke,"Running Away (feat. Joey Dosik, David T. Walker & James Gadson)",6tOgeTNf9Zvts2JXwXFeQZ,Vulfpeck,272251,48,False,Mr Finish Line,2017-11-07,Vulf Records,0.59,0.508,10,-9.254,0.145,0.0512,0.000102,0.115,81.558,4
+III,Yorke,"Rocket Man (I Think It's Going To Be A Long, Long Time)",3gdewACMIVMEWVbyb8O9sY,Elton John,281613,82,False,Honky Chateau,1972-05-19,EMI,0.601,0.532,10,-9.119,0.0286,0.432,6.25e-06,0.0925,136.571,4
+III,Yorke,How Deep Is Your Love,2JoZzpdeP2G6Csfdq5aLXP,Bee Gees,245200,78,False,Greatest,1979-01-01,Bee Gees Catalog,0.633,0.357,5,-9.366,0.0264,0.105,0,0.133,104.938,4
+III,Yorke,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",3mRM4NM8iO7UBqrSigCQFH,Bee Gees,285373,78,False,Greatest,1979-01-01,Bee Gees Catalog,0.703,0.826,10,-7.179,0.0341,0.0322,0.00629,0.179,103.564,4
+III,Yorke,Sweet Home Alabama,7e89621JPkKaeDSTQ3avtg,Lynyrd Skynyrd,283800,83,False,Second Helping,1974-04-15,Geffen*,0.596,0.605,7,-12.145,0.0255,0.181,0.000331,0.0863,97.798,4
+III,Yorke,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,Daft Punk,248413,77,False,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],2013-04-19,Columbia,0.794,0.811,6,-8.966,0.038,0.0426,1.07e-06,0.101,116.047,4
+III,Yorke,Instant Crush (feat. Julian Casablancas),2cGxRwrMyEAp8dEbuZaVv6,Daft Punk,337560,75,False,Random Access Memories,2013-05-17,Columbia,0.775,0.585,10,-9.516,0.0271,0.0422,0.619,0.077,109.942,4
+III,Yorke,Get Lucky (feat. Pharrell Williams & Nile Rodgers),69kOkLUCkxIZYexIgSG8rq,Daft Punk,369626,73,False,Random Access Memories,2013-05-17,Columbia,0.81,0.793,6,-9.404,0.0403,0.0378,1.82e-06,0.072,116.049,4
+III,Yorke,Lose Yourself to Dance (feat. Pharrell Williams),5CMjjywI0eZMixPeqNd75R,Daft Punk,353893,70,False,Random Access Memories,2013-05-17,Columbia,0.832,0.659,10,-7.828,0.057,0.0839,0.00114,0.0753,100.163,4
+III,Yorke,Uptown Funk (feat. Bruno Mars),32OlwWuMpZ6b0aN2RZOeMS,Mark Ronson,269666,82,False,Uptown Special,2015-01-12,Columbia,0.856,0.609,0,-7.223,0.0824,0.00801,8.15e-05,0.0344,114.988,4
+III,Yorke,Joey,04UWtAIMwi67MG8uHwYqgK,Concrete Blonde,248959,57,False,Bloodletting,1990-09-16,CAPITOL CATALOG MKT (C92),0.607,0.788,7,-5.326,0.0293,0.0151,0.0136,0.173,118.696,4
+III,Yorke,Outlaw State Of Mind,5WFJ17ke5ldHuM0X3J5ddz,Chris Stapleton,335293,60,False,Traveller,2015-05-04,Mercury Nashville,0.453,0.713,0,-9.494,0.0366,0.0305,0.536,0.124,116.791,4
+III,Yorke,Tennessee Whiskey,3fqwjXwUGN6vbzIwvyFMhx,Chris Stapleton,293293,79,False,Traveller,2015-05-04,Mercury Nashville,0.392,0.37,9,-10.888,0.0298,0.205,0.0096,0.0821,48.718,4
+II,Yorke,Apocalypse,7McZS9J6h0SKoZBR6cfcFe,Cigarettes After Sex,290616,3,False,Cigarettes After Sex,2017-06-09,Partisan Records,0.369,0.465,5,-9.017,0.0277,0.0211,0.6,0.109,94.435,4
+II,Yorke,Nothing's Gonna Hurt You Baby,1W7Eajq8Hlqiy39QnuKjvD,Cigarettes After Sex,286293,4,False,EP I.,2012,Spanish Prayers,0.509,0.331,4,-14.083,0.0267,0.272,0.136,0.114,96.848,4
+II,Yorke,K.,0mTHy19ihR54DdAxc9mU1C,Cigarettes After Sex,320030,4,False,Cigarettes After Sex,2017-06-09,Partisan Records,0.454,0.401,3,-10.255,0.026,0.131,0.845,0.137,93.719,4
+II,Yorke,Crush,17EqzktazJToYJEuc0I9Uo,Cigarettes After Sex,266666,0,False,Crush,2018-07-10,Partisan Records,0.409,0.502,5,-8.564,0.0252,0.0827,0.767,0.112,100.08,4
+II,Yorke,Sweet,2T6SuvI5GJXbJOCM1jweuW,Cigarettes After Sex,292110,1,False,Cigarettes After Sex,2017-06-09,Partisan Records,0.449,0.513,6,-9.073,0.028,0.344,0.773,0.139,96.421,4
+II,Yorke,Sunsetz,4rxpJOCjFVNAren0NdgO6I,Cigarettes After Sex,215150,1,False,Cigarettes After Sex,2017-06-09,Partisan Records,0.412,0.48,9,-9.406,0.0298,0.056,0.804,0.0974,75.31,4
+II,Yorke,Affection,3uozbmBqY6tB7dQJFtb5l5,Cigarettes After Sex,311000,1,True,Affection,2015,Spanish Prayers,0.408,0.415,7,-11.257,0.0248,0.503,0.906,0.105,89.801,4
+II,Yorke,Keep On Loving You,5OldcCCFInKEJSoIaEOWOT,Cigarettes After Sex,233010,1,False,Affection,2015,Spanish Prayers,0.407,0.365,2,-9.332,0.0261,0.521,0.965,0.111,146.679,4
+II,Yorke,Evan Finds the Third Room,6EV7iIhdW9VBjphqZNGSfM,Khruangbin,240743,58,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.781,0.385,10,-9.976,0.0789,0.0101,0.587,0.166,105.812,4
+II,Yorke,Cómo Me Quieres,3GO6bT0b1sdInk1KPCK64d,Khruangbin,225153,54,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.55,0.536,6,-10.045,0.0423,0.00612,0.884,0.372,85.458,4
+II,Yorke,Caligula,48q11vTdgDhiESkhgZ7hoG,Windows 96,316479,56,False,One Hundred Mornings,2018-07-06,Gabriel Eduardo,0.644,0.564,6,-10.324,0.0569,0.766,0.914,0.11,90.01,4
+II,Yorke,Falling In Love,1eoC1H5GBM9IikwdHxsdhJ,Cigarettes After Sex,245840,1,False,Falling In Love,2019-10-08,Partisan Records,0.364,0.261,7,-11.645,0.029,0.729,0.0273,0.125,140.712,4
+II,Yorke,Hentai,72Es6m6BFDeh9dWbrGhI4x,Cigarettes After Sex,285146,0,False,Cry,2019-10-25,Partisan Records,0.453,0.229,5,-12.428,0.0281,0.706,0.479,0.108,126.513,4
+II,Yorke,Falling In Love,73EFADDuQ2kVnLN29yxIQH,Cigarettes After Sex,245840,0,False,Cry,2019-10-25,Partisan Records,0.477,0.268,7,-11.642,0.0267,0.735,0.018,0.12,140.85,4
+I,Yorke,Like a Stone,2xt2piJx6jlFkjS77YiqpL,Audioslave,293960,45,False,Audioslave,2002,Epic,0.614,0.568,7,-5.477,0.0276,0.00797,0,0.0997,107.849,4
+I,Yorke,Shadow on the Sun,2o22GHXR1z4Q0dojvRUkk7,Audioslave,343400,28,False,Audioslave,2002,Epic,0.329,0.658,9,-5.57,0.0373,0.00108,1.56e-06,0.0805,141.123,4
+I,Yorke,I Am the Highway,4Im33JWLEobPtMTTAw7GUF,Audioslave,334906,36,False,Audioslave,2002,Epic,0.341,0.662,9,-5.023,0.0335,0.105,0,0.113,174.875,4
+I,Yorke,Gasoline,5YhrJVUDkB0ijXwRekwQW1,Audioslave,279333,30,False,Audioslave,2002,Epic,0.379,0.716,4,-4.312,0.0326,0.000272,0.00123,0.0786,92.721,4
+I,Yorke,Show Me How to Live,21tuvt3CXIsNquc32v8jpc,Audioslave,277840,41,False,Audioslave,2002,Epic,0.433,0.854,9,-3.868,0.0483,0.000336,0.000177,0.162,89.4,4
+I,Yorke,Cochise,4OCzAGgyWsUKpdWufYywZm,Audioslave,222026,38,False,Audioslave,2002,Epic,0.452,0.873,9,-4.867,0.0613,0.000519,0,0.0592,80.473,4
+I,Yorke,Black Hole Sun,2EoOZnxNgtmZaD8uUmz2nD,Soundgarden,318586,76,False,Superunknown (Deluxe Edition),1994-03-09,Geffen,0.35,0.828,6,-5.373,0.041,0.000217,0.000161,0.0774,105.435,4
+I,Yorke,God Is Dead?,3IKJNHnVZ2bXGjAFBJiUYo,Black Sabbath,532266,55,False,13,2013-01-01,Virgin EMI,0.379,0.726,3,-4.935,0.0332,0.000193,0.00266,0.0578,120.012,4
+I,Yorke,Loner,1PZ3DwxBYzuRYXt2fpomfY,Black Sabbath,299933,49,False,13,2013-01-01,Virgin EMI,0.469,0.873,1,-3.07,0.0291,0.00103,0.00716,0.245,104.057,4
+I,Yorke,End Of The Beginning,3QbnMRadaXqmlghaglLAit,Black Sabbath,486226,47,False,13,2013-01-01,Virgin EMI,0.308,0.882,6,-4.039,0.0613,8.23e-05,0.0939,0.0949,123.859,4
+I,Yorke,Zeitgeist,4HFRItYjNrcwT6Vbtbk2i4,Black Sabbath,277786,46,False,13,2013-01-01,Virgin EMI,0.484,0.252,3,-12.774,0.0321,0.816,0.0399,0.377,111.917,4
+I,Yorke,Free Bird,4qsAYBCJnu2OkTKUVbbOF1,Lynyrd Skynyrd,558933,71,False,(Pronounced 'Leh-'Nérd 'Skin-'Nérd),1973,Geffen*,0.279,0.852,7,-7.838,0.0511,0.0119,0.076,0.0624,117.418,4
+I,Yorke,Simple Man,6F6DxQ3XjToEHX1e2KKSbg,Lynyrd Skynyrd,357933,67,False,(Pronounced 'Leh-'Nérd 'Skin-'Nérd),1973,Geffen*,0.461,0.734,1,-9.379,0.0374,0.00079,0.00554,0.22,120.55,4
+I,Yorke,Anastasia,1xJzbzp1WnkVmCkkC5RxEE,Slash,367280,30,False,Apocalyptic Love (Deluxe Edition),2012-01-01,Virgin Records (India) Pvt Ltd.,0.449,0.936,1,-5.447,0.0445,0.000595,0.00213,0.118,100.487,4
+I,Yorke,Lit Me Up,3hMSeF0YjoWcwr2jLo46zO,Brand New,376960,35,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.471,0.315,8,-12.366,0.031,0.803,0.333,0.109,110.021,4
+I,Yorke,Can't Get It Out,1ibkqXGprUOCX5HuJuo1y1,Brand New,222960,36,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.557,0.714,8,-2.784,0.0302,0.00345,0.000262,0.661,97.994,4
+I,Yorke,Waste,1BEmnRfKF5HWV4tc5ow1F2,Brand New,276080,31,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.58,0.764,6,-4.327,0.0317,0.00134,0.024,0.345,122.034,4
+I,Yorke,Could Never Be Heaven,6EZEeSAmHxWT1OZvvFBgm8,Brand New,196400,31,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.51,0.219,1,-14.432,0.0401,0.899,0.285,0.112,138.085,3
+I,Yorke,Same Logic / Teeth,5EIKzUAyvu6JiYcSWV5bcb,Brand New,334080,32,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.486,0.807,0,-4.396,0.0502,0.0932,0,0.42,147.612,4
+I,Yorke,137,0ESNhgNRoT8UWXwarvYgod,Brand New,301640,30,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.481,0.572,3,-4.334,0.0332,0.152,0.0126,0.117,120.935,4
+I,Yorke,Out of Mana,3yX5y48pkZ7x3KZEFg9sg6,Brand New,314880,30,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.334,0.673,9,-5.438,0.0516,0.00566,0.00151,0.386,164.183,4
+I,Yorke,Desert,1vuOotJUBeRDY3kHgM8KJc,Brand New,216520,29,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.719,0.498,7,-8.568,0.0382,0.693,2.65e-05,0.106,109.087,4
+I,Yorke,No Control,3D5w2vBmwDY5pXW9Lw544F,Brand New,235400,28,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.295,0.62,0,-6.846,0.0385,0.0687,0.212,0.579,83.586,4
+I,Yorke,451,1jkscvBh3jFqzj78MsJH1p,Brand New,292880,27,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.652,0.802,5,-5.126,0.0364,0.00033,0.47,0.113,131.963,4
+I,Yorke,Batter Up,3UIRSX62FoDAMKxxsQw50q,Brand New,507765,27,False,Science Fiction,2017-08-18,Procrastinate Music Traitors,0.475,0.252,1,-10.939,0.0285,0.9,0.0519,0.101,80.004,4
+I,Yorke,Bohemian Rhapsody - 2011 Mix,4u7EnebtmKWzUH433cf5Qv,Queen,354320,83,False,A Night At The Opera (2011 Remaster),1975-11-21,EMI,0.414,0.404,0,-9.928,0.0499,0.271,0,0.3,71.105,4
+I,Yorke,Don't Stop Me Now - 2011 Mix,5T8EDUDqKcs6OSOwEsfqG7,Queen,209413,82,False,Jazz (2011 Remaster),1978-11-10,EMI,0.559,0.868,5,-5.276,0.17,0.0475,0.000176,0.776,156.295,4
+I,Yorke,Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,Queen,214653,81,False,The Game (2011 Remaster),1980-06-27,EMI,0.933,0.528,5,-6.472,0.161,0.112,0.312,0.163,109.967,4
+I,Yorke,Under Pressure - Remastered,2fuCquhmrzHpu5xcA1ci9x,Queen,248440,80,False,Hot Space (2011 Remaster),1982-05-03,EMI,0.671,0.712,2,-7.815,0.0476,0.429,0,0.103,113.805,4
+I,Yorke,We Will Rock You - Remastered,4pbJqGIASGPr0ZpGpnWkDn,Queen,122066,79,False,News Of The World (2011 Remaster),1977-10-28,EMI,0.692,0.497,2,-7.316,0.119,0.676,0,0.259,81.308,4
+I,Yorke,We Are The Champions - Remastered 2011,1lCRw5FEZ1gPDNPzy1K4zW,Queen,179200,75,False,News Of The World (2011 Remaster),1977-10-28,EMI,0.268,0.459,10,-6.94,0.0346,0.378,0,0.118,64.177,4
+I,Yorke,Radio Ga Ga - 2011 Mix,1nQRg9q9uwALGzouOX5OyQ,Queen,348226,75,False,The Works (2011 Remaster),1984-02-27,EMI,0.744,0.502,5,-7.719,0.0359,0.183,0.000228,0.189,112.344,4
+I,Yorke,John The Fisherman,6nL7lAlmyMdz0sXp280UkE,Primus,216733,0,False,They Can't All Be Zingers,2006-01-01,Interscope,0.604,0.948,7,-3.093,0.0595,0.000816,0.00714,0.0446,115.132,4
+I,Yorke,Gimme Shelter,6H3kDe7CGoWYBabAeVWGiD,The Rolling Stones,270773,76,False,Let It Bleed,1969-12-05,"ABKCO Music and Records, Inc.",0.634,0.63,1,-8.277,0.031,0.447,0.039,0.17,118.628,4
+I,Yorke,Baba O'Riley,3qiyyUfYe7CRYLucrPmulD,The Who,300400,77,False,Who's Next,1971-08-14,Polydor Records,0.489,0.724,5,-8.367,0.0352,0.313,0.185,0.287,117.292,4
+I,Yorke,Won't Get Fooled Again - Original Album Version,0cJPLFrlV7TTCyPLupHzcH,The Who,511400,66,False,Who's Next,1971-08-14,Polydor Records,0.686,0.92,2,-6.231,0.0566,0.301,0.27,0.0807,135.027,4
+VIRTUOSO,Yorke,The Pot,1lATXTBJDHwawvT1UfxWu3,TOOL,381946,68,True,"10,000 Days",2006-04-28,RCA Records Label,0.469,0.79,7,-6.889,0.0391,0.000148,0.372,0.282,107.45,4
+VIRTUOSO,Yorke,Soothsayer (Dedicated to Aunt Suzie),5VBwLOZDyDWInNYIUniuZG,Buckethead,544800,56,False,Crime Slunk Scene,2009-03-21,Buckethead,0.23,0.766,10,-3.849,0.0398,0.000424,0.838,0.159,151.106,4
+VIRTUOSO,Yorke,Nottingham Lace,6fjqKdkYCTJgAkRm7RcFUm,Buckethead,393426,46,False,Enter The Chicken,2005-11-01,Serjical Strike Records,0.581,0.869,0,-3.677,0.0646,0.00242,0.859,0.0868,109.986,4
+VIRTUOSO,Yorke,Surfing with the Alien,2ekfM9Dcslm7l9Lh7HGT0i,Joe Satriani,266386,56,False,Surfing With The Alien,1987,Epic,0.392,0.936,5,-6.532,0.0849,0.000221,0.839,0.407,167.333,4
+VIRTUOSO,Yorke,The Maze,4scAsdd1L0LONlyYdusyR0,Vinnie Moore,522320,32,False,The Maze,1999-03-23,"Shrapnel Records, Inc.",0.483,0.945,11,-4.744,0.165,0.207,0.811,0.135,123.816,4
+VIRTUOSO,Yorke,Hey Joe,3VMMmMR4IYL28n7oKHyUoD,Jimi Hendrix,209813,50,False,Experience Hendrix: The Best Of Jimi Hendrix,1997-09-16,Legacy Recordings,0.349,0.757,9,-5.659,0.0359,0.00351,0.329,0.0332,166.717,4
+VIRTUOSO,Yorke,For the Love of God,5m5I3KcV83zf2p2qbsnr3y,Steve Vai,363333,55,False,Passion And Warfare,1990-07,Epic/Legacy,0.152,0.842,9,-5.783,0.0418,0.00347,0.912,0.115,95.49,4
+VIRTUOSO,Yorke,Heart of the City,0pcwaoBxngoFE5qIL8FDWy,Guthrie Govan,120000,37,False,West Coast Grooves,2013-05-13,Jamtrackcentral.com,0.404,0.458,7,-7.209,0.0284,0.0123,0.748,0.332,80.767,3
+VIRTUOSO,Yorke,Home Invasion / Regret #9,1a6uHU6uqREaMMgkrKijLC,Steven Wilson,689607,36,False,Hand Cannot Erase,2015-03-02,Kscope,0.469,0.588,9,-11.262,0.0338,0.0104,0.518,0.268,76.98,4
+VIRTUOSO,Yorke,Nocturne,7BQVhWw9GR1Up3eKQrYFlI,Julian Lage,199015,47,False,Arclight,2016-03-11,Mack Avenue,0.486,0.48,1,-8.643,0.0262,0.772,0.802,0.09,107.282,4
+VIRTUOSO,Yorke,Bone Collector,2yacAN0DZf5tIcjLK41cYP,Julian Lage & Chris Eldridge,286706,0,False,Mount Royal,2017-02-24,Free Dirt Records,0.454,0.191,5,-15.735,0.0381,0.911,0.906,0.109,145.305,4
+VIRTUOSO,Yorke,Walling Blues,5NinkgyROXThOU8ggDZsJK,Juhan Ongbrian,278106,10,False,Walling Blues,2020-03-22,"Make Music, Not War",0.595,0.256,4,-11.608,0.0445,0.981,0.901,0.108,107.381,4
+VIRTUOSO,Yorke,Sail on Soothsayer (In Memory of Aunt Susie 1932-2007),6ASTiz425JMiA6Ki8kklox,Buckethead,388946,36,False,Decoding the Tomb of Bansheebot,2009-03-20,Buckethead,0.578,0.43,4,-8.561,0.0276,0.196,0.892,0.158,139.942,4
+VIRTUOSO,Yorke,Cliffs Of Dover - Instrumental,5qm0KiVKMXW1kq6VrnIhz5,Eric Johnson,249767,60,False,Ah Via Musicom,1990,Capitol Records,0.449,0.775,7,-12.029,0.0405,0.162,0.149,0.248,94.907,4
+VIRTUOSO,Yorke,Cause We've Ended as Lovers,4zoQ3EqopTIGmK2c2rPV5t,Jeff Beck,342066,57,False,Blow By Blow,1975-03-29,Epic,0.549,0.294,0,-13.181,0.0337,0.144,0.798,0.108,115.299,4
+VIRTUOSO,Yorke,Europa (Earth's Cry Heaven's Smile),4VbOIkKqt0gkZpC75oKSxS,Santana,304106,55,False,Amigos,1976-03-26,Columbia/Legacy,0.307,0.544,0,-9.679,0.0501,0.0327,0.906,0.167,74.945,4
+VIRTUOSO,Yorke,Electric Gypsy,3O2RFTrcmj3flj2X2FCyLL,Andy Timmons,273306,45,False,"That Was Then, This Is Now",2015-09-16,Timstone Records,0.433,0.644,1,-8.131,0.0276,0.00565,0.903,0.119,89.736,4
+VIRTUOSO,Yorke,One For The Road,4KI7Zob5qygg2jiCcU3UMT,Simon Watt,163298,16,False,One For The Road,2020-01-31,Independent,0.746,0.441,10,-10.407,0.052,0.291,0.0368,0.0977,97.043,4
+PERP,Yorke,The Trip,3TIkuJp4rqDnQgpNkkpxLr,Still Corners,374240,61,False,Strange Pleasures,2013-05-07,Sub Pop Records,0.698,0.747,2,-6.193,0.0392,0.158,0.00982,0.123,120.007,4
+PERP,Yorke,You Deserve This,254ybNwQUpo3zbyBb41KMk,Men I Trust,184920,45,False,You Deserve This,2017-05-10,Men I Trust,0.559,0.422,0,-8.781,0.0278,0.726,0.667,0.0916,130.021,4
+PERP,Yorke,Locket,26AhgCPP2OKAnF4AyBf2Kg,Crumb,318378,0,False,Locket,2017-06-23,Crumb,0.393,0.481,1,-10.462,0.0273,0.758,0.73,0.0869,98.462,4
+PERP,Yorke,Agoraphobia,1ujbcTZIj5MSTFZZTgxX2Y,Deerhunter,202640,49,False,Microcastle,2008-08-11,4AD,0.58,0.943,4,-6.887,0.0359,0.0304,0.81,0.658,120.089,4
+PERP,Yorke,A Little While,1ahzHj4rfljE8w4ZwpEjOM,Yellow Days,318147,65,False,Harmless Melodies,2016-11-18,Good Years Music Limited,0.577,0.604,3,-7.84,0.0332,0.182,0.00211,0.205,99.997,4
+PERP,Yorke,"I'm Jim Morrison, I'm Dead",3no4hoErHolKdKVzJWJTcg,Mogwai,404480,21,False,The Hawk Is Howling,2008-09-22,[PIAS] Recordings Catalogue,0.203,0.243,1,-9.448,0.0412,0.167,0.949,0.0483,128.302,4
+PERP,Yorke,Again (feat. Ghostly Kisses),74SiMxFuGC4SYuIGRBIIcZ,Men I Trust,229264,44,False,Headroom,2015-06-30,Men I Trust,0.822,0.358,5,-11.981,0.0462,0.651,0.568,0.115,109.995,4
+PERP,Yorke,Aquarelle,5dJPIMizpBWyGivbdNo11v,Men I Trust,168674,36,False,Headroom,2015-06-30,Men I Trust,0.796,0.359,9,-14.494,0.0905,0.34,0.884,0.115,113.994,3
+PERP,Yorke,A Shitty Love Song,79VOtcP9nts7OLjzqmzf0I,Jye,197142,50,True,Disposable Love,2017-10-16,Jye Geltch,0.763,0.146,9,-13.375,0.0379,0.946,1.44e-06,0.118,98.056,4
+PERP,Yorke,Your Hand Holding Mine,0jWHVt7QkVRWCj2Sw2Ncl3,Yellow Days,250633,57,False,Harmless Melodies,2016-11-18,Good Years Music Limited,0.509,0.339,7,-10.64,0.0348,0.716,0.0085,0.126,118.385,4
+PERP,Yorke,Plants,4KDVWd4zUHrfJHyuOuvLJP,Crumb,191904,0,False,Plants,2017-05-24,Crumb,0.494,0.406,11,-10.725,0.0416,0.607,0.53,0.122,81.067,4
+PERP,Yorke,Sink into the Floor,4UCiDcv0yO9tNLZbkZeBBA,Feng Suave,281054,62,False,Feng Suave,2017-10-04,Feng Suave,0.566,0.394,10,-11.438,0.0445,0.712,2.59e-05,0.156,78.948,4
+PERP,Yorke,Chamber Of Reflection,1MJ5f5EYBC92ADD6xcz7nb,Mac DeMarco,231723,74,False,Salad Days,2014-04-01,Captured Tracks,0.537,0.558,11,-8.678,0.0929,0.263,0.91,0.102,131.037,4
+PERP,Yorke,Sweet FA,4fY6EU3jUQQISiUR8DLXuM,Peach Pit,215360,55,False,Sweet FA,2018-06-27,Columbia,0.574,0.495,1,-7.893,0.0479,0.137,0.000652,0.114,145.085,4
+PERP,Yorke,Alrighty Aphrodite,6OiRh4kttAs1YWglvTcYkB,Peach Pit,207813,67,False,Being So Normal,2018-06-28,Columbia,0.534,0.724,6,-4.675,0.0495,0.00605,0.0929,0.108,81.846,4
+PERP,Yorke,Ruthless,1mbuSss0OVqfS00y7yCNCZ,The Marías,247455,62,False,"Superclean, Vol. II",2018-09-28,Superclean Records,0.673,0.437,9,-11.746,0.0325,0.713,0.152,0.117,104.996,4
+PERP,Yorke,Gap in the Clouds,7l5j3FapCyr6HxUgoAynM2,Yellow Days,280074,62,False,Harmless Melodies,2016-11-18,Good Years Music Limited,0.576,0.535,9,-8.392,0.041,0.588,0.0106,0.31,139.939,4
+PERP,Yorke,I Don't Know You,4cJOLN346rtOty3UPACsao,The Marías,209449,67,False,I Don't Know You,2017-06-14,Superclean Records,0.884,0.333,9,-9.753,0.0617,0.293,0.0205,0.103,118.065,4
+PERP,Yorke,Peach Pit,0ZK8TGOsngrstVPsnrHbK1,Peach Pit,287080,68,False,Sweet FA,2018-06-27,Columbia,0.515,0.804,6,-5.345,0.0398,0.00322,0.00229,0.149,123.969,4
+PERP,Yorke,The Dream And The Dreamer,69ik9xMA7L43HaIsJQjHyC,Ian Brown,337881,34,False,Ripples,2019-02-01,Virgin EMI,0.687,0.692,4,-12.007,0.0382,0.0145,0.0272,0.178,105.0,4
+PERP,Yorke,A Different Age,6TIOhfnPBw0k5s3KHN3VHO,Current Joys,412418,54,False,A Different Age,2018-03-02,Danger Collective,0.627,0.371,2,-10.621,0.0269,0.637,0.0643,0.0759,143.935,4
+PERP,Yorke,Everytime,4zvHZWOGyL7WcmqHOgtGCW,boy pablo,172941,69,False,Roy Pablo,2017-05-19,777 MUSIC,0.431,0.663,2,-10.066,0.0351,0.0249,0.0397,0.117,203.908,4
+PERP,Yorke,...baby one more time,4Jz3Dbly8NBGMJtnSyNR53,The Marías,125333,0,False,...baby one more time,2019-05-28,Superclean Records,0.802,0.163,5,-15.63,0.0404,0.689,0.0593,0.143,90.005,4
+PERP,Yorke,Bags,6X3FZtz4cKU2MKSQlGG9ZG,Clairo,260519,59,False,Bags,2019-05-24,FADER Label,0.742,0.546,1,-7.694,0.0315,0.172,0.38,0.115,104.996,4
+PERP,Yorke,Dawn Chorus,0F4EoaMJmWNz8vS8tKgsqY,Thom Yorke,323080,53,False,ANIMA,2019-06-26,XL Recordings,0.261,0.174,7,-16.161,0.0346,0.854,0.893,0.169,138.999,4
+PERP,Yorke,Lovefool,3dmsgudsfeGdQ9NsZFOm0C,No Vacation,130961,59,False,Amo XO,2015-04-06,No Vacation,0.819,0.688,2,-5.967,0.0363,0.0549,0.0568,0.0799,104.013,4
+PERP,Yorke,The Suburbs,2UWdUez9MB9yzL7Y81Mcip,Arcade Fire,315200,69,False,The Suburbs,2010,Sony Music CG,0.616,0.682,6,-6.148,0.0265,0.0578,0.0241,0.342,117.78,4
+PERP,Yorke,So Good At Being in Trouble,5VarZFY00sO54HErJ3TPCI,Unknown Mortal Orchestra,230146,69,False,II,2013-02-05,Jagjaguwar,0.829,0.435,0,-10.136,0.0515,0.0363,0.878,0.119,103.816,4
+PERP,Yorke,Skiptracing,6JZv5f9ufV0Uz7VbGpd2DL,Mild High Club,219646,61,False,Skiptracing,2016-08-26,Stones Throw Records,0.72,0.677,11,-9.202,0.0245,0.0729,0.000103,0.397,109.401,4
+PERP,Yorke,Yam Yam,7kyiHjkFdmHcYcIJtFAdaF,No Vacation,216038,64,False,Yam Yam,2017-05-12,Topshelf Records,0.445,0.591,7,-9.004,0.0316,0.319,0.766,0.107,137.864,4
+PERP,Yorke,Egg,4Vie7AYSqfGHEP2uBh0ua5,The Garden,184662,53,False,haha,2015-10-09,Epitaph,0.568,0.778,0,-6.5,0.0338,0.00101,0.00659,0.113,124.077,4
+PERP,Yorke,Roll The Die,6dXmmSEnUXg5Ty4vlQ61bs,killkiyoshi,118880,2,False,Mellodrama,2019-08-04,killkiyoshi,0.644,0.687,8,-10.954,0.0387,0.206,0.00468,0.0902,153.931,4
+PERP,Yorke,Happen Twice,3YB7EFZi3bqWB45rakTc73,Mark Whalen,226666,44,False,Morning Glory,2018-11-16,Mark Whalen,0.836,0.319,5,-11.325,0.0467,0.555,0.0601,0.254,90.006,4
+PERP,Yorke,Some Feeling,5e0b8UxDpZQro2cUCtK29Q,Mild Orange,197224,10,False,Foreplay,2018-04-18,Mild Orange,0.743,0.51,9,-8.192,0.0317,0.448,7.48e-06,0.121,128.909,4
+PERP,Yorke,Desire Lines,3jZ0GKAZiDMya0dZPrw8zq,Deerhunter,404413,58,False,Halcyon Digest,2010-09-27,4AD,0.318,0.918,2,-6.288,0.0373,0.0565,0.293,0.659,120.567,4
+PERP,Yorke,Is This It,2pAD0PKMUMtxlMvz33tYzB,The Strokes,151333,57,False,Is This It,2001-07-30,RCA Records Label,0.664,0.679,5,-8.293,0.03,0.149,4.84e-05,0.347,96.002,4
+PERP,Yorke,Barely Legal,4KC2Z9dL4jL61Ys35N6srg,The Strokes,234733,54,True,Is This It,2001-07-30,RCA Records Label,0.427,0.886,0,-6.304,0.037,0.004,0.0532,0.0909,157.609,4
+PERP,Yorke,Someday,56NkIxSZZiMpFP5ZNSxtnT,The Strokes,183573,67,False,Is This It,2001-07-30,RCA Records Label,0.542,0.531,9,-7.481,0.0301,0.0033,1.51e-06,0.338,105.97,4
+PERP,Yorke,Last Nite,7kzKAuUzOITUauHAhoMoxA,The Strokes,193506,72,False,Is This It,2001-07-30,RCA Records Label,0.624,0.91,0,-5.703,0.0297,0.0285,0.000198,0.0789,104.042,4
+PERP,Yorke,White Gloves,4AKUOaCRcoKTFnVI9LtsrN,Khruangbin,218306,66,False,The Universe Smiles Upon You,2015-11-06,Late Night Tales,0.635,0.3,2,-13.957,0.0285,0.707,0.829,0.574,91.452,4
+PERP,Yorke,Dern Kala,47FmTHqPWGWEfbgDpLjvCt,Khruangbin,219840,59,False,The Universe Smiles Upon You,2015-11-06,Late Night Tales,0.632,0.646,9,-11.398,0.0385,0.0177,0.88,0.116,87.325,4
+PERP,Yorke,Mr. White,5EqGquh3ajBQjudpLLhJKy,Khruangbin,298440,58,False,The Universe Smiles Upon You,2015-11-06,Late Night Tales,0.625,0.499,5,-14.094,0.0742,0.483,0.87,0.305,88.223,4
+PERP,Yorke,Maria También,2EFuKYBalAcplMyUVL3BDH,Khruangbin,190999,56,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.746,0.632,6,-7.32,0.0462,0.00252,0.859,0.542,103.612,4
+PERP,Yorke,Cómo Me Quieres,3GO6bT0b1sdInk1KPCK64d,Khruangbin,225153,54,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.55,0.536,6,-10.045,0.0423,0.00612,0.884,0.372,85.458,4
+PERP,Yorke,Lady and Man,1RcKa3TDe9zGeb33BwqYGU,Khruangbin,258044,52,False,Con Todo El Mundo,2018-01-26,Late Night Tales,0.728,0.691,7,-7.948,0.0583,0.000716,0.826,0.0913,82.204,4
+PERP,Yorke,Gotten,0xMvzVeUgeT6BD0guG7zX8,Slash,302160,39,False,Slash,2010-01-01,Universal Music Asia Pacific Ltd.,0.548,0.486,4,-8.236,0.0302,0.136,0.000127,0.135,130.316,4
+PERP,Yorke,Weird Fishes/ Arpeggi,4Iyo50UoYhuuYORMLrGDci,Radiohead,318186,66,False,In Rainbows,2007-12-28,XL Recordings,0.538,0.61,11,-8.027,0.0392,0.774,0.749,0.0909,152.999,4
+PERP,Yorke,Reckoner,56Z7hbyMrndw1naxb6I5Oi,Radiohead,290213,62,False,In Rainbows,2007-12-28,XL Recordings,0.518,0.656,4,-7.438,0.0264,0.511,0.156,0.0679,104.282,4
+PERP,Yorke,Fake Plastic Trees,045sp2JToyTaaKyXkGejPy,Radiohead,290706,71,False,The Bends,1995-03-28,XL Recordings,0.454,0.229,2,-12.592,0.0297,0.167,0.102,0.202,73.552,4
+PERP,Yorke,I Didn't Know,1RI9Qpt8QbYtwfCW8npcO1,Skinshape,218626,60,False,Filoxiny,2018-11-23,Lewis Recordings,0.646,0.399,5,-14.222,0.0295,0.432,0.284,0.124,104.985,4
+PERP,Yorke,Don't Call My Name,2dXs6WlSVXJX3i99Xw4n2u,Skinshape,249846,56,False,Life & Love,2017-05-03,DLoaw & Co.,0.677,0.565,4,-8.057,0.0361,0.156,0.74,0.108,90.023,4
+PERP,Yorke,Only in My Dreams,190IqlryWu91WBKeDgZqZz,The Marías,170893,64,False,"Superclean, Vol. I",2017-11-03,Superclean Records,0.518,0.496,10,-11.607,0.0292,0.41,0.1,0.0999,143.917,4

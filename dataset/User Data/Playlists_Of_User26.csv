@@ -1,0 +1,162 @@
+Playlist_Name,Username,Track_Title,Track_ID,Artist,Duration_ms,Popularity,Explicit,Album,Release_Date,Label,Danceability,Energy,Key,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Tempo,Time_Signature
+Playlist_Name,Username,Track_Title,Track_ID,Artist,Duration_ms,Popularity,Explicit,Album,Release_Date,Label,Danceability,Energy,Key,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Tempo,Time_Signature
+Classics,Samridhi Diwan,Everybody Wants To Go To Heaven,1L48GZCIcVKZf3WaN5TGNl,Glenn Yarbrough & The Limeliters,319306,31,False,Joy Across The Land,1993,"GNP Crescendo Record Co., Inc.",0.51,0.377,11,-14.654,0.0387,0.234,0.000649,0.933,74.287,4
+Classics,Samridhi Diwan,My Way,3spdoTYpuCpmq19tuD0bOe,Frank Sinatra,276800,74,False,My Way (Expanded Edition),1969-03,FRANK SINATRA DIGITAL REPRISE,0.401,0.381,2,-7.458,0.0274,0.7,0,0.122,75.454,4
+Classics,Samridhi Diwan,"Fuh You - Recorded At Abbey Road Studios, London",35g1pRwhJI6Zry9oflNX08,Paul McCartney,212243,50,False,Spotify Singles: Paul McCartney Box Set,2018-09-14,Capitol Records,0.45,0.559,0,-12.973,0.0352,0.0159,0.000822,0.676,91.792,4
+Classics,Samridhi Diwan,I Can't Make It Alone - Remastered,2KzlY5heyGkSYSbd6MK7yr,P.J. Proby,260000,37,False,Best Of The EMI Years (1961-1972),2008-01-01,EMI Gold,0.228,0.7,10,-6.776,0.04,0.483,1.99e-06,0.643,177.244,4
+Classics,Samridhi Diwan,Oh! Darling - 2019 Mix,0vCuYbvaN9wd8dA0LZ40i7,The Beatles,207146,51,False,Oh! Darling,1969-09-26,UMC (Universal Music Catalogue),0.437,0.669,4,-6.524,0.0395,0.0344,0.00395,0.347,173.67,3
+Classics,Samridhi Diwan,We're Still Here,7daJwR04EehI9wFZtDfwvJ,Steve Perry,246186,0,False,We're Still Here,2018-09-21,Fantasy Records,0.274,0.586,7,-5.798,0.0342,0.404,0,0.166,185.869,4
+Classics,Samridhi Diwan,Here Comes The Sun - Remastered,45yEy5WJywhJ3sDI28ajTm,The Beatles,185733,1,False,Abbey Road (Remastered),1969-09-26,EMI Catalogue,0.557,0.54,9,-10.484,0.0347,0.0339,0.00248,0.179,129.171,4
+Classics,Samridhi Diwan,Kokomo,2OZyDYkNED6mIDi8RXLnWy,The Beach Boys,215573,65,False,Greatest Hits,2012-01-01,Capitol Records,0.684,0.643,0,-10.252,0.0329,0.0107,0,0.292,115.571,4
+Classics,Samridhi Diwan,Wouldn't It Be Nice - Remastered,0cx32rX0uZvcJUP92Wkj2y,The Beach Boys,145106,67,False,The Beach Boys Love Songs,2006-01-01,Capitol Records,0.429,0.543,5,-9.139,0.0347,0.536,2.54e-05,0.125,122.619,4
+Classics,Samridhi Diwan,The Chain - 2004 Remaster,5e9TFTbltYBg2xThimr0rU,Fleetwood Mac,270213,80,False,Rumours (Super Deluxe),1977-02-04,Rhino/Warner Records,0.545,0.67,9,-8.81,0.0496,0.009,0.000822,0.0451,151.553,4
+Classics,Samridhi Diwan,Gimme! Gimme! Gimme! (A Man After Midnight),7r5bS08R8d0jZuDZutVeHQ,ABBA,294346,0,False,Voulez-Vous,1979,Universal Music Group,0.744,0.495,10,-9.615,0.0402,0.0162,0.00825,0.177,119.541,4
+Personal favorites,Samridhi Diwan,Let's Fall in Love for the Night,7kQkmyoHCEqwe7QwDbkSXM,FINNEAS,190348,80,True,Let’s Fall In Love For The Night,2018-10-19,OYOY,0.737,0.408,5,-7.941,0.104,0.802,0,0.171,127.921,4
+Personal favorites,Samridhi Diwan,Claudia,04oG24PjVs59q72Id8wXFK,FINNEAS,161876,63,False,Claudia,2019-02-22,OYOY,0.812,0.447,11,-7.629,0.0765,0.552,0,0.323,125.075,4
+Personal favorites,Samridhi Diwan,Shelter,5wCc4XL0VivKlohsxDKcnQ,FINNEAS,187270,60,False,Blood Harmony,2019-10-04,OYOY,0.89,0.452,3,-10.041,0.0772,0.608,0,0.0786,119.98,4
+Personal favorites,Samridhi Diwan,Landmine,7HXtzht0l4d7pfoiEn13ea,FINNEAS,208675,49,False,Landmine,2018-06-15,OYOY,0.742,0.593,9,-8.359,0.127,0.536,6.02e-06,0.101,94.988,4
+Personal favorites,Samridhi Diwan,everything i wanted,3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,245425,88,False,everything i wanted,2019-11-13,Darkroom/Interscope Records,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,120.006,4
+Personal favorites,Samridhi Diwan,my boy,1RGasjWLZ4qMN7wbtkLa3u,Billie Eilish,170852,76,False,dont smile at me,2017-12-22,Darkroom,0.692,0.394,11,-8.745,0.207,0.472,0.000191,0.117,89.936,4
+Personal favorites,Samridhi Diwan,COPYCAT,5w7wuzMzsDer96KqxafeRK,Billie Eilish,194711,77,False,dont smile at me,2017-12-22,Darkroom,0.679,0.388,4,-10.977,0.0932,0.353,9.25e-05,0.341,124.909,4
+Personal favorites,Samridhi Diwan,watch,7eB1V5LvAdxCc7brfGhRRo,Billie Eilish,177523,74,False,dont smile at me,2017-12-22,Darkroom,0.441,0.599,0,-8.985,0.225,0.333,0.00198,0.103,165.212,4
+Personal favorites,Samridhi Diwan,Choo Lo,2qgXrzJsry4KgYoJCpuaul,The Local Train,233630,60,False,Aalas Ka Pedh,2015-09-25,The Local Train,0.512,0.695,4,-6.349,0.0271,0.0265,0.00815,0.146,145.957,4
+Personal favorites,Samridhi Diwan,Dil Mere,6ZmtxXUXRVjxOhugKkmerC,The Local Train,211290,57,False,Aalas Ka Pedh,2015-09-25,The Local Train,0.655,0.473,8,-9.806,0.0267,0.842,0.0323,0.167,92.962,4
+Personal favorites,Samridhi Diwan,Khoj (Passing By),4QK1qv4mgsfdWmMzp1Z3fx,When Chai Met Toast,212571,53,False,Believe,2018-09-07,When Chai Met Toast,0.58,0.636,2,-6.649,0.0262,0.191,0.0313,0.0915,105.037,3
+Personal favorites,Samridhi Diwan,Baatein,3q5Ur1rIlB8NuOY6FbzxJs,Raghav Chaitanya,246486,45,False,Baatein,2020-02-07,Raghav Chaitanya & Co ©,0.568,0.356,2,-8.365,0.0335,0.705,0,0.141,147.916,4
+Personal favorites,Samridhi Diwan,Akhiyan Udeek Diyan,5DSgo6sCcN3eM1EYVngt2j,Indian Ocean,709500,34,False,Akhiyan Udeek Diyan,2020-04-17,Times Music,0.366,0.666,11,-9.046,0.0583,0.0361,0.152,0.0733,131.72,4
+Personal favorites,Samridhi Diwan,Dilnawaz,2KDR0VRWbQ88LQ1cdi8T3z,The Local Train,207530,48,False,Vaaqif,2018-01-29,The Local Train,0.501,0.568,4,-7.968,0.0331,0.217,1.64e-05,0.094,88.904,4
+Personal favorites,Samridhi Diwan,'Hop Stomp',5mPQOKM56h6IzG3oxK2C1a,When Chai Met Toast,166000,35,False,'Hop Stomp',2019-02-06,When Chai Met Toast,0.679,0.761,4,-6.574,0.0328,0.495,0.000281,0.148,120.039,4
+Personal favorites,Samridhi Diwan,Dead Roses,7gND3bJ57jf5q8PYU1aX2z,Krameri,139800,28,False,Dead Roses,2019-07-19,Krameri,0.735,0.209,10,-13.908,0.0437,0.904,0.00613,0.149,124.965,4
+Personal favorites,Samridhi Diwan,Aaoge Tum Kabhi,5VSJ9OfZx8V91A7u8Fuoh1,The Local Train,313163,54,False,Aalas Ka Pedh,2015-09-25,The Local Train,0.534,0.863,0,-4.616,0.0357,0.0152,0.0167,0.144,98.006,4
+Personal favorites,Samridhi Diwan,Oh Love,02sas1xqIwRm7iWSoHDvKe,Prateek Kuhad,211193,51,False,In Tokens & Charms,2015-01-21,Pagal Haina Records,0.633,0.743,7,-8.029,0.0362,0.29,0.00696,0.0629,176.021,4
+Personal favorites,Samridhi Diwan,Same Blood,6no2TiaMDBkI5Mo6yssV4X,Aloe Blacc,183893,36,False,Same Blood,2019-07-02,Aloe Blacc,0.676,0.809,2,-5.42,0.0374,0.168,0,0.28,76.023,4
+Personal favorites,Samridhi Diwan,Ticking Bomb,71GzUmdpoVsIL2djM1Ib81,Aloe Blacc,216320,44,False,Lift Your Spirit,2013-01-01,Interscope,0.675,0.649,1,-8.784,0.0487,0.568,0.00098,0.104,107.943,4
+Personal favorites,Samridhi Diwan,Loco Contigo (feat. J. Balvin & Tyga),6osaMSJh9NguagEDQcZaKx,DJ Snake,185194,81,False,Carte Blanche,2019-07-25,DJ Snake Music Productions Limited,0.694,0.758,11,-2.986,0.218,0.278,1.34e-06,0.102,192.091,4
+Personal favorites,Samridhi Diwan,Rolling With the Punches,4L8KixjtVFbxS1s2nsEI8M,The Blue Stones,201257,0,False,How's That Sound?,2012-11-02,The Blue Stones,0.575,0.724,1,-6.212,0.0392,0.503,0.00896,0.104,164.066,4
+Personal favorites,Samridhi Diwan,Bang!,5zrvbvUB7T3d1mi69885VZ,AJR,170858,55,False,Bang!,2020-02-12,Liberator Music,0.74,0.516,1,-6.233,0.0507,0.0183,0,0.0558,139.918,4
+Personal favorites,Samridhi Diwan,CHAMPION,3FnrpYP8QSbYXbp8i8UQKO,Bishop Briggs,173146,0,False,CHAMPION,2019-07-17,Island Records,0.619,0.702,4,-3.552,0.0344,0.0148,1.4e-05,0.15,98.004,4
+Personal favorites,Samridhi Diwan,Die Like This,42BkCuo8iiBiROubJSDoWQ,Mourners,181673,44,False,Die Like This,2020-01-10,Shotgun Wedding Records,0.365,0.588,10,-5.206,0.0409,0.0528,0,0.51,79.716,4
+Personal favorites,Samridhi Diwan,Teeth,1JRK7srBWUtAW7dPabKBwJ,5 Seconds of Summer,204887,18,False,Teeth,2019-08-21,5 Seconds of Summer/Interscope Records,0.755,0.448,3,-2.993,0.0405,0.0508,3.87e-06,0.11,139.028,4
+Personal favorites,Samridhi Diwan,Older,52iLDrSoRtf9lcgFuLVfqE,Sasha Sloan,191001,74,False,Older,2018-11-09,RCA Records Label,0.681,0.292,11,-9.599,0.0483,0.743,0,0.0974,64.002,4
+Personal favorites,Samridhi Diwan,Easily,2k9N4caeCIJLOWwWwssrEM,Bruno Major,210240,76,False,A Song For Every Moon,2017-08-31,Bruno Major,0.772,0.256,7,-8.545,0.0481,0.491,0.00612,0.144,118.902,3
+Personal favorites,Samridhi Diwan,Move On,3SOp10shYtVHuZWxVGenUb,Mike Posner,178400,60,False,A Real Good Kid,2019-01-18,Island Records,0.736,0.689,2,-5.736,0.0336,0.207,0.501,0.402,102.009,4
+Personal favorites,Samridhi Diwan,Que Calor (feat. J Balvin & El Alfa),1RKZvaLj3UPhGjZkaIrFm7,Major Lazer,169997,73,False,Que Calor (feat. J Balvin & El Alfa),2019-09-11,Mad Decent,0.795,0.885,8,-4.13,0.0713,0.0375,0.00638,0.292,126.037,4
+Personal favorites,Samridhi Diwan,000000,5QeUZ1Z4xSCegBXutW3IIt,A.CHAL,165214,65,True,EXOTIGAZ,2018-12-08,Epic/Gazi World,0.734,0.472,1,-8.192,0.306,0.494,0.00293,0.102,190.011,4
+Personal favorites,Samridhi Diwan,EXOTICA,6xRAt6Ui9UoB0ATXyf1pM5,A.CHAL,160559,46,True,EXOTIGAZ,2018-12-08,Epic/Gazi World,0.721,0.619,6,-7.464,0.0462,0.0101,1.13e-05,0.082,159.936,4
+Personal favorites,Samridhi Diwan,Warm (feat. Mia),3kBofOTKMUZ62a311eUwvx,Dre'es,255465,65,True,Warm (feat. Mia),2017-10-19,Futile Sounds,0.662,0.297,8,-14.525,0.0301,0.888,0.108,0.119,94.023,4
+Personal favorites,Samridhi Diwan,Everybody Wants To Go To Heaven,1L48GZCIcVKZf3WaN5TGNl,Glenn Yarbrough & The Limeliters,319306,31,False,Joy Across The Land,1993,"GNP Crescendo Record Co., Inc.",0.51,0.377,11,-14.654,0.0387,0.234,0.000649,0.933,74.287,4
+Personal favorites,Samridhi Diwan,Riptide,7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,204280,79,False,Dream Your Life Away,2014-09-08,F-Stop Records/Atlantic,0.484,0.731,1,-6.694,0.0379,0.431,0,0.151,101.654,4
+Hindi or indie,Samridhi Diwan,Angel,5s6w6LGupX78gmYBnD6PyX,Zack Knight,175536,53,False,Angel,2019-08-26,Revolve Records,0.688,0.865,11,-4.843,0.0615,0.0635,2.09e-06,0.0838,108.907,4
+Hindi or indie,Samridhi Diwan,Baatein,3q5Ur1rIlB8NuOY6FbzxJs,Raghav Chaitanya,246486,45,False,Baatein,2020-02-07,Raghav Chaitanya & Co ©,0.568,0.356,2,-8.365,0.0335,0.705,0,0.141,147.916,4
+Hindi or indie,Samridhi Diwan,Akhiyan Udeek Diyan,5DSgo6sCcN3eM1EYVngt2j,Indian Ocean,709500,34,False,Akhiyan Udeek Diyan,2020-04-17,Times Music,0.366,0.666,11,-9.046,0.0583,0.0361,0.152,0.0733,131.72,4
+Hindi or indie,Samridhi Diwan,Oh Love,02sas1xqIwRm7iWSoHDvKe,Prateek Kuhad,211193,51,False,In Tokens & Charms,2015-01-21,Pagal Haina Records,0.633,0.743,7,-8.029,0.0362,0.29,0.00696,0.0629,176.021,4
+Hindi or indie,Samridhi Diwan,Alaska,7IUA6IgQ7wFZYLrhJWNqPc,Kalumé,157714,29,False,Alaska,2019-03-08,Kalumé,0.624,0.217,0,-17.756,0.0323,0.715,3.08e-06,0.154,105.028,4
+Hindi or indie,Samridhi Diwan,Dead Roses,7gND3bJ57jf5q8PYU1aX2z,Krameri,139800,28,False,Dead Roses,2019-07-19,Krameri,0.735,0.209,10,-13.908,0.0437,0.904,0.00613,0.149,124.965,4
+Hindi or indie,Samridhi Diwan,Shaayad,669PEr8I3wOswY8BANBpdh,Taba Chake,208000,48,False,Bombay Dreams,2019-04-25,Taba Chake Records,0.606,0.472,8,-8.525,0.0307,0.685,1.11e-05,0.114,94.972,4
+Hindi or indie,Samridhi Diwan,Aao Chalein,4LX8OArGCZ3hS0imHepe83,Taba Chake,185305,47,False,Bombay Dreams,2019-04-25,Taba Chake Records,0.705,0.639,10,-7.367,0.0834,0.131,0.0298,0.222,127.502,4
+Hindi or indie,Samridhi Diwan,Khoj (Passing By),4QK1qv4mgsfdWmMzp1Z3fx,When Chai Met Toast,212571,53,False,Believe,2018-09-07,When Chai Met Toast,0.58,0.636,2,-6.649,0.0262,0.191,0.0313,0.0915,105.037,3
+Hindi or indie,Samridhi Diwan,Believe,5cJJdUtacwBrphoMjh3tKG,When Chai Met Toast,236700,47,False,Believe,2018-09-07,When Chai Met Toast,0.25,0.618,2,-7.705,0.0378,0.16,0.0169,0.109,66.632,4
+Hindi or indie,Samridhi Diwan,Beautiful World,1cVZkFOstLUv5DTk9KwkbN,When Chai Met Toast,305333,38,False,Joy of Little Things,2017-01-26,When Chai Met Toast,0.621,0.524,2,-7.588,0.0347,0.538,1.03e-05,0.358,139.862,4
+Hindi or indie,Samridhi Diwan,Choo Lo,2qgXrzJsry4KgYoJCpuaul,The Local Train,233630,60,False,Aalas Ka Pedh,2015-09-25,The Local Train,0.512,0.695,4,-6.349,0.0271,0.0265,0.00815,0.146,145.957,4
+Hindi or indie,Samridhi Diwan,Mere Yaar,6wxm92a18bGEP5N4QusCIx,The Local Train,286720,46,False,Vaaqif,2018-01-29,The Local Train,0.343,0.508,2,-9.748,0.0341,0.191,0.000374,0.278,78.131,4
+Hindi or indie,Samridhi Diwan,Tune Kaha,1gWtHDe403RuyZqhvSRcv8,Prateek Kuhad,216885,58,False,Tune Kaha,2016-02-22,Pagal Haina Records,0.362,0.763,3,-8.514,0.0589,0.015,0.00481,0.237,187.291,4
+Hindi or indie,Samridhi Diwan,Dil Mere,6ZmtxXUXRVjxOhugKkmerC,The Local Train,211290,57,False,Aalas Ka Pedh,2015-09-25,The Local Train,0.655,0.473,8,-9.806,0.0267,0.842,0.0323,0.167,92.962,4
+Hindi or indie,Samridhi Diwan,Udd Gaye - Bacardi House Party Sessions,6wZJsut8fjiWiMPaccRAOX,Ritviz,180413,68,False,Udd Gaye (Bacardi House Party Sessions),2017-11-27,Ritviz,0.595,0.818,11,-6.189,0.0479,0.000712,0.0386,0.142,144.956,4
+Hindi or indie,Samridhi Diwan,"Dil Beparvah - The Dewarists, Season 5",4kXkT9HF9ZfDjuv3LIKcwJ,Ankur Tewari,250000,58,False,"Dil Beparvah (The Dewarists, Season 5)",2016-11-17,"Ankur Tewari, Prateek Kuhad",0.762,0.391,1,-11.735,0.0337,0.867,0.000521,0.112,137.956,3
+Hindi or indie,Samridhi Diwan,City Life,2jfLNlyUpxhFkoo1lJjiL3,Raghav Meattle,160844,45,False,City Life - Single,2020-04-07,Raghav Meattle,0.647,0.45,4,-12.358,0.0339,0.563,6.89e-05,0.143,94.962,4
+Hindi or indie,Samridhi Diwan,Tilak,3snujKMl0rkHSdwOLxWrFv,Bombay Bandook,359290,39,False,Tilak,2017-05-12,1215574 Records DK,0.466,0.69,4,-7.007,0.0351,0.529,0.0597,0.102,134.899,3
+Hindi or indie,Samridhi Diwan,Saansein,6l1VsKiMyaUWElFrM1rsuu,Prateek Kuhad,266041,57,False,Karwaan,2018-07-13,T-Series,0.693,0.518,1,-9.146,0.0282,0.653,0.531,0.138,128.041,4
+Hindi or indie,Samridhi Diwan,Maybe I Can Fly,4BIpS30RZ67KqL8t9mcsJI,When Chai Met Toast,230245,45,True,Maybe I Can Fly,2020-07-10,When Chai Met Toast,0.664,0.736,9,-5.658,0.0419,0.0212,0.00485,0.0482,112.021,4
+feelings ,Samridhi Diwan,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,200040,98,False,After Hours,2020-03-20,Republic Records,0.514,0.73,1,-5.934,0.0598,0.00146,9.54e-05,0.0897,171.005,4
+feelings ,Samridhi Diwan,000000,5QeUZ1Z4xSCegBXutW3IIt,A.CHAL,165214,65,True,EXOTIGAZ,2018-12-08,Epic/Gazi World,0.734,0.472,1,-8.192,0.306,0.494,0.00293,0.102,190.011,4
+feelings ,Samridhi Diwan,You're a Wolf,4cFMT3DwTYChrjBT71hqGy,Sea Wolf,215560,49,False,Leaves in the River,2007-09-25,Dangerbird Records,0.676,0.671,2,-7.636,0.027,0.69,0.183,0.138,121.008,4
+feelings ,Samridhi Diwan,Ticking Bomb,71GzUmdpoVsIL2djM1Ib81,Aloe Blacc,216320,44,False,Lift Your Spirit,2013-01-01,Interscope,0.675,0.649,1,-8.784,0.0487,0.568,0.00098,0.104,107.943,4
+feelings ,Samridhi Diwan,TEMPTATION,7L9g4cPfohScjJ8mGwLQWr,Joey Bada$$,244197,28,True,ALL-AMERIKKKAN BADA$$,2017-04-07,Cinematic Music Group/Pro Era,0.775,0.707,10,-5.339,0.152,0.397,0,0.874,104.979,4
+feelings ,Samridhi Diwan,Boss Bitch,78qd8dvwea0Gosb6Fe6j3k,Doja Cat,134239,86,False,Boss Bitch,2020-01-23,Atlantic Records,0.707,0.955,10,-4.593,0.222,0.127,0,0.202,125.989,4
+feelings ,Samridhi Diwan,Live In Life,5odolvi4Flv8SeSje9WzcS,The Rubens,216447,68,False,Live In Life,2019-11-14,Ivy League Records,0.695,0.691,5,-4.73,0.0351,0.147,2.21e-06,0.152,104.015,4
+feelings ,Samridhi Diwan,Losin Control,4cxMGhkinTocPSVVKWIw0d,Russ,237506,77,True,There's Really A Wolf,2017-05-05,Columbia,0.759,0.245,6,-6.545,0.138,0.515,0.000154,0.102,96.992,4
+feelings ,Samridhi Diwan,Diamonds - Intl Mix,02FfjknzENVoCn6fwpQJ8e,Morgan Evans,172346,41,False,Diamonds (Intl Mix),2019-11-27,Warner Music Nashville,0.632,0.795,2,-5.377,0.0539,0.245,0.000191,0.16,157.959,4
+feelings ,Samridhi Diwan,Choir,59zWQR2wQnSlkG4xTTwY9d,Guy Sebastian,171437,64,False,Choir,2019-05-31,Sony Music Entertainment,0.653,0.709,5,-3.19,0.0656,0.0707,0,0.0878,87.01,4
+feelings ,Samridhi Diwan,Selfish,7rFNG5N6QnhsTW2aQADMEG,Jessica Mauboy,206066,44,False,HILDA,2019-10-18,Sony Music Entertainment,0.718,0.744,6,-4.535,0.234,0.134,0,0.273,99.609,4
+feelings ,Samridhi Diwan,The Reaper,0g8Dq6OpSmWengqtLrVr77,The Chainsmokers,182933,64,False,World War Joy,2019-12-06,Disruptor Records/Columbia,0.633,0.564,8,-7.789,0.0701,0.135,0,0.201,164.008,4
+feelings ,Samridhi Diwan,German,4CtQlS1NxP94RwYP7Jbr0p,No Money Enterprise,234791,62,True,German,2019-11-01,No Money Enterprise,0.846,0.584,11,-12.305,0.125,0.0998,7.81e-05,0.0896,139.953,4
+feelings ,Samridhi Diwan,Same Blood,6no2TiaMDBkI5Mo6yssV4X,Aloe Blacc,183893,36,False,Same Blood,2019-07-02,Aloe Blacc,0.676,0.809,2,-5.42,0.0374,0.168,0,0.28,76.023,4
+feelings ,Samridhi Diwan,IDIOTA,0Wk3MRrKRn6EPG7B83nKSJ,Sofia Reyes,205013,66,False,IDIOTA,2020-02-13,WEA Latina,0.772,0.824,9,-3.752,0.0604,0.266,1.11e-06,0.406,91.995,4
+feelings ,Samridhi Diwan,EXOTICA,6xRAt6Ui9UoB0ATXyf1pM5,A.CHAL,160559,46,True,EXOTIGAZ,2018-12-08,Epic/Gazi World,0.721,0.619,6,-7.464,0.0462,0.0101,1.13e-05,0.082,159.936,4
+feelings ,Samridhi Diwan,River,3mRLHiSHYtC8Hk7bzZdUs1,Bishop Briggs,216133,76,False,Church Of Scars,2018-04-20,Teleport Records / Island Records,0.733,0.477,2,-6.737,0.0687,0.302,2.97e-06,0.0579,62.507,4
+feelings ,Samridhi Diwan,July,5a6pdCHlWS2ekOOQ70QnAr,Noah Cyrus,156106,43,False,July,2019-07-31,Records/Columbia,0.708,0.186,9,-8.953,0.0422,0.868,0,0.0779,72.541,4
+feelings ,Samridhi Diwan,Easily,2k9N4caeCIJLOWwWwssrEM,Bruno Major,210240,76,False,A Song For Every Moon,2017-08-31,Bruno Major,0.772,0.256,7,-8.545,0.0481,0.491,0.00612,0.144,118.902,3
+feelings ,Samridhi Diwan,Love N Hennessy,57zEbGuOa9Skogmm0WdOzM,A.CHAL,207800,56,True,ON GAZ,2017-06-02,GAZI World / EMPIRE,0.931,0.306,8,-9.979,0.453,0.0128,8.59e-06,0.0708,140.039,4
+feelings ,Samridhi Diwan,To the Light,611ZPGLjR51yLmofqvrid7,A.CHAL,217199,48,True,ON GAZ,2017-06-02,GAZI World / EMPIRE,0.724,0.614,0,-8.313,0.0337,0.0222,0.00259,0.0999,124.993,4
+feelings ,Samridhi Diwan,In Your Eyes,7szuecWAPwGoV1e5vGu8tl,The Weeknd,237520,89,True,After Hours,2020-03-20,Republic Records,0.667,0.719,7,-5.371,0.0346,0.00285,8.1e-05,0.0736,100.021,4
+feelings ,Samridhi Diwan,New Slang,2cP37n7TZEe0oBxCbZu0KA,The Shins,231173,71,False,"Oh, Inverted World",2001-06-19,Sub Pop Records,0.669,0.389,0,-11.547,0.0306,0.605,0.16,0.0905,130.015,4
+feelings ,Samridhi Diwan,1957,08cXy6KUizaAelYXtcew3w,Milo Greene,204213,60,False,Milo Greene,2012-07-16,Chop Shop/Atlantic,0.388,0.595,1,-9.799,0.0325,0.663,5.58e-05,0.178,190.043,4
+feelings ,Samridhi Diwan,Circles,1ZpLKLfbjjVbKjxxmqTrzy,George Alice,184144,52,False,Circles,2019-07-05,Independent,0.643,0.526,1,-8.324,0.0486,0.149,2.24e-06,0.432,104.98,4
+feelings ,Samridhi Diwan,Run a Muck,1XILrunZHhfo9xYQszThLb,Brothers,161630,24,True,Run a Muck,2020-03-08,1512114 Records DK2,0.909,0.805,4,-3.739,0.215,0.233,6.3e-06,0.116,137.951,4
+feelings ,Samridhi Diwan,So Easy,74rluVXirwea83JzfkbjmQ,Triple One,229985,54,True,So Easy,2019-10-25,Triple One Records,0.744,0.552,2,-6.28,0.192,0.138,0,0.102,140.004,4
+feelings ,Samridhi Diwan,Waves,0hNOP5epEjX8Zj5aSGr6JU,Dean Lewis,241292,57,False,Same Kind Of Different,2017-05-12,Universal Music Australia Pty. Ltd.,0.517,0.762,11,-5.806,0.0454,0.161,0,0.0897,156.928,4
+feelings ,Samridhi Diwan,Tune Kaha,1gWtHDe403RuyZqhvSRcv8,Prateek Kuhad,216885,58,False,Tune Kaha,2016-02-22,Pagal Haina Records,0.362,0.763,3,-8.514,0.0589,0.015,0.00481,0.237,187.291,4
+feelings ,Samridhi Diwan,Natural,2FY7b99s15jUprqC0M5NCT,Imagine Dragons,189466,82,False,Origins (Deluxe),2018-11-09,Kid Ina Korner / Interscope,0.704,0.611,2,-6.112,0.0409,0.217,0,0.0812,100.0,4
+feelings ,Samridhi Diwan,Akhiyan Udeek Diyan,5DSgo6sCcN3eM1EYVngt2j,Indian Ocean,709500,34,False,Akhiyan Udeek Diyan,2020-04-17,Times Music,0.366,0.666,11,-9.046,0.0583,0.0361,0.152,0.0733,131.72,4
+feelings ,Samridhi Diwan,Pace Myself,5vckDM8lUh9w0XqzSIReJG,Holy Mattress Money,170467,42,False,Pace Myself,2019-01-04,Declared Major,0.627,0.399,9,-14.974,0.144,0.782,7.44e-05,0.102,106.97,4
+feelings ,Samridhi Diwan,Warm (feat. Mia),3kBofOTKMUZ62a311eUwvx,Dre'es,255465,65,True,Warm (feat. Mia),2017-10-19,Futile Sounds,0.662,0.297,8,-14.525,0.0301,0.888,0.108,0.119,94.023,4
+feelings ,Samridhi Diwan,Post Apocalyptic Freestyle,0U9y2WyDiMEGK6EIuqG5yJ,Mr Vibes,142268,1,True,Post Apocalyptic Freestyle,2020-05-15,1604246 Records DK,0.837,0.41,0,-10.873,0.216,0.277,0,0.0858,135.004,4
+feelings ,Samridhi Diwan,Dead Roses,7gND3bJ57jf5q8PYU1aX2z,Krameri,139800,28,False,Dead Roses,2019-07-19,Krameri,0.735,0.209,10,-13.908,0.0437,0.904,0.00613,0.149,124.965,4
+feelings ,Samridhi Diwan,Aerosol Can,4BScWnEQchb7ybqGIuFBGJ,Pamplegooze,180275,5,False,Aerosol Can,2018-11-05,1037650 Records DK,0.795,0.711,9,-8.432,0.0823,0.00792,0.000455,0.0999,124.985,4
+feelings ,Samridhi Diwan,505,0BxE4FqsDD1Ot4YuBXwAPp,Arctic Monkeys,253586,77,False,Favourite Worst Nightmare,2007-04-22,Domino Recording Co,0.526,0.866,0,-5.822,0.0568,0.00287,7.78e-05,0.0945,140.266,4
+feelings ,Samridhi Diwan,CHAMPION,3FnrpYP8QSbYXbp8i8UQKO,Bishop Briggs,173146,0,False,CHAMPION,2019-07-17,Island Records,0.619,0.702,4,-3.552,0.0344,0.0148,1.4e-05,0.15,98.004,4
+feelings ,Samridhi Diwan,"New Person, Same Old Mistakes",52ojopYMUzeNcudsoz7O9D,Tame Impala,363240,70,False,Currents,2015-07-17,Universal Music Australia Pty. Ltd.,0.47,0.809,8,-6.74,0.0495,0.272,0.00671,0.0491,151.836,4
+feelings ,Samridhi Diwan,What Kind Of Man,2kP1ujXHn0mNqFbiT3zob8,Florence + The Machine,216176,58,False,"How Big, How Blue, How Beautiful (Deluxe)",2015-06-01,Universal-Island Records Ltd.,0.313,0.635,11,-4.676,0.0431,0.0229,0,0.129,114.776,4
+feelings ,Samridhi Diwan,Tadow,1DoS5ql0TW3ejjJGHbsAmz,Masego,301639,0,False,Tadow,2017-10-06,Masego,0.719,0.487,9,-6.21,0.0604,0.711,8.36e-05,0.0958,121.729,4
+feelings ,Samridhi Diwan,Diamonds,1ZHWO6q1J88f9WrRJbPupM,Morgan Evans,172346,56,False,Diamonds,2019-11-08,Warner Records,0.634,0.823,2,-5.01,0.0367,0.322,2.53e-05,0.317,157.878,4
+feelings ,Samridhi Diwan,Older,52iLDrSoRtf9lcgFuLVfqE,Sasha Sloan,191001,74,False,Older,2018-11-09,RCA Records Label,0.681,0.292,11,-9.599,0.0483,0.743,0,0.0974,64.002,4
+feelings ,Samridhi Diwan,I Lost a Friend,49MMefftWPcltNP4OOJGSs,FINNEAS,237020,70,False,I Lost a Friend,2019-05-03,OYOY,0.453,0.209,11,-11.917,0.223,0.587,0,0.119,169.316,4
+feelings ,Samridhi Diwan,Dancing With Your Ghost,1TQXIltqoZ5XXyfCbAeSQQ,Sasha Sloan,197732,79,False,Dancing With Your Ghost,2019-06-28,RCA Records Label,0.629,0.327,11,-8.285,0.029,0.761,2.96e-05,0.103,74.953,4
+feelings ,Samridhi Diwan,Break My Heart Again,2is19a6HY7ZdWP654IMhEE,FINNEAS,238012,75,False,Break My Heart Again,2018-02-09,OYOY,0.402,0.151,4,-14.227,0.0395,0.907,0,0.0941,144.293,4
+feelings ,Samridhi Diwan,Everybody Wants To Go To Heaven,1L48GZCIcVKZf3WaN5TGNl,Glenn Yarbrough & The Limeliters,319306,31,False,Joy Across The Land,1993,"GNP Crescendo Record Co., Inc.",0.51,0.377,11,-14.654,0.0387,0.234,0.000649,0.933,74.287,4
+feelings ,Samridhi Diwan,You're a Wolf,4cFMT3DwTYChrjBT71hqGy,Sea Wolf,215560,49,False,Leaves in the River,2007-09-25,Dangerbird Records,0.676,0.671,2,-7.636,0.027,0.69,0.183,0.138,121.008,4
+feelings ,Samridhi Diwan,Find an Island,4Ve0Jx7MXjU4aPrFHJRZK7,BENEE,192613,67,False,STELLA & STEVE,2019-11-15,Republic Records,0.836,0.681,2,-3.793,0.0434,0.285,0,0.0729,81.554,4
+feelings ,Samridhi Diwan,Bright Blue Skies,5zxwumO0laRosoeOvbVSvc,Mitch James,182906,62,False,Mitch James - Deluxe Edition,2018-09-14,Sony Music Entertainment,0.799,0.373,7,-8.999,0.0558,0.259,0,0.166,98.035,4
+feelings ,Samridhi Diwan,Laps Around The Sun,68ZVCePM9IP0MSbcmeZuup,Ziggy Alberts,206166,63,True,Laps Around The Sun,2018-11-09,Commonfolk Records,0.768,0.472,4,-10.047,0.0493,0.475,0,0.11,110.024,4
+feelings ,Samridhi Diwan,Give Myself To You,4fRbyxFQjen54u4aZYPEUn,The Dreggs,219054,53,False,Give Myself to You,2017,Independent,0.791,0.533,9,-6.033,0.0339,0.24,7.2e-06,0.0737,109.022,4
+feelings ,Samridhi Diwan,Devil You Don't,6FG2yJ3fTH9I5zwpgkPayq,CXLOE,186360,47,False,Devil You Don't,2019-10-24,XXYV,0.601,0.695,2,-5.981,0.403,0.473,0,0.184,101.957,4
+feelings ,Samridhi Diwan,Selfish,7rFNG5N6QnhsTW2aQADMEG,Jessica Mauboy,206066,44,False,HILDA,2019-10-18,Sony Music Entertainment,0.718,0.744,6,-4.535,0.234,0.134,0,0.273,99.609,4
+feelings ,Samridhi Diwan,Together,44a7FrYYcPeqSkK52OxA0g,Ziggy Alberts,243533,60,False,Together,2020-01-24,Commonfolk Records,0.797,0.413,2,-11.471,0.0482,0.907,0.00112,0.123,114.979,4
+feelings ,Samridhi Diwan,Take a Look,5x2dZq8SD3gStxDTE6BBI4,Boo Seeka,231374,47,False,Take a Look,2020-05-08,2020 Daily Nightly,0.535,0.709,11,-6.175,0.0351,0.308,0.13,0.0879,156.053,4
+feelings ,Samridhi Diwan,Little Things,240WkSGaUBJMBmHLqS33WA,Jessica Mauboy,189906,61,True,HILDA,2019-10-18,Sony Music Entertainment,0.502,0.321,9,-8.601,0.0441,0.851,0,0.156,121.991,4
+feelings ,Samridhi Diwan,Woke Up Late (feat. Hailee Steinfeld),4oPWkP9zQ5ANBbfdHGOvKF,Drax Project,181826,66,False,Drax Project,2019-09-27,300 Entertainment,0.698,0.66,2,-5.429,0.083,0.043,0,0.186,119.214,4
+feelings ,Samridhi Diwan,Life Moves On,7El7EOzTnVXCxTgTh5ZwWt,FINNEAS,251765,56,False,Life Moves On,2018-05-04,OYOY,0.435,0.255,6,-9.929,0.0304,0.803,1.66e-05,0.0959,115.585,4
+feelings ,Samridhi Diwan,Falling Like The Stars,15xWRPHQMeqgdkGzInx3PY,James Arthur,212720,74,False,Falling Like The Stars,2019-05-10,Columbia Local,0.296,0.351,6,-9.538,0.0351,0.823,1.5e-06,0.11,177.596,3
+feelings ,Samridhi Diwan,Can't Hold Us - feat. Ray Dalton,3bidbhpOYeV4knp8AIu8Xn,Macklemore & Ryan Lewis,258342,83,False,The Heist,2012-10-09,Macklemore,0.641,0.922,2,-4.457,0.0786,0.0291,0,0.0862,146.078,4
+feelings ,Samridhi Diwan,Down Low (Stripped),0tNF0dgn2F8VhO1870AT1c,Lyrah,240000,38,False,Down Low (Stripped),2019-06-05,Lyrah,0.678,0.362,0,-11.233,0.0618,0.345,0.0003,0.13,92.942,4
+feelings ,Samridhi Diwan,Sunrise,504BrFbtkCK5GG8U0wb2qb,Kevitch,208744,63,False,Sunrise,2019-12-29,1562171 Records DK,0.608,0.388,5,-11.675,0.0341,0.522,0.118,0.11,138.058,4
+feelings ,Samridhi Diwan,Close to my fire,2EDF3x6YzKBmjXhtIdQbaL,Slackwax,227800,46,False,Hôtel Costes 15,2011-09-26,Pschent Music,0.709,0.525,7,-6.664,0.0358,0.437,0,0.318,89.967,4
+shubham,Samridhi Diwan,Lalala,51Fjme0JiitpyXKuyQiCDo,Y2K,160626,83,True,Lalala,2019-06-28,Columbia,0.843,0.391,2,-7.899,0.0845,0.181,0,0.137,129.972,4
+discover ,Samridhi Diwan,Tell Em I'm Doing Eetswa,1JGb28R23RdtKZYT4XOf7u,Hooligan Hefs,151327,63,True,Tell Em I'm Doing Eetswa,2019-12-12,Independent,0.907,0.92,11,-2.828,0.175,0.396,0.000115,0.263,129.997,4
+discover ,Samridhi Diwan,All The Pretty Girls,1kgw52pWfmHsXP0eAmduLg,Vera Blue,202628,56,False,All The Pretty Girls,2018-10-26,Universal Music Australia Pty. Ltd.,0.708,0.591,11,-5.825,0.0348,0.415,0,0.117,120.976,4
+discover ,Samridhi Diwan,Catching Feelings (feat. SIX60),0gCNs3jCCDhObAK0MRghtv,Drax Project,218854,71,False,Drax Project,2019-09-27,300 Entertainment,0.397,0.524,3,-5.846,0.103,0.607,0,0.157,175.562,4
+discover ,Samridhi Diwan,Mess Her Up,3YlTwBFSI2kfMjGh1BWsEl,Amy Shark,208240,54,False,Love Monster,2018-07-13,Wonderlick,0.594,0.784,7,-4.885,0.0787,0.0892,0.00185,0.0757,159.881,4
+discover ,Samridhi Diwan,All This Time,0chkF4ElAYJlss1CnJrFgb,Drax Project,225573,39,False,Drax Project,2019-09-27,300 Entertainment,0.436,0.624,1,-5.953,0.161,0.258,2.18e-06,0.169,87.877,4
+discover ,Samridhi Diwan,Last Night,5moPctUvB0gPnwJ6cM7kEz,GRAACE,209360,54,True,Last Night,2018-09-06,Sony Music Entertainment,0.512,0.317,0,-10.277,0.0479,0.795,0,0.0887,86.483,4
+discover ,Samridhi Diwan,Solid Gold,7DQ5CZjAQdhgDgdnSXxJ7Z,PNAU,208367,64,False,Solid Gold,2019-05-02,etcetc AU,0.567,0.946,5,-2.245,0.0541,0.0978,1.37e-06,0.0836,104.983,4
+discover ,Samridhi Diwan,Favours,4paNNGZD8qM134qqdiCEeI,Hayden James,234743,63,False,Between Us,2019-06-14,Future Classic,0.773,0.674,9,-7.131,0.0429,0.117,0.00141,0.174,118.038,4
+discover ,Samridhi Diwan,Brother - triple j Like A Version,4ZZJZmOiXqRbUshzUlmQwR,Thundamentals,239946,57,True,Brother (triple j Like A Version),2012,Australian Broadcasting Corp (ABC),0.73,0.512,6,-7.891,0.0509,0.619,0,0.0642,100.165,4
+discover ,Samridhi Diwan,Lean On Me,02c4wpeXlXxT7Cekkz3kP3,Illy,227022,54,False,Lean On Me,2019-09-27,Sony Music Entertainment,0.714,0.531,0,-8.023,0.0484,0.0204,0,0.171,101.003,4
+discover ,Samridhi Diwan,If We Have Each Other,7pT6WSg4PCt4mr5ZFyUfsF,Alec Benjamin,181522,74,False,Narrated For You,2018-11-16,2018,0.656,0.577,10,-5.566,0.0802,0.698,0,0.296,173.094,4
+discover ,Samridhi Diwan,Devil You Don't,6FG2yJ3fTH9I5zwpgkPayq,CXLOE,186360,47,False,Devil You Don't,2019-10-24,XXYV,0.601,0.695,2,-5.981,0.403,0.473,0,0.184,101.957,4
+discover ,Samridhi Diwan,Find an Island,4Ve0Jx7MXjU4aPrFHJRZK7,BENEE,192613,67,False,STELLA & STEVE,2019-11-15,Republic Records,0.836,0.681,2,-3.793,0.0434,0.285,0,0.0729,81.554,4
+discover ,Samridhi Diwan,Intentions (22),6XaseSojAAUsFkCl6EoPwM,Ziggy Alberts,186693,54,False,Intentions (22),2019-08-21,Commonfolk Records,0.709,0.382,2,-11.13,0.127,0.294,0.000139,0.106,82.08,4
+discover ,Samridhi Diwan,Between You & I,4K7RF8MHqZZ0kkWeKpuhA0,Kita Alexander,253899,47,False,Between You & I,2019-05-10,Atlantic Records UK,0.567,0.888,7,-4.459,0.0474,0.133,0,0.219,125.046,4
+discover ,Samridhi Diwan,Mona Lisa,2Rtj1B24RTIrIg2TMQ8WS9,Valntn,157019,58,False,Mona Lisa,2019-07-10,swimming pool,0.886,0.59,1,-5.14,0.0515,0.0493,0,0.28,119.934,4
+discover ,Samridhi Diwan,White Privilege II (feat. Jamila Woods),4QGJfw4TLQ07KM8m7Dq5Hu,Macklemore,525800,47,True,This Unruly Mess I've Made,2016-02-26,Macklemore,0.519,0.574,1,-7.696,0.184,0.633,0,0.271,100.22,3
+discover ,Samridhi Diwan,Starting Over (feat. Ben Bridwell),0icgqJ0w9uKcxKkTRG262L,Macklemore & Ryan Lewis,251196,50,True,The Heist,2012-10-10,Macklemore,0.537,0.873,6,-6.505,0.408,0.723,0.00946,0.684,164.074,4
+discover ,Samridhi Diwan,Growing Up (feat. Ed Sheeran),4fgkGLPCFDVFMQfuGIaPpA,Macklemore,305240,44,False,This Unruly Mess I've Made,2016-02-25,Macklemore,0.762,0.548,9,-7.072,0.286,0.175,0,0.114,85.131,4
+discover ,Samridhi Diwan,walk but in a garden,37bzRWttPZDNdJs24NZaUG,Llusion,110250,49,False,walk but in a garden,2019-06-19,664764 Records DK2,0.773,0.403,8,-11.617,0.0449,0.859,0.944,0.1,80.003,4
+discover ,Samridhi Diwan,Dirty Harry,2bfGNzdiRa1jXZRdfssSzR,Gorillaz,230426,70,False,Demon Days,2005-05-23,Parlophone UK,0.625,0.877,10,-7.176,0.162,0.0315,0.0811,0.672,192.296,4
+list all time ,Samridhi Diwan,Instagram,0U6bQIAh6MCGo1xjbIIx2S,Dimitri Vegas & Like Mike,184558,76,True,Instagram,2019-07-05,Epic Amsterdam,0.765,0.906,8,-2.097,0.0965,0.125,0,0.423,96.071,4
+list all time ,Samridhi Diwan,Left Me Yet,6k2t5GhwOIKep31iyJ8S0L,Daya,191340,57,False,Left Me Yet,2019-06-21,Interscope Records,0.753,0.806,8,-6.396,0.275,0.0552,0,0.118,114.995,4
+list all time ,Samridhi Diwan,Easily,2k9N4caeCIJLOWwWwssrEM,Bruno Major,210240,76,False,A Song For Every Moon,2017-08-31,Bruno Major,0.772,0.256,7,-8.545,0.0481,0.491,0.00612,0.144,118.902,3
+list all time ,Samridhi Diwan,Tell Em I'm Doing Eetswa,1JGb28R23RdtKZYT4XOf7u,Hooligan Hefs,151327,63,True,Tell Em I'm Doing Eetswa,2019-12-12,Independent,0.907,0.92,11,-2.828,0.175,0.396,0.000115,0.263,129.997,4
+list all time ,Samridhi Diwan,shut up,7m97u5zpSWqkDjN4uwY2LP,Greyson Chance,170363,59,False,portraits,2019-03-15,Universal Music Philippines Inc.,0.821,0.448,9,-4.33,0.0468,0.296,3.26e-06,0.0683,105.006,4
+list all time ,Samridhi Diwan,What Kind Of Man,2kP1ujXHn0mNqFbiT3zob8,Florence + The Machine,216176,58,False,"How Big, How Blue, How Beautiful (Deluxe)",2015-06-01,Universal-Island Records Ltd.,0.313,0.635,11,-4.676,0.0431,0.0229,0,0.129,114.776,4
+list all time ,Samridhi Diwan,Devil Eyes,7MiZjKawmXTsTNePyTfPyL,Hippie Sabotage,131271,81,False,Providence,2016-02-05,iHipHop Distribution,0.391,0.396,1,-8.621,0.189,0.702,0.405,0.315,99.112,5
