@@ -1,3 +1,15 @@
-page-login {
-
+.md,
+.android,
+.ios {
+  page-login {
+    ion-item,ion-input {
+      //margin-top: 40%;
+      background: transparent;
+    }
+    ion-content {
+      background-image: url(../../assets/imgs/index.jpeg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
 }

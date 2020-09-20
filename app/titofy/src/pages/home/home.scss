@@ -1,3 +1,46 @@
 page-home {
+  #card-stack {
+    width: 90%;
+    height: 200px;
+    // background: #047915;
+    // border: 10px solid #4cb338;
+    // margin: 100px auto 0;
+    position: relative;
+  }
 
+  #card-stack ion-card {
+    // border-radius: 5px;
+    position: absolute;
+    text-align: center;
+    margin-top: 7%;
+    // height: 90%;
+    background: rgb(161, 173, 173);
+    background: linear-gradient(
+      0deg,
+      rgba(161, 173, 173, 1) 95%,
+      rgba(142, 140, 185, 0.5105392498796393) 100%
+    );
+  }
+
+  ion-content {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(
+      0deg,
+      rgba(34, 193, 195, 1) 0%,
+      rgba(217, 11, 231, 0.5805672610841212) 100%
+    );
+  }
+
+  ion-header {
+    .toolbar {
+      position: absolute;
+  
+      .toolbar-background {
+        background: transparent;
+      }
+      .toolbar-title {
+        color: black;
+      }
+    }
+  }
 }

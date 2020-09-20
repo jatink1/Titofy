@@ -11,7 +11,7 @@ export class ServerUrlProvider {
   }
 
   serverURL(){
-    this.api = '';
+    this.api = 'https://titofy.herokuapp.com';
   }
 
 }

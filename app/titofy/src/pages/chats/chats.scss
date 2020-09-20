@@ -1,3 +1,11 @@
+.md,.android,.ios{
 page-chats {
-
+    ion-content{
+        background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(217,11,231,0.5805672610841212) 100%);
+    }
+    ion-item,ion-input {
+        background: transparent;
+      }
+    }
 }
