@@ -16,3 +16,30 @@ Now with this, you can match up with your future forever-after partners & get to
 
 ## Abstract
 This is an app based project that aims to match up people of all ages based on their music taste.
+
+
+## Sample Images
+
+### Login Page
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyLogin.png)
+
+### My Account
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyMyAccount.png)
+
+### Home Page
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyHome.png)
+
+### ML Model
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyModel.jpg)
+
+
+### Different Clusters For Matched Users
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyKmeans_2.jpg)
+
+
+
