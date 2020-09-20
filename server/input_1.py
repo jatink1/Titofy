@@ -18,13 +18,12 @@ def padding(df_list):
     return X
 
 def get_cluster():
-    input = pd.read_csv(r'Playlist_of_User.csv')
-    model = load_model('NN Model.h5')
+    input = pd.read_csv(r'Playlists_Of_User.csv')
     input.drop_duplicates(subset=['Track_ID'] , inplace = True)
     X = padding(input)
     if (len(X.shape) != 3):
         X = np.reshape(X, (-1,500,10))
-
+    model = load_model(r'NN Model.h5')
     pred = model.predict(X)
     pred.shape
     labels = np.load('labels.npy',allow_pickle=True)
@@ -43,5 +42,5 @@ def get_cluster():
     x_pca.shape
     x_pca.tail()
     input_label = x_pca.iloc[2,-1]
-    os.remove('Playlist_of_User.csv')
+    os.remove('Playlists_Of_User.csv')
     return input_label
