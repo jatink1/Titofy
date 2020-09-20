@@ -54,7 +54,6 @@ def signup():
 
     # hash and store in MongoDB
     hashed = hashlib.sha256(_form['password'].encode('utf-8')).hexdigest()
-    timestamp = datetime.timestamp(datetime.now())
     spotify_username = spotify.split('/').pop()
     main(spotify_username)
     cluster = get_cluster()
@@ -235,4 +234,4 @@ def carddata(size):
     return "Invalid token!"
 
 if __name__=="__main__":
-  app.run(debug=True)
+  app.run(debug=False)

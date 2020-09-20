@@ -83,4 +83,5 @@ def add_user_playlist(username):
                     tracks = sp.next(tracks)
                     user_playlist = user_playlist + get_tracks_data(tracks, playlist, disp_name)
                 writer.writerows(user_playlist)
+    print()
     return user_playlist
