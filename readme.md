@@ -41,5 +41,11 @@ This is an app based project that aims to match up people of all ages based on t
 
 ![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyKmeans_2.jpg)
 
+### Chatbox
+
+![alt text](https://raw.githubusercontent.com/jatink1/Titofy/master/images/titofyChat.png)
+
+
+
 
 
