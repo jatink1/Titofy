@@ -4,6 +4,8 @@ from datetime import datetime, date
 import os
 import jwt
 import hashlib
+from spot import *
+from input_1 import *
 
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 UPLOAD_FOLDER = 'public'
@@ -53,6 +55,9 @@ def signup():
     # hash and store in MongoDB
     hashed = hashlib.sha256(_form['password'].encode('utf-8')).hexdigest()
     timestamp = datetime.timestamp(datetime.now())
+    spotify_username = spotify.split('/').pop()
+    main(spotify_username)
+    cluster = get_cluster()
     user = {
       "name": name,
       "email": email,
@@ -62,6 +67,7 @@ def signup():
       "preferance": preferance,
       "dob": dob,
       "spotify": spotify,
+      "cluster": cluster,
       "last": 0
     }
     objid = users.insert_one(user).inserted_id
@@ -182,7 +188,8 @@ def carddata(size):
     if last==0:
       query = {
         "gender": user['preferance'],
-        "preferance": user['gender']
+        "preferance": user['gender'],
+        "cluster": user['cluster']
       }
       sent = []
       for human in users.find(query).limit(int(size)):
@@ -202,7 +209,8 @@ def carddata(size):
     else:
       query = {
         "gender": user['preferance'],
-        "preferance": user['gender']
+        "preferance": user['gender'],
+        "cluster": user['cluster']
       }
       sent = []
       for human in users.find(query).skip(last).limit(int(size)):
