@@ -6,6 +6,12 @@ page-home {
     // border: 10px solid #4cb338;
     // margin: 100px auto 0;
     position: relative;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(
+      0deg,
+      rgba(34, 193, 195, 1) 0%,
+      rgba(217, 11, 231, 0.5805672610841212) 100%
+    );
   }
 
   #card-stack ion-card {

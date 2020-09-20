@@ -11,11 +11,7 @@ import { HttpClient } from "@angular/common/http";
 import { ServerUrlProvider } from "../../providers/server-url/server-url";
 
 //to upload image as a file
-import {
-  FileTransfer,
-  FileUploadOptions,
-  FileTransferObject,
-} from "@ionic-native/file-transfer";
+import {FileTransfer} from "@ionic-native/file-transfer";
 import { File } from "@ionic-native/file";
 
 @IonicPage()
@@ -57,21 +53,6 @@ export class SignupPage {
     public transfer: FileTransfer,
     public file: File
   ) {
-    // this.userSignup = formbuilder.group({
-    //   fsignupName: ["", Validators.compose([Validators.required])],
-    //   fsignupEmail: [
-    //     "",
-    //     Validators.compose([Validators.required, Validators.email]),
-    //   ],
-    //   fsignupPassword: ["", Validators.compose([Validators.required,Validators.maxLength(30),       Validators.minLength(8),])],
-    //   fsignupGender: ["", Validators.compose([Validators.required])],
-    //   fsignupdob: ["", Validators.compose([Validators.required])],
-    //     fsignupAge: ["", Validators.compose([Validators.required, Validators.max(100),Validators.min(18),])],
-    //   fsignupProfileURL: ["", Validators.compose([Validators.required])],
-    //   fpref: ["", Validators.compose([Validators.required])],
-    // });
-
-   
 
 
     // slides 
@@ -201,8 +182,7 @@ export class SignupPage {
             console.log(this.slideTwoForm.value);
        // }
 
-       submitForm
-
+       this.submitForm();
   }
 
   //for submitting form
@@ -226,7 +206,7 @@ export class SignupPage {
       .subscribe((res) => {
         console.log(res);
       });
-
+      
     this.navCtrl.pop();
   }
 }

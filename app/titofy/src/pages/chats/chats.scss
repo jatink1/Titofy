@@ -8,4 +8,17 @@ page-chats {
         background: transparent;
       }
     }
+
+    ion-header {
+        .toolbar {
+          position: absolute;
+      
+          .toolbar-background {
+            background: transparent;
+          }
+          .toolbar-title {
+            color: whitesmoke;
+          }
+        }
+      }
 }

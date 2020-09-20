@@ -4,13 +4,13 @@
 
     <ion-buttons left>
       <button ion-button large icon-only (click)="myaccount()">
-        <ion-icon name="ios-contact-outline"></ion-icon>
+        <ion-icon name="ios-contact-outline" style="color: whitesmoke;"></ion-icon>
       </button>
     </ion-buttons>
 
     <ion-buttons right>
       <button ion-button icon-only (click)="chats()">
-        <ion-icon name="ios-text-outline"></ion-icon>
+        <ion-icon name="ios-text-outline" style="color: whitesmoke;"></ion-icon>
       </button>
     </ion-buttons>
   </ion-toolbar>
@@ -29,14 +29,14 @@
  
       <ion-row *ngIf="c.name" style="margin-top: 10px;">
         <ion-col>
-          <button ion-button clear small icon-left color="primary" (click)="voteUp(true)">
-            <ion-icon name="thumbs-up"></ion-icon>
+          <button ion-button clear small icon-left color="dg" (click)="voteUp(true)">
+            <ion-icon name="thumbs-up" style="color: darkgreen;"></ion-icon>
             Yes
           </button>
         </ion-col>
         <ion-col>
-          <button ion-button clear small icon-left color="primary" (click)="voteUp(false)">
-            <ion-icon name="thumbs-down"></ion-icon>
+          <button ion-button clear small icon-left color="danger" (click)="voteUp(false)">
+            <ion-icon name="thumbs-down" style="color: red;"></ion-icon>
             No
           </button>
         </ion-col>
@@ -45,3 +45,4 @@
   </div>
   <p style="text-align: center; width: 100%;margin-top: 98%;">{{ recentCard }}</p>
 </ion-content>
+
