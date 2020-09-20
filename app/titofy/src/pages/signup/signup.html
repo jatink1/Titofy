@@ -1,70 +1,134 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>Signup</ion-title>
-  </ion-navbar>
+  <ion-toolbar color="primary" hideBackButton>
+    <ion-title>
+      Sign Up
+    </ion-title>
+    <ion-buttons left>
+      <button ion-button (click)="prev()"><ion-icon slot="start" name="arrow-back"></ion-icon> Prev</button>
+    </ion-buttons>
+    <ion-buttons right>
+      <button ion-button (click)="next()">Next <ion-icon slot="end" name="arrow-forward"></ion-icon></button>
+    </ion-buttons>
+  </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
 
-  <div>
-    <form [formGroup]="userSignup">
+  <!-- Form with two slides -->
 
-      <!-- Name -->
-      <ion-item>
-        <ion-label floating >Name</ion-label>
-        <ion-input type="text" formControlName="fsignupName"></ion-input>
-      </ion-item>
+  <ion-slides #signupSlider>
 
-      <!-- Email -->
-      <ion-item>
-        <ion-label floating>Email</ion-label>
-        <ion-input type="email" formControlName="fsignupEmail"></ion-input>
-      </ion-item>
+    <!-- slide 1 -->
+    <ion-slide>
+      <p *ngIf="submitAttempt" style="color: #ea6153;">Please fill out all details accurately.</p>
 
-      <!-- Password -->
-      <ion-item>
-        <ion-label floating>Password</ion-label>
-        <ion-input type="password" formControlName="fsignupPassword"></ion-input>
-      </ion-item>
+        <ion-list lines="none">
 
-      <!-- Gender -->
-      <ion-item>
-        <ion-label floating>Gender</ion-label>
-        <ion-select type="text" formControlName="fsignupGender">
-          <ion-option value="male">Male</ion-option>
-          <ion-option value="female">Female</ion-option>
-          <ion-option value="other">Other</ion-option>
-        </ion-select>
-      </ion-item>
+            <form [formGroup]="slideOneForm">
 
-      <!-- Date of Birth -->
-      <ion-item>
-        <ion-label >Date of Birth : </ion-label>
-        <ion-datetime displayFormat="MMM DD YYY" formControlName="fsignupdob"></ion-datetime>
-      </ion-item>
+                 <!-- Name -->
+                <ion-item>
+                <ion-label floating >Name</ion-label>
+                <ion-input type="text" style="color: whitesmoke;" formControlName="fsignupName"></ion-input>
+                </ion-item>
+                <ion-item no-lines *ngIf="slideOneForm.controls.fsignupName.errors ">
+                    <p style="color: red;">Please enter a valid name.</p>
+                </ion-item>
 
-      <!-- Age -->
-      <ion-item>
-        <ion-label floating>Age</ion-label>
-        <ion-input type="number" fromControlName="fsignupAge"></ion-input>
-      </ion-item>
+                <!-- Email -->
+                <ion-item>
+                  <ion-label floating>Email</ion-label>
+                  <ion-input type="email" style="color: whitesmoke;" formControlName="fsignupEmail"></ion-input>
+                </ion-item>
+                <ion-item no-lines *ngIf="!slideOneForm.controls.fsignupEmail.valid  ">
+                    <p style="color: red;">Please enter a valid Email.</p>
+                </ion-item>
 
-      <!-- Spotify URL -->
-      <ion-item>
-        <ion-label floating>Spotify Profile URL</ion-label>
-        <ion-input type="text" formControlName="fsignupProfileURL"></ion-input>
-      </ion-item>
+                <!-- Password -->
+                <ion-item>
+                  <ion-label floating>Password</ion-label>
+                  <ion-input style="color: whitesmoke;" type="password" formControlName="fsignupPassword"></ion-input>
+                </ion-item>
+                <ion-item no-lines *ngIf="slideOneForm.controls.fsignupPassword.errors ">
+                  <p *ngIf="slideOneForm.controls.fsignupPassword.hasError('minlength')" style="color: red;">Password should be atleast 8
+                    char.</p>
+                  <p *ngIf="slideOneForm.controls.fsignupPassword.errors.required" style="color: red;">Password is required.</p>
+                </ion-item>
 
-    </form>
-  </div>
+                <!-- Gender -->
+              <ion-item>
+                <ion-label floating>Gender</ion-label>
+                <ion-select  style="color: whitesmoke;" type="text" formControlName="fsignupGender">
+                  <ion-option value="male">Male</ion-option>
+                  <ion-option value="female">Female</ion-option>
+                  <ion-option value="other">Other</ion-option>
+                </ion-select>
+              </ion-item>
+              <ion-item no-lines *ngIf="slideOneForm.controls.fsignupGender.errors  ">
+                <p *ngIf="slideOneForm.controls.fsignupGender.errors.required" style="color: red;">Please enter your gender.</p>
+              </ion-item>
 
-  <!-- Photo -->
-      <!-- add a button for this -->
-  <button ion-button (click)="uploadPhoto()">Upload Profile Pic</button>
+            </form>
 
-  <!-- Submit button -->
-  <ion-buttons>
-    <button ion-button block (click)="submitForm()" color="secondary">Submit</button>
-  </ion-buttons>
+        </ion-list>
+    </ion-slide>
+
+    <!-- slide two -->
+    <ion-slide>
+      <ion-list lines="none">
+
+        <form [formGroup]="slideTwoForm">
+
+          <!-- Date of Birth -->
+          <ion-item>
+            <ion-label >Date of Birth : </ion-label>
+            <ion-datetime style="color: whitesmoke;" displayFormat="MMM DD YYYY" formControlName="fsignupdob"></ion-datetime>
+          </ion-item>
+            <ion-item no-lines *ngIf="!slideTwoForm.controls.fsignupdob.valid  ">
+                <p>Enter your DOB</p>
+            </ion-item>
+
+            <!-- Orientation -->
+          <ion-item>
+            <ion-label floating>Orientation</ion-label>
+            <ion-select style="color: whitesmoke;" type="text" fromControlName="fsignupAge">
+              <ion-option value="Straight">Straight</ion-option>
+              <ion-option value="Gay">Gay</ion-option>
+              <ion-option value="Bisexual">Bisexual</ion-option>
+              <ion-option value="Lesbian">Lesbian</ion-option>
+            </ion-select>
+          </ion-item>
+
+          <!-- preference -->
+          <ion-item>
+            <ion-label  floating>Preference</ion-label>
+            <ion-select style="color: whitesmoke;" type="text" formControlName="fpref">
+              <ion-option value="male">Male</ion-option>
+              <ion-option value="female">Female</ion-option>
+              <ion-option value="other">Other</ion-option>
+            </ion-select>
+          </ion-item>          
+          <ion-item no-lines *ngIf="slideTwoForm.controls.fpref.errors ">
+            <p *ngIf="slideTwoForm.controls.fpref.errors.required" style="color: red;">Enter your Preference.</p>
+          </ion-item>
+
+          <!-- Spotify URL -->
+          <ion-item>
+            <ion-label floating>Spotify Profile URL</ion-label>
+            <ion-input style="color: whitesmoke;" type="text" formControlName="fsignupProfileURL"></ion-input>
+          </ion-item>
+          <ion-item no-lines *ngIf="slideTwoForm.controls.fsignupProfileURL.errors  ">
+            <p *ngIf="slideTwoForm.controls.fsignupProfileURL.errors.required" style="color: red;">Enter Spotify Profile Link.</p>
+          </ion-item>
+
+        </form>
+
+    </ion-list>
+
+    <button ion-button block [disabled]="!(slideOneForm && slideTwoForm)" color="primary" (click)="save()">Create Account!</button>
+    </ion-slide>
+
+  </ion-slides>
+
 
 </ion-content>

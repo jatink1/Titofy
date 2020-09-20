@@ -1,12 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the MyaccountPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+//import { HomePage } from '../home/home';
+import { LoginPage } from '../login/login';
 
 @IonicPage()
 @Component({
@@ -20,6 +15,11 @@ export class MyaccountPage {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad MyaccountPage');
+  }
+
+  logout(){
+    this.navCtrl.setRoot(LoginPage);
+    this.navCtrl.popToRoot();
   }
 
 }

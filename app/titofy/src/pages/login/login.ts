@@ -1,6 +1,7 @@
 import { Component } from "@angular/core";
 import { IonicPage, NavController, NavParams } from "ionic-angular";
 import { FormGroup, AbstractControl, FormBuilder, Validators } from "@angular/forms";
+import { HomePage } from "../home/home";
 
 @IonicPage()
 @Component({
@@ -35,7 +36,7 @@ export class LoginPage {
   login(){
     //to send data to server and verify credentials
 
-    this.navCtrl.setRoot('HomePage');
+    this.navCtrl.setRoot(HomePage);
     this.navCtrl.popToRoot();
   }
 

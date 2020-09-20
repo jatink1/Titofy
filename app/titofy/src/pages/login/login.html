@@ -6,24 +6,40 @@
 
 <ion-content padding>
 
-  <div>
+  <div class="formCSS">
     <form [formGroup]="userLogin">
 
       <!-- email field -->
       <ion-item>
-        <ion-label floating>Email</ion-label>
+        <ion-label floating color="light">Email</ion-label>
         <ion-input type="email" formControlName="femail"></ion-input>
       </ion-item>
 
       <!-- password field -->
       <ion-item>
-        <ion-label floating>Password</ion-label>
+        <ion-label floating color="light">Password</ion-label>
         <ion-input type="password" formControlName="fpassword"></ion-input>
       </ion-item>
 
     </form>
   </div>
 
-<button ion-button block (click)="signup()">Signup</button>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <button ion-button block  (click)="login()" color="pin">Login</button>
+      </ion-col>
+      <ion-col>
+        <button ion-button block (click)="signup()">Signup</button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
 
 </ion-content>
+
+
+<ion-footer>
+  <h1 style="color: whitesmoke;text-align: center; font-size: 70px; font-family: 'Kumbh Sans';">Titofy</h1>
+</ion-footer>
