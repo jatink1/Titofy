@@ -2,3 +2,8 @@ gunicorn==20.0.4
 Flask==1.1.2
 Flask_Pymongo==2.3.0
 PyJWT==1.7.1
+pandas==1.0.5
+numpy==1.18.5
+tensorflow==2.3.0
+scikit-learn==0.22.2.post1
+spotipy==2.16.0
