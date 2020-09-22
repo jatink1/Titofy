@@ -5,8 +5,8 @@ import csv
 
 filename = "Playlists_Of_User.csv"
 
-CLIENT_ID = '764905e80a8c4627bcfa8e5d5093d8b9'
-CLIENT_SECRET = 'af805b7bf3b042218fb585a4f5a88af4'
+CLIENT_ID = 'XXX'
+CLIENT_SECRET = 'XXX'
 
 
 token = oauth2.SpotifyClientCredentials(client_id = CLIENT_ID  , client_secret = CLIENT_SECRET)
